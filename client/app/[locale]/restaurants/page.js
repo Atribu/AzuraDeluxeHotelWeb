@@ -62,14 +62,14 @@ const page = () => {
   ];
 
   const cuisines2 = [
-    {
-      id: 1,
-      img: patisserie,
-      title: t4("title1"),
-      description: t4("subtitle1"),
-      text:t4("text1"),
-      link:"/restaurants/patisserie"
-    },
+    // {
+    //   id: 1,
+    //   img: patisserie,
+    //   title: t4("title1"),
+    //   description: t4("subtitle1"),
+    //   text:t4("text1"),
+    //   link:"/restaurants/patisserie"
+    // },
     {
       id: 2,
       img: mazurka,
@@ -97,7 +97,7 @@ const textsClinary=[t2("text"),t2("span"),t2("list1")]
       <MainRestaurantSection/>
       {/* <CuisinesCarouselSingle span={t3("subtitle")} header={t3("title1")} text={t3("text1")} cuisines={cuisines}/> */}
       <CuisinesCarousel span={t3("subtitle")} header={t3("title")} text={t3("text")} cuisines={cuisines}/>
-      <ClinaryReverseInfo img1={img1} img2={img2} span={t6("span")} header={t6("title")} text1={t6("text")} text2={t6("text2")}/>
+      {/* <ClinaryReverseInfo img1={img1} img2={img2} span={t6("span")} header={t6("title")} text1={t6("text")} text2={t6("text2")}/> */}
      <div className='flex flex-col relative'>
      <CuisinesCarousel span={t4("subtitle")} header={t4("title")} text={t4("text")} cuisines={cuisines2}/>
      </div>

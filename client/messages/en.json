@@ -1,910 +1,813 @@
-{   "LocaleSwitcher": {
+{
+  "LocaleSwitcher": {
     "label": "Change language",
     "locale": "{locale, select, en {EN} tr {TR} ru {RU} de {DE} other {Unknown}}"
-  
   },
-
-  "Header":{
-  "contact":"Contact",
-  "booknow":"Book Now",
-  "accommodation":"Accommodation",
-  "restaurants":"Restaurants And Cafes",
-  "beachPools":"Beach & Pools",
-  "experiences":"Experiences",
-  "kids":"Kids",
-  "spa":"SPA & WELLNESS",
-  "entertainment":"Entertainment",
-  "gallery":"Gallery",
-  "bars":"Bars ",
-  "ourhotel":"Our Hotel",
-  "allrooms":"All Rooms",
-  "letuscallyou":"Let Us Call You",
-  "deluxe":"Deluxe Room",
-   "family":"Family Room",
-    "fantasy":"Fantasy Room",
-    "handicap": "Disable Room",
-    "spor":"Spor"
-
-},
-
-"Reservation":{
-  "text":"Book Your Dream Stay",
-  "checkin":"Check In",
-  "checkout":"Check Out",
-  "guests":"Guests",
-   "search":"Search",
-   "adults":"Adult(s)",
-   "kids":"Child(ren)",
-   "reservationDates": "Reservation Dates",
-   "pickDates": "Pick up the dates for your stay",
-   "contactUs": "Contact us now"
-
-},
-
-"ContactPage":{
-  "contactTitle": "AZURA HOTEL CONTACT",
-  "connectWithUs": "Connect with Us",
-  "ourAddress": "Our Address:",
-  "phoneNumber": "Phone Number:",
-  "emailAddress": "Email Address:",
-  "dropMessage": "Feel Free to<br></br>Drop Us a Message",
-  "dropMessage2": "Feel Free to Drop Us a Message",
-  "connectPrompt": "Do you have anything in your brain to let us know? Kindly don't fail to connect with us through our contact form.",
-  "yourFullName": "Your Full Name",
-  "yourEmailAddress": "Your Email Address",
-  "yourMessage": "Your Message",
-  "saveDetails": "Save my name, email, and website in this browser for the next time I comment.",
-  "sendMessage": "SEND MESSAGE",
-  "addressShort": "Address",
-  "contactForMore": "CONTACT US FOR MORE",
-  "phoneColon": "Phone:",
-  "callCenter": "Call Center",
-  "bookNow": "BOOK NOW"
-},
-
-
-
-"Footer":{
-  "ourAddress": "Our Address:",
-  "phoneNumber": "Phone Number:",
-  "emailAddress": "Email :",
-
-  "phoneColon": "Phone:",
-  "callCenter": "Call Center",
-"category1":"Accomodation",
-"gallery":"Gallery",
-"entertainment":"Entertainment",
-"contact":"Contact",
-"category2":"Cuisine",
-"mainrestaurant":"Main Restaurant",
-"orchestra":"Orchestra",
-"bella":"Bella Azura",
-"ottoman":"Ottoman A'la Carte",
-"barcafes":" Bar and Cafes",
-"category3":"Activities",
-"spor":"Spor & Fitness",
-"kids":"Kids",
-"spa":"Spa",
-  "blog":"Blog",
-  "deluxe":"Deluxe Room",
-  "family":"Family Room",
-   "fantasy":"Fantasy Room",
- 
-  "policy":"Privacy Policy",
-  "bookings":" Bookings & Cancellations",
-  "terms":"Website Terms",
- 
-  "aboutcompany":"About Company",
-  "phone":"Phone: +90 242 517 12 34",
-  "email":"Email: info@azuradeluxe.com",
-  "address":" Avsallar Mah. İncekum Cad. No:76 Alanya/ Turkey",
-  "termsuse":"Terms of Use",
-  "notice":"Privacy Notice",
-  "sustainability":"Sustainability",
-  "kvkk":"KVKK",
- "covid":"COVID-19",
- "certificates": "Certificates",
- "ourpolicies": "Our Policies"
-  
+  "Header": {
+    "contact": "Contact",
+    "booknow": "Book Now",
+    "accommodation": "Accommodation",
+    "restaurants": "Restaurants And Cafes",
+    "beachPools": "Beach & Pools",
+    "experiences": "Experiences",
+    "kids": "Kids",
+    "spa": "SPA & WELLNESS",
+    "entertainment": "Entertainment",
+    "gallery": "Gallery",
+    "bars": "Bars ",
+    "ourhotel": "Our Hotel",
+    "allrooms": "All Rooms",
+    "letuscallyou": "Let Us Call You",
+    "deluxe": "Deluxe Room",
+    "family": "Deluxe Family Room",
+    "fantasy": "Superior Room",
+    "handicap": "Accessible Room",
+    "spor": "Sport"
   },
-
-  "Homepage":{
-    "subtitle":"Welcome to Azura Deluxe Resort & Spa – Where Dreams Meet Comfort!",
-    "title":"Luxury, comfort, quality, and impeccable service",
-    "text":"Set between the Mediterranean Sea and stunning Taurus Mountains, Azura Deluxe Resort & Spa spans 12,000 m² of beautiful seaside grounds. Conveniently located near Antalya and Gazipaşa airports, our 70-meter private beach with an inviting jetty awaits your arrival.",
-    "buttonText":"DISCOVER MORE",
-
-    "EmblaCarousel":{
-      "accommodation":"Accommodation",
-      "restaurants":"Restaurants",
-      "beachPools":"Beach & Pools",
-       "experiences":"Experiences",
-        "kids":"Kids"
+  "Reservation": {
+    "text": "Book Your Dream Stay",
+    "checkin": "Check In",
+    "checkout": "Check Out",
+    "guests": "Guests",
+    "search": "Search",
+    "adults": "Adult(s)",
+    "kids": "Child(ren)",
+    "reservationDates": "Reservation Dates",
+    "pickDates": "Pick up the dates for your stay",
+    "contactUs": "Contact us now"
+  },
+  "ContactPage": {
+    "contactTitle": "AZURA WORLD HOTEL CONTACT",
+    "connectWithUs": "Connect with Us",
+    "ourAddress": "Our Address:",
+    "phoneNumber": "Phone Number:",
+    "emailAddress": "Email Address:",
+    "dropMessage": "Feel Free to<br></br>Drop Us a Message",
+    "dropMessage2": "Feel Free to Drop Us a Message",
+    "connectPrompt": "Do you have anything you’d like to share with us? Please reach out via our contact form.",
+    "yourFullName": "Your Full Name",
+    "yourEmailAddress": "Your Email Address",
+    "yourMessage": "Your Message",
+    "saveDetails": "Save my name, email, and website in this browser for the next time I comment.",
+    "sendMessage": "SEND MESSAGE",
+    "addressShort": "Address",
+    "contactForMore": "CONTACT US FOR MORE",
+    "phoneColon": "Phone:",
+    "callCenter": "Call Center",
+    "bookNow": "BOOK NOW"
+  },
+  "Footer": {
+    "ourAddress": "Our Address:",
+    "phoneNumber": "Phone Number:",
+    "emailAddress": "Email :",
+    "phoneColon": "Phone:",
+    "callCenter": "Call Center",
+    "category1": "Accomodation",
+    "gallery": "Gallery",
+    "entertainment": "Entertainment",
+    "contact": "Contact",
+    "category2": "Cuisine",
+    "mainrestaurant": "Milos Restaurant",
+    "orchestra": "Saffron A'la Carte",
+    "bella": "Patisserie Art",
+    "ottoman": "Lobby Bistro Lounge",
+    "barcafes": " Bar and Cafes",
+    "category3": "Activities",
+    "spor": "Spor & Fitness",
+    "kids": "Kids",
+    "spa": "Spa",
+    "blog": "Blog",
+    "deluxe": "Deluxe Room",
+    "family": "Deluxe Family Room",
+    "fantasy": "Superior Room",
+    "policy": "Privacy Policy",
+    "bookings": " Bookings & Cancellations",
+    "terms": "Website Terms",
+    "aboutcompany": "About Company",
+    "phone": "Phone: +90 242 528 88 88",
+    "email": "Email: TBD",
+    "address": "Türkler Mah. Kargı Çayı Cad. No:10 Alanya/Antalya",
+    "termsuse": "Terms of Use",
+    "notice": "Privacy Notice",
+    "sustainability": "Sustainability",
+    "kvkk": "KVKK",
+    "covid": "COVID-19",
+    "certificates": "Certificates",
+    "ourpolicies": "Our Policies"
+  },
+  "Homepage": {
+    "subtitle": "Welcome to Azura World Hotel (Alanya) – All Inclusive Concept",
+    "title": "5-Star Comfort, All Inclusive Experience",
+    "text": "Azura World Hotel is located in Türkler, Alanya/Antalya. Opening: 2025. Category: 5-star. Concept: All Inclusive. The hotel has 188 rooms, 6 floors and 2 elevators. Check-in is 14:00 and check-out is 12:00. The beach is 1 km away and a shuttle service is available.",
+    "buttonText": "DISCOVER MORE",
+    "EmblaCarousel": {
+      "accommodation": "Accommodation",
+      "restaurants": "Restaurants",
+      "beachPools": "Beach & Pools",
+      "experiences": "Experiences",
+      "kids": "Kids"
     },
-
-    "TwoImageSection":{
-      "subtitle":" UNFORGETTABLE MOMENTS AT AZURA DELUXE",
-      "title":"Discover the Azura experience now!",
-      "text1":" Located on a picturesque 12,000 m² area between the turquoise Mediterranean Sea and the majestic Taurus Mountains, Azura Deluxe Resort & Spa welcomes you with its private 70-meter beach, complete with an inviting jetty designed for ultimate relaxation.",
-      "text2":"Dive into serenity at our various pools, featuring an outdoor swimming pool, heated indoor pools, and exhilarating water slides, ensuring fun and relaxation for guests of all ages. Your luxurious and comfortable escape awaits at Azura Deluxe, where every moment turns into a cherished memory.",
-      "buttonText":" Go to gallery"
+    "TwoImageSection": {
+      "subtitle": "UNFORGETTABLE MOMENTS AT AZURA WORLD",
+      "title": "Discover the Azura World experience now!",
+      "text1": "Azura World Hotel offers a 5-star All Inclusive stay in Türkler (Alanya), with comfortable rooms, a Spa & Wellness area, and multiple food & beverage points throughout the day.",
+      "text2": "Enjoy Indoor Pool, Oasis Pool and an Aquapark with 13 slides. The beach area stretches 125 m and offers sunbeds, umbrellas, cabins, WC and shower facilities. The beach is 1 km away and a shuttle service is available.",
+      "buttonText": " Go to gallery"
     },
-
-    "Accomodation":{
-      "subtitle":" Choose Your Perfect Accommodation",
-      "title":"Indulge in a Luxury Stay Experience",
-      "roomTitle1":" Deluxe Room",
-      "roomText1":" Located in our main building, this stylish room of 30-32 m² offers charming views of the sea, land, or partial sea views. It features one double bed and one single bed, comfortably accommodating up to 3 adults and 1 child. The room includes a modern bathroom and a relaxing sitting area for your convenience.",
-      "area1":" 30-32 m²",
-      "view1":"Land / Sea View",
-      "roomTitle2":"  Fantasy Room",
-      "roomText2":" Our exclusively designed Fantasy Rooms offer an impressive 58 m² of space with breathtaking sea views. Each room features one elegant bedroom with a comfortable double bed and a luxurious private terrace of 25 m², complete with a jacuzzi and sun loungers—perfect for couples seeking romantic relaxation and privacy.",
-      "area2":"  58 m²",
-      "view2":"Sea View",
-      "roomTitle3":" Family Room",
-      "roomText3":"  Located in our main building, our spacious Family Rooms offer 50 m² of comfort and feature two separate bedrooms connected by a door, providing both privacy and convenience. Each Family Room includes one double bed and two single beds, ideal for families or groups. Available with either sea or land views, these rooms comfortably accommodate up to 4 adults and 1 child, or 3 adults and 1 child, ensuring a delightful stay for the entire famil",
-      "area3":"  50 m²",
-      "view3":" Land / Sea View",
-      "buttonText":"EXPLORE"
+    "Accomodation": {
+      "subtitle": " Choose Your Perfect Accommodation",
+      "title": "Comfortable Room Options",
+      "roomTitle1": " Deluxe Room",
+      "roomText1": "Deluxe Rooms are 22–24.99 m². In-room amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+      "area1": " 22–24.99 m²",
+      "view1": "TBD",
+      "roomTitle2": " Superior Room",
+      "roomText2": "Superior Rooms are 25–40 m². In-room amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+      "area2": " 25–40 m²",
+      "view2": "TBD",
+      "roomTitle3": " Deluxe Family Room",
+      "roomText3": "Deluxe Family Rooms are 43–53 m². In-room amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+      "area3": " 43–53 m²",
+      "view3": "TBD",
+      "buttonText": "EXPLORE"
     },
-
-    "Essentials":{
+    "Essentials": {
       "subtitle": "Explore Our Exceptional Services",
       "title": "All You Need for Ultimate Comfort",
-      "title1":" Private Beach & Pier",
-      "text1":"Relax and unwind on our exclusive 70-meter private beach, complete with comfortable loungers, sun umbrellas, and a luxurious pier designed especially for leisurely moments under the sun",
-      "title2":" Pools for Every Mood",
-      "text2":"Refresh yourself at our spacious outdoor swimming pool, enjoy our heated indoor pools, or experience the excitement of our Aqua Park featuring 4 thrilling slides. Our little guests will also enjoy dedicated children's pools.",
-      "title3":" World-Class Dining",
-      "text3":"Indulge your palate with our ultra all-inclusive dining experience, featuring lavish open buffets and elegant à la carte restaurants offering Turkish, Mediterranean, and international culinary delights.",
-      "title4":"Fun for Kids",
-      "text4":" Our Mini Club (ages 4-12) provides endless fun with playgrounds, supervised game rooms, daily mini discos, and special children's buffets designed to keep your little ones entertained and happy.",
-      "title5":" Entertainment & Activities",
-      "text5":" Fill your days with exciting entertainment and engaging activities suitable for all ages, including live performances, water games, fitness classes, table tennis, darts, boccia, and much more.",
-      "title6":"Spa & Wellness",
-      "text6":" Relax, rejuvenate, and refresh at our Symphony Spa & Wellness Center, featuring a traditional Turkish bath, sauna, steam room, and a range of relaxing massages and treatments. A fully-equipped fitness center is also available for your convenience.",
-      "buttonText":" Follow us for more"
+      "title1": "Beach Area",
+      "text1": "Beach length: 125 m. The beach offers 120 sunbeds and 60 umbrellas; cabins, WC and showers are available. The beach is 1 km away and a shuttle service is provided.",
+      "title2": "Pools & Aquapark",
+      "text2": "Indoor Pool (1 main + 1 kids pool), Oasis Pool and an Aquapark with 13 slides. Aquapark hours: 10:00–12:00 / 14:00–17:00. Indoor Pool is seasonally heated (on specific dates).",
+      "title3": "All Inclusive Dining",
+      "text3": "Milos Restaurant (Floor B) serves buffet meals by schedule. Saffron A’la Carte is available with reservation. Patisserie Art serves desserts. Azura Beach offers snack & beverage service.",
+      "title4": "For Kids",
+      "text4": "Mini Club is available as a complimentary service. (TBD)",
+      "title5": "Extra Services",
+      "text5": "Wi-Fi, beach towels/sunbeds/umbrellas and the shuttle to the beach are complimentary. (TBD)",
+      "title6": "Spa & Wellness",
+      "text6": "Indoor Pool, steam room, Turkish bath, sauna and salt room are complimentary; massages are paid. Working hours: 08:00 – 19:00.",
+      "buttonText": " Follow us for more"
     },
-
-    "BackgroundSection":{
-      "subtitle":" Experience the Harmony of Luxury and Nature at Azura Deluxe.",
-      "title":" Where Luxury Meets the Beauty of Nature",
-      "text":" Azura Deluxe Resort & Spa is perfectly nestled between the breathtaking Mediterranean Sea and the majestic Taurus Mountains, offering you an exceptional escape in luxurious comfort. With its private beach, elegant accommodations, world-class dining experiences, and sophisticated spa facilities, Azura Deluxe provides everything you need for an unforgettable holiday filled with relaxation and indulgence. Experience the Harmony of Luxury and Nature at Azura Deluxe.",
-      "buttonText":" Discover More"
+    "BackgroundSection": {
+      "subtitle": "Azura World Hotel",
+      "title": "All Inclusive Holiday in Alanya",
+      "text": "Azura World Hotel is a 5-star property in Türkler (Alanya) with an All Inclusive concept. Services and hours may vary depending on season and hotel management.",
+      "buttonText": " Discover More"
     }
   },
-
-  "Rooms":{
-    "header":"Our Rooms",
-    "buttonText1":"Deluxe Room",
-    "buttonText2":"Family Room",
-    "buttonText3":" Fantasy Room",
-
-    "subtitle":" COMFORTABLE STAY FOR YOU AND YOUR FAMILY",
-    "title":"Feel Right at Home in Our Luxurious Rooms",
-    "text":"Enjoy the comfort and elegance of Azura Deluxe Resort & Spa's beautifully appointed rooms, each thoughtfully designed to offer relaxation, convenience, and luxury. Whether you choose a Deluxe Room with stunning views, a spacious Family Room ideal for families, or a romantic Fantasy Room with exclusive amenities, you'll find the perfect sanctuary to unwind and recharge. All our rooms feature modern comforts including daily refreshed minibars, premium bath amenities, tea and coffee-making facilities, and high-speed Wi-Fi, ensuring your stay is both memorable and convenient.",
-    "checkin":"CHECK-IN: 14:00",
-    "checkout":"CHECK-OUT: 12:00",
-
-    "Room1":{
-      "title":"Deluxe Room",
-     "text": "Our elegant and comfortable rooms, sized between 30–32 m², are located in our main building. These rooms offer land, partial sea, or full sea views and are furnished with one double bed, one single bed, and one sofa. There are a total of 288 standard deluxe rooms and 4 accessible rooms. For the comfort of all our guests, specially designed accessible rooms are also available on the ground floor.",
-      "area":"30-32 m²",
-      "view":"Sea, Land, or Partial Sea View or Sea View",
-      "buttonText":"EXPLORE"
+  "Rooms": {
+    "header": "Our Rooms",
+    "buttonText1": "Deluxe Room",
+    "buttonText2": "Deluxe Family Room",
+    "buttonText3": " Superior Room",
+    "subtitle": " COMFORTABLE STAY FOR YOU AND YOUR FAMILY",
+    "title": "Feel Right at Home in Our Rooms",
+    "text": "Azura World Hotel has a total of 188 rooms. All rooms feature TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi. Linen is changed every 3 days; towels are changed upon guest request.",
+    "checkin": "CHECK-IN: 14:00",
+    "checkout": "CHECK-OUT: 12:00",
+    "Room1": {
+      "title": "Deluxe Room",
+      "text": "Deluxe Rooms are 22–24.99 m² and include the standard in-room amenities.",
+      "area": "22–24.99 m²",
+      "view": "TBD",
+      "buttonText": "EXPLORE"
     },
-
-    "Room2":{
-      "title":"Family Room",
-      "text":"Ideal for families and groups, our spacious Family Rooms offer 50 m² of comfort with two beautifully decorated bedrooms connected by a convenient door. Each Family Room includes one double bed and two single beds, providing flexibility and space to comfortably accommodate up to 2 adults and 2 children, 3 adults and 1 child, or 4 adults and 1 child. Choose from enchanting sea or scenic land views to enhance your perfect stay.",
-      "area":" 50 m²",
-      "view":"Land or Sea View",
-      "buttonText":"EXPLORE"
+    "Room2": {
+      "title": "Deluxe Family Room",
+      "text": "Deluxe Family Rooms are 43–53 m² and include the standard in-room amenities.",
+      "area": "43–53 m²",
+      "view": "TBD",
+      "buttonText": "EXPLORE"
     },
-
-    "Room3":{
-      "title":" Fantasy Room",
-      "text":"Our Fantasy Rooms offer an exclusive and romantic getaway for couples. Each elegantly designed room spans 58 m², featuring breathtaking sea views and a private 25 m² terrace. Indulge yourselves with the luxurious jacuzzi and relax comfortably on the terrace sunbeds. With one stylish bedroom equipped with a spacious double bed, Fantasy Rooms provide the perfect romantic ambiance for two.",
-      "area":" 58 m²",
-      "view":" Sea View",
-      "buttonText":"EXPLORE"
+    "Room3": {
+      "title": " Superior Room",
+      "text": "Superior Rooms are 25–40 m² and include the standard in-room amenities.",
+      "area": "25–40 m²",
+      "view": "TBD",
+      "buttonText": "EXPLORE"
     },
-
-    "Parallax":{
-      "subtitle":"The Essential In-Room Amenities",
-      "title":"Everything You Need, Right in Your Room",
-      "text":"Enjoy a seamless stay with all the essential amenities at your fingertips. From daily minibar replenishments to premium bath essentials, secure room access, and uninterrupted entertainment with LED TV and 24-hour WiFi, we ensure your comfort at every moment.",
-      "span1":"Mini Bar",
-      "text1":"Daily replenishments include bottled water, soft drinks (Coca Cola, Fanta, Sprite), fruit juices, and soda.",
-      "span2":"Cosmetics",
-      "text2":" Bathroom essentials include shampoo, conditioner, shower gel, soap, body lotion, loofah, toothbrush & toothpaste, shower cap, razor, makeup remover cotton, and a hairdryer.",
-      "span3":"Room Access",
-      "text3":" All doors are securely operated using a convenient electronic key card system for easy access",
-      "span4":"Wifi & LedTV ",
-      "text4":"LED TV with international and national satellite channels, radio, and 24-hour WiFi access."
+    "Parallax": {
+      "subtitle": "The Essential In-Room Amenities",
+      "title": "Everything You Need, Right in Your Room",
+      "text": "All rooms include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk, high-speed Wi-Fi, balcony (table & chairs), scale, illuminated makeup mirror, emergency phone and hairdryer. Pillow menu is available with extra charge.",
+      "span1": "Mini Bar",
+      "text1": "Minibar includes water and soft drinks.",
+      "span2": "Cosmetics",
+      "text2": "Bathroom set and essential toiletries are available.",
+      "span3": "Room Access",
+      "text3": "Electronic key card system for secure access.",
+      "span4": "Wifi & LedTV ",
+      "text4": "High-speed Wi-Fi and TV are available."
     }
-
   },
-
-  "FamilyRoom":{
-    "subtitle": "Comfortable Family Stay with Sea or Land View",
-    "title": "Family Room",
-    "text": "Enjoy a seamless stay",
-    "span1": "Land / Sea View",
-      "span2":"1-4 Adult + 1-3 Children",
-      "span3":" 1 Double Bed and 2 Single Beds",
-
-      "RoomFeatures":{
-        "subtitle":"FUN FOR ALL AGES",
-        "title":"Family Room",
-        "text":" Our Family Rooms, perfectly located in the main building with a generous 50 m² space, offer beautiful sea or land views. Each room features two separate bedrooms (connected by an intermediate door): one bedroom with a comfortable double bed and one bedroom with two single beds, along with one shared bathroom. Ideal for families or groups, these rooms comfortably accommodate up to 2 adults + 2 children, 3 adults + 1 child, or 4 adults + 1 child.",
-        "subtitle2":" Amenities Designed for Families",
-        "span1": "1 Double Bed",
-        "span2": "2 Single Beds",
-        "subtitle3":"Room Features",
-        "text2":"Services provided in all rooms include an Electronic Key Card System, daily minibar refill, premium bathroom cosmetics, and tea-coffee making facilities.",
-        "feature1":"50 m2",
-        "feature2":"Makeup Table",
-        "feature3":"No Smoke",
-        "feature4":"Mini Bar",
-        "feature5":"Safe Box",
-        "feature6":"Hair Dryer",
-        "feature7":"Bath Essentials",
-        "feature8":"Tea & Coffee Setup",
-        "feature9":"LedTv & Wifi",
-        "feature10":"Balcony",
-        "feature11":"Shower",
-        "sofa":"1 Sofa"
-      },
-
-      "BackgroundSection":{
-        "subtitle":" EXCLUSIVE PRIVILEGES",
-        "title":" Family Room Benefits",
-        "text":" Guests staying in our Family Rooms enjoy comfortable accommodations featuring two separate bedrooms with stunning sea or land views. For stays of 7 nights or more, enjoy a complimentary dinner at one of our elegant A’la Carte restaurants",
-        "list1":" A’la Carte Dining: One complimentary visit for stays of 7+ nights.",
-        "list2":"Spa & Wellness: Complimentary access to our Turkish Bath, sauna, steam room, and fitness center.",
-        "buttonText":" DISCOVER MORE"
-      },
-
-      "RoomTour": {
-        "span": "360° Virtual Room Tour",
-        "title": "Family Room – Land View 360°",
-        "text": "Explore every angle of our spacious and comfortable Family Room’s natural land view through an immersive 360° virtual tour.",
-        "span2": "360° Virtual Room Tour",
-        "title2": "Family Room – Sea View 360°",
-        "text2": "Discover the stunning sea vistas of our stylish Family Room in full 360° with our virtual room tour."
-      },
-
-      "OtherOptions":{
-        "subtitle":" Choose Your Ideal Room",
-        "title":" Explore Other Comfortable Options",
-        "span1":"ROOM FOR ALL THE FAMILY MEMBERS",
-        "title1":"Family Room",
-        "area1":" 50 m²",
-        "person1":"Up to 4 adults + 1 child",
-        "text1":" Our Family Rooms offer spacious and comfortable accommodation designed especially for families. Featuring two separate bedrooms connected by an interior door—one with a double bed and one with two single beds—these rooms provide relaxing sea or land views, making them perfect for creating unforgettable family memories.",
-        "span2":"FRESHEN UP WITHOUT LEAVING YOUR ROOM",
-        "title2":"Fantasy Room",
-        "area2":" 58 m²",
-        "person2":"2 adults (couples only)",
-        "text2":"Our exclusive Fantasy Rooms offer a romantic getaway, featuring stunning sea views and a luxurious 25 m² terrace complete with a private jacuzzi and comfortable sunbeds. With one elegantly designed bedroom including a double bed, these rooms are perfect for couples seeking privacy and relaxation.",
-        "buttonText":" LEARN MORE"
-       
-      }
+  "FamilyRoom": {
+    "subtitle": "Comfortable Stay with Extra Space",
+    "title": "Deluxe Family Room",
+    "text": "Deluxe Family Rooms are 43–53 m² and offer a spacious stay option.",
+    "span1": "TBD",
+    "span2": "TBD",
+    "span3": "TBD",
+    "RoomFeatures": {
+      "subtitle": "FUN FOR ALL AGES",
+      "title": "Deluxe Family Room",
+      "text": "Deluxe Family Rooms are 43–53 m². Amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+      "subtitle2": "Amenities",
+      "span1": "Spacious layout",
+      "span2": "Balcony (table & chairs)",
+      "subtitle3": "Room Features",
+      "text2": "Standard in-room services are available. Linen is changed every 3 days; towels are changed upon guest request.",
+      "feature1": "43–53 m2",
+      "feature2": "Makeup Table",
+      "feature3": "No Smoke",
+      "feature4": "Mini Bar",
+      "feature5": "Safe Box",
+      "feature6": "Hair Dryer",
+      "feature7": "Bath Essentials",
+      "feature8": "Tea & Coffee Setup",
+      "feature9": "LedTv & Wifi",
+      "feature10": "Balcony",
+      "feature11": "Shower",
+      "sofa": "TBD"
+    },
+    "BackgroundSection": {
+      "subtitle": " EXCLUSIVE PRIVILEGES",
+      "title": " Deluxe Family Room Benefits",
+      "text": "Enjoy the All Inclusive concept and hotel facilities for a comfortable holiday experience.",
+      "list1": "A’la Carte Dining: One complimentary visit for stays of 7+ nights (reservation required).",
+      "list2": "Spa & Wellness: Indoor Pool, steam room, Turkish bath, sauna and salt room are complimentary; massages are paid.",
+      "buttonText": " DISCOVER MORE"
+    },
+    "RoomTour": {
+      "span": "360° Virtual Room Tour",
+      "title": "Deluxe Family Room – 360°",
+      "text": "TBD",
+      "span2": "360° Virtual Room Tour",
+      "title2": "Deluxe Family Room – 360°",
+      "text2": "TBD"
+    },
+    "OtherOptions": {
+      "subtitle": " Choose Your Ideal Room",
+      "title": " Explore Other Comfortable Options",
+      "span1": "COMPACT OPTION",
+      "title1": "Deluxe Room",
+      "area1": "22–24.99 m²",
+      "person1": "TBD",
+      "text1": "A comfortable Deluxe room with standard amenities.",
+      "span2": "MORE SPACE",
+      "title2": "Superior Room",
+      "area2": "25–40 m²",
+      "person2": "TBD",
+      "text2": "A more spacious room option for extra comfort.",
+      "buttonText": " LEARN MORE"
+    }
   },
-
-  "FantasyRoom":{
-    "subtitle":" EXCLUSIVE ROMANTIC ESCAPE",
-      "title":" Fantasy Room",
-      "text":"Enjoy an unforgettable romantic getaway in our Fantasy Rooms, featuring an exclusive 25 m² terrace with a private jacuzzi and luxurious sunbeds. Each beautifully designed room offers stunning sea views and includes a comfortable bedroom with one double bed, perfect for couples seeking privacy and luxury.",
-      "span1":" Sea View",
-      "span2":"2 Adults (Couples Only)",
-      "span3":"1 Bedrooms / 1 King Size Bed",
-
-      "RoomFeatures":{
-        "subtitle":"EXCLUSIVE & ROMANTIC ESCAPE",
-        "title":"Fantasy Room",
-        "text":" Located in our main building, Fantasy Rooms offer an exclusive space of 58 m² designed especially for couples seeking romance and privacy. Featuring a beautifully appointed bedroom with one luxurious double bed, each room has a private 25 m² terrace with breathtaking sea views, complete with an elegant jacuzzi and comfortable sunbeds. These rooms comfortably accommodate 2 adults and promise an unforgettable, romantic experience.",
-        "subtitle2":"  Exclusive Romantic Amenities",
-        "span1":"Designed Specifically for Couples",
-        "span2":"1 King Size Bed ",
-        "span3":" Private Terrace with Jacuzzi",
-        "subtitle3":"Room Features",
-        "text2":"All Fantasy Rooms feature an Electronic Key Card System, daily minibar refill, premium bathroom cosmetics, tea and coffee making facilities, comfortable slippers, and free Wi-Fi.These rooms are exclusively designed for romantic stays, featuring a spacious 58 m² area, one bedroom with a double bed, and a 25 m² terrace offering a private jacuzzi and sunbeds. Please Note: Fantasy Rooms accommodate only 2 adults (couples). Extra beds, cribs, or independent pools are not available for this room type.",
-        "feature1":"58 m2",
-        "feature2":"Makeup Table",
-        "feature3":"No Smoke",
-        "feature4":"Mini Bar",
-        "feature5":"Safe Box",
-        "feature6":"Hair Dryer",
-        "feature7":"Bath Essentials",
-        "feature8":"Tea & Coffee Setup",
-        "feature9":"LedTv & Wifi",
-        "feature10":"Balcony",
-        "feature11":"Shower"
-      },
-
-      "BackgroundSection":{
-        "subtitle":" EXCLUSIVE PRIVILEGES",
-        "title":" Fantasy Room Benefits",
-        "text":" Guests staying in our Fantasy Rooms enjoy comfortable accommodations featuring bedroom with stunning sea views. For stays of 7 nights or more, enjoy a complimentary dinner at one of our elegant A’la Carte restaurants",
-        "list1":" A’la Carte Dining: One complimentary visit for stays of 7+ nights.",
-        "list2":"Spa & Wellness: Complimentary access to our Turkish Bath, sauna, steam room, and fitness center.",
-        "buttonText":" DISCOVER MORE"
-      },
-
-      "RoomTour": {
-        "span": "360° Virtual Room Tour",
-        "title": "Fantasy Room – Sea View 360°",
-        "text": "Explore our romantic Fantasy Room with a fully immersive 360° virtual tour focused solely on its stunning sea views and elegant interiors."
-      },
-
-      "OtherOptions":{
-        "subtitle":" Choose Your Ideal Room",
-        "title":" Explore Other Comfortable Options",
-        "span1":"ROOM FOR ALL THE FAMILY MEMBERS",
-        "title1":"Family Room",
-        "area1":" 50 m²",
-        "person1":"Up to 4 adults + 1 child",
-        "text1":" Our Family Rooms offer spacious and comfortable accommodation designed especially for families. Featuring two separate bedrooms connected by an interior door—one with a double bed and one with two single beds—these rooms provide relaxing sea or land views, making them perfect for creating unforgettable family memories.",
-        "span2":"FRESHEN UP WITHOUT LEAVING YOUR ROOM",
-        "title2":"Fantasy Room",
-        "area2":" 58 m²",
-        "person2":"2 adults (couples only)",
-        "text2":"Our exclusive Fantasy Rooms offer a romantic getaway, featuring stunning sea views and a luxurious 25 m² terrace complete with a private jacuzzi and comfortable sunbeds. With one elegantly designed bedroom including a double bed, these rooms are perfect for couples seeking privacy and relaxation.",
-        "buttonText":" LEARN MORE"
-       
-      }
+  "FantasyRoom": {
+    "subtitle": "COMFORTABLE & SPACIOUS",
+    "title": " Superior Room",
+    "text": "Superior Rooms are 25–40 m². Amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+    "span1": "TBD",
+    "span2": "TBD",
+    "span3": "TBD",
+    "RoomFeatures": {
+      "subtitle": "COMFORTABLE STAY",
+      "title": "Superior Room",
+      "text": "Superior Rooms are 25–40 m² and offer the standard in-room amenities for a comfortable stay.",
+      "subtitle2": "Amenities",
+      "span1": "Electronic key card",
+      "span2": "Minibar (water & soft drinks)",
+      "span3": "VRF air-conditioning",
+      "subtitle3": "Room Features",
+      "text2": "TV, tea & coffee set, safe, minibar (water & soft drinks), work desk and high-speed Wi-Fi.",
+      "feature1": "25–40 m2",
+      "feature2": "Makeup Table",
+      "feature3": "No Smoke",
+      "feature4": "Mini Bar",
+      "feature5": "Safe Box",
+      "feature6": "Hair Dryer",
+      "feature7": "Bath Essentials",
+      "feature8": "Tea & Coffee Setup",
+      "feature9": "LedTv & Wifi",
+      "feature10": "Balcony",
+      "feature11": "Shower"
+    },
+    "BackgroundSection": {
+      "subtitle": " EXCLUSIVE PRIVILEGES",
+      "title": " Superior Room Benefits",
+      "text": "Enjoy the All Inclusive concept and hotel facilities for a comfortable holiday experience.",
+      "list1": "A’la Carte Dining: One complimentary visit for stays of 7+ nights (reservation required).",
+      "list2": "Spa & Wellness: Indoor Pool, steam room, Turkish bath, sauna and salt room are complimentary; massages are paid.",
+      "buttonText": " DISCOVER MORE"
+    },
+    "RoomTour": {
+      "span": "360° Virtual Room Tour",
+      "title": "Superior Room – 360°",
+      "text": "TBD"
+    },
+    "OtherOptions": {
+      "subtitle": " Choose Your Ideal Room",
+      "title": " Explore Other Comfortable Options",
+      "span1": "FOR FAMILIES",
+      "title1": "Deluxe Family Room",
+      "area1": "43–53 m²",
+      "person1": "TBD",
+      "text1": "A spacious family option with standard amenities.",
+      "span2": "COMPACT OPTION",
+      "title2": "Deluxe Room",
+      "area2": "22–24.99 m²",
+      "person2": "TBD",
+      "text2": "A comfortable Deluxe room with standard amenities.",
+      "buttonText": " LEARN MORE"
+    }
   },
-
-  "DeluxeRoom":{
-    "subtitle":" Elegant Comfort & Relaxation",
-      "title":" Deluxe Room",
-      "text":"",
-      "span1":"Sea, land, and partial sea view",
-      "span2":"3 Adults + 1 child",
-      "span3":"1 Double Bed + 1 Single Bed + 1 Sofa",
-
-      "RoomFeatures":{
-        "subtitle":"Comfort Meets Elegance",
-        "title":"Deluxe Room",
-       "text": "Our Deluxe Rooms offer 30–32 m² of stylish and comfortable living space with magnificent sea, land, or partial sea views. Elegantly designed, these rooms feature one double bed, one single bed, a sofa, a modern bathroom, and a seating area; ideal for couples or small groups seeking a peaceful getaway. There are a total of 288 standard deluxe rooms and 4 specially designed accessible rooms. For the comfort of all our guests, the accessible rooms are located on the ground floor.",
-        "subtitle2":" Thoughtful Amenities",
-         "span1": "1 Double Bed",
-  "span2": "1 Single Bed",
-        "subtitle3":"Room Features",
-        "text2":"All rooms at Azura Deluxe Resort & Spa feature an Electronic Key Card System, daily minibar refill, premium bathroom cosmetics, and tea-coffee making facilities.",
-        "feature1":"30-32 m2",
-        "feature2":"Makeup Table",
-        "feature3":"No Smoke",
-        "feature4":"Mini Bar",
-        "feature5":"Safe Box",
-        "feature6":"Hair Dryer",
-        "feature7":"Bath Essentials",
-        "feature8":"Tea & Coffee Setup",
-        "feature9":"LedTv & Wifi",
-        "feature10":"Balcony",
-        "feature11":"Shower",
-          "sofa":"1 Sofa"
-      },
-
-      "BackgroundSection":{
-        "subtitle":" EXCLUSIVE PRIVILEGES",
-        "title":" Deluxe Room Benefits",
-        "text":" Guests staying in our rooms enjoy comfortable accommodations featuring two separate bedrooms with stunning sea or land views. For stays of 7 nights or more, enjoy a complimentary dinner at one of our elegant A’la Carte restaurants",
-        "list1":" A’la Carte Dining: One complimentary visit for stays of 7+ nights.",
-        "list2":"Spa & Wellness: Complimentary access to our Turkish Bath, sauna, steam room, and fitness center.",
-        "buttonText":" DISCOVER MORE"
-      },
-
-      "RoomTour": {
-        "span": "360° Virtual Room Tour",
-        "title": "Deluxe Room – Land View 360°",
-        "text": "Explore every angle of our spacious and comfortable Deluxe Room’s natural land view through a fully immersive 360° virtual tour.",
-        "span2": "360° Virtual Room Tour",
-        "title2": "Deluxe Room – Sea View 360°",
-        "text2": "Experience the stunning sea vistas of our elegantly designed Deluxe Room in full 360° with our virtual tour.",
-        "span3": "360° Virtual Room Tour",
-        "title3": "Deluxe Room – Partial Sea View 360°",
-        "text3": "Discover the elegant design and partial sea vistas of our Deluxe Room through an immersive 360° virtual tour focused on its stunning partial sea views."
-      },
-      
-
-      "OtherOptions":{
-        "subtitle":" Choose Your Ideal Room",
-        "title":" Explore Other Comfortable Options",
-        "span1":"ROOM FOR ALL THE FAMILY MEMBERS",
-        "title1":"Family Room",
-        "area1":" 50 m²",
-        "person1":"Up to 4 adults + 1 child",
-        "text1":" Our Family Rooms offer spacious and comfortable accommodation designed especially for families. Featuring two separate bedrooms connected by an interior door—one with a double bed and one with two single beds—these rooms provide relaxing sea or land views, making them perfect for creating unforgettable family memories.",
-        "span2":"FRESHEN UP WITHOUT LEAVING YOUR ROOM",
-        "title2":"Fantasy Room",
-        "area2":" 58 m²",
-        "person2":"2 adults (couples only)",
-        "text2":"Our exclusive Fantasy Rooms offer a romantic getaway, featuring stunning sea views and a luxurious 25 m² terrace complete with a private jacuzzi and comfortable sunbeds. With one elegantly designed bedroom including a double bed, these rooms are perfect for couples seeking privacy and relaxation.",
-        "buttonText":" LEARN MORE"
-       
-      }
+  "DeluxeRoom": {
+    "subtitle": " Elegant Comfort & Relaxation",
+    "title": " Deluxe Room",
+    "text": "",
+    "span1": "TBD",
+    "span2": "TBD",
+    "span3": "TBD",
+    "RoomFeatures": {
+      "subtitle": "Comfort Meets Elegance",
+      "title": "Deluxe Room",
+      "text": "Deluxe Rooms are 22–24.99 m². Amenities include TV, tea & coffee set, safe, minibar (water & soft drinks), VRF air-conditioning, electronic key card, work desk and high-speed Wi-Fi.",
+      "subtitle2": "Thoughtful Amenities",
+      "span1": "Electronic key card",
+      "span2": "Minibar (water & soft drinks)",
+      "subtitle3": "Room Features",
+      "text2": "Standard in-room services are available. Pillow menu is available with extra charge.",
+      "feature1": "22–24.99 m2",
+      "feature2": "Makeup Table",
+      "feature3": "No Smoke",
+      "feature4": "Mini Bar",
+      "feature5": "Safe Box",
+      "feature6": "Hair Dryer",
+      "feature7": "Bath Essentials",
+      "feature8": "Tea & Coffee Setup",
+      "feature9": "LedTv & Wifi",
+      "feature10": "Balcony",
+      "feature11": "Shower",
+      "sofa": "TBD"
+    },
+    "BackgroundSection": {
+      "subtitle": " EXCLUSIVE PRIVILEGES",
+      "title": " Deluxe Room Benefits",
+      "text": "Enjoy the All Inclusive concept and hotel facilities for a comfortable holiday experience.",
+      "list1": "A’la Carte Dining: One complimentary visit for stays of 7+ nights (reservation required).",
+      "list2": "Spa & Wellness: Indoor Pool, steam room, Turkish bath, sauna and salt room are complimentary; massages are paid.",
+      "buttonText": " DISCOVER MORE"
+    },
+    "RoomTour": {
+      "span": "360° Virtual Room Tour",
+      "title": "Deluxe Room – 360°",
+      "text": "TBD",
+      "span2": "360° Virtual Room Tour",
+      "title2": "Deluxe Room – 360°",
+      "text2": "TBD",
+      "span3": "360° Virtual Room Tour",
+      "title3": "Deluxe Room – 360°",
+      "text3": "TBD"
+    },
+    "OtherOptions": {
+      "subtitle": " Choose Your Ideal Room",
+      "title": " Explore Other Comfortable Options",
+      "span1": "FOR FAMILIES",
+      "title1": "Deluxe Family Room",
+      "area1": "43–53 m²",
+      "person1": "TBD",
+      "text1": "A spacious family option with standard amenities.",
+      "span2": "MORE SPACE",
+      "title2": "Superior Room",
+      "area2": "25–40 m²",
+      "person2": "TBD",
+      "text2": "A more spacious room option for extra comfort.",
+      "buttonText": " LEARN MORE"
+    }
   },
-
   "HandicapRoom": {
     "title": "Accessible Room",
     "subtitle": "Comfortable accommodation designed to meet accessibility standards",
-    "span1": "Step-free entrance",
-    "span2": "Roll-in shower with grab bars",
-    "span3": "Spacious maneuvering area",
-
+    "span1": "Accessible accommodation",
+    "span2": "Accessible WC in public areas",
+    "span3": "Pool lift available",
     "RoomFeatures": {
       "title": "Room Features",
       "subtitle": "Accessibility",
-      "text": "Our room is optimized for wheelchair users and guests with limited mobility.",
+      "text": "Azura World Hotel provides 2 accessible rooms. Accessible WC is available in public areas and a pool lift is available.",
       "subtitle2": "Accessible Bathroom",
       "subtitle3": "Safety and Comfort",
-      "text2": "Equipped with visual/audible alarms and an emergency call system.",
+      "text2": "TBD",
       "span1": "Wheelchair access",
-      "span2": "Low-level sockets and switches",
-      "sofa": "Sofa bed available on request",
-      "feature1": "Wide doors (≥90 cm), step-free access",
-      "feature2": "Roll-in (step-free) shower",
-      "feature3": "Grab bars in shower and toilet",
-      "feature4": "Lowered sink, counters, and sockets",
-      "feature5": "Emergency pull cord in bathroom",
-      "feature6": "Visual/audible alarm system",
-      "feature7": "Bed transfer space",
-      "feature8": "Completely step-free circulation",
-      "feature9": "Close to accessible parking",
-      "feature10": "Ample space for wheelchair maneuvering",
-      "feature11": "Balcony/terrace with low threshold (if available)"
+      "span2": "TBD",
+      "sofa": "TBD",
+      "feature1": "TBD",
+      "feature2": "TBD",
+      "feature3": "TBD",
+      "feature4": "TBD",
+      "feature5": "TBD",
+      "feature6": "TBD",
+      "feature7": "TBD",
+      "feature8": "TBD",
+      "feature9": "TBD",
+      "feature10": "TBD",
+      "feature11": "TBD"
     },
-
     "BackgroundSection": {
       "title": "Comfort and Independence",
       "subtitle": "Accessible design in every detail",
-      "text": "From door widths to furniture layout, every detail has been considered for a safe and independent stay."
+      "text": "TBD"
     },
-
     "RoomTour": {
       "span": "360° Room Tour",
       "title": "Explore the Room",
-      "text": "Discover all the details of our accessible room with a 360° virtual tour.",
+      "text": "TBD",
       "span2": "Bathroom Tour",
       "title2": "Accessible Bathroom",
-      "text2": "Take a closer look at the roll-in shower and grab bars.",
+      "text2": "TBD",
       "span3": "Hallway Tour",
       "title3": "Accessible Routes",
-      "text3": "View access to the elevator and corridors."
+      "text3": "TBD"
     },
-
     "OtherOptions": {
       "subtitle": "Other Options",
-      "title1": "Family Room",
-      "area1": "45 m²",
-      "person1": "4 guests",
-      "text1": "Spacious layout for families.",
-      "title2": "Fantasy Room",
-      "area2": "35 m²",
-      "person2": "2 guests",
-      "text2": "A unique and thematic experience."
+      "title1": "Deluxe Family Room",
+      "area1": "43–53 m²",
+      "person1": "TBD",
+      "text1": "A spacious family option with standard amenities.",
+      "title2": "Superior Room",
+      "area2": "25–40 m²",
+      "person2": "TBD",
+      "text2": "A more spacious room option for extra comfort."
     }
   },
-
-  "BeachPools":{
-    "subtitle":"RELAX & REFRESH BY THE SEA",
-    "title":"Beach & Pools",
-    "text":"Enjoy our beautiful private beach stretching 70 meters, offering soft sand, comfortable sun loungers, umbrellas, and a luxurious pier for relaxing moments.",
-
-    "TwoImageSection":{
-      "subtitle":"RELAXING MOMENTS BY THE SEA",
-      "title":" Discover Our Exclusive Beach",
-      "text":"Enjoy relaxing moments on our private sandy beach, featuring calm turquoise waters perfect for swimming and various water sports. Comfortable sun loungers, umbrellas, and complimentary towels await you for a day of leisure. Refresh yourself throughout the day with delightful drinks and tasty snacks served at our convenient beach bars.",
-      "span":"Special Features",
-      "list1":"Complimentary sun loungers, umbrellas, and towels.",
-      "list2":"Beach bars serving refreshing drinks and light snacks.",
-      "list3":"Calm waters ideal for swimming and water sports."
+  "BeachPools": {
+    "subtitle": "RELAX & REFRESH BY THE SEA",
+    "title": "Beach & Pools",
+    "text": "Beach length: 125 m. The beach offers 120 sunbeds and 60 umbrellas; cabins, WC and showers are available. The beach is 1 km away and a shuttle service is provided.",
+    "TwoImageSection": {
+      "subtitle": "RELAXING MOMENTS BY THE SEA",
+      "title": "Discover Our Beach Area",
+      "text": "The beach area stretches 125 m. Sunbeds and umbrellas are available; cabins, WC and showers are provided for comfort.",
+      "span": "Special Features",
+      "list1": "120 sunbeds and 60 umbrellas.",
+      "list2": "Cabins / WC / shower facilities.",
+      "list3": "Shuttle service to the beach."
     },
-
-    "BeachCarousel":{
-      "subtitle":"FUN & SUN BY THE SEA",
-      "title":"Beach Activities & More",
-      "text":"Enjoy a vibrant atmosphere with various beach activities, including swimming, water sports, and exciting entertainment options suitable for all ages. Create unforgettable memories filled with fun and excitement by the sea",
-      "title1": "Swimming & Lounging",
-  "span1": "Cocktails & Snacks",
-  "title2": "Refresh at the Beach Bar",
-  "span2": "All Day Round",
-  "title3": "Water Sports",
-  "span3": "All Day Round",
-  "title4": "Celebrate at the Beach",
-  "span4": "DURATION: 60 MIN"
-
-
+    "BeachCarousel": {
+      "subtitle": "FUN & SUN BY THE SEA",
+      "title": "Azura Beach",
+      "text": "Snack & Beverage Service: 12:30–16:00.",
+      "title1": "Snack & Beverage",
+      "span1": "12:30–16:00",
+      "title2": "Facilities",
+      "span2": "Cabin / WC / shower",
+      "title3": "Sunbeds / umbrellas",
+      "span3": "120 / 60",
+      "title4": "Beach length",
+      "span4": "125 m"
     },
-
-    "BeachGif":{
-      "subtitle":"Pools Designed for Every Moment",
-      "title":" Float Into Relaxation",
-      "text":"Relax and unwind in our beautifully designed pools, perfect for every mood. Dive into our large outdoor swimming pool, or find tranquility in our heated indoor pool. Our little guests can enjoy special children's pools and exciting water slides, creating joyful moments for everyone."
+    "BeachGif": {
+      "subtitle": "Pools Designed for Every Moment",
+      "title": "Float Into Relaxation",
+      "text": "Enjoy Indoor Pool, Oasis Pool and an Aquapark with 13 slides for relaxation and fun."
     },
-
-    "PoolSection":{
-      "subtitle":"Dive Into Our Exclusive Pool Selection",
-      "title":"All Pools at a Glance",
-      "text":"Azura Deluxe Resort & Spa offers pools designed for every preference. Enjoy our spacious outdoor pool for refreshing swims, our heated indoor pool for relaxation, or experience thrilling water slides in our Aqua Park. Dedicated children's pools ensure fun for our younger guests. Discover your ideal pool experience right here.",
-      "subtitle1":"Family-friendly Pool for General Use",
-      "title1":" Outdoor Swimming Pool",
-      "text1":"Enjoy refreshing swims and relaxing moments at our spacious outdoor swimming pool. Perfectly designed for guests of all ages, our pool provides a welcoming atmosphere with comfortable sun loungers and umbrellas, ensuring a pleasant and relaxing experience under the sun.",
-      "depth1":"140 cm",
-      "area1":"750 m²",
-      "span1":"",
-      "subtitle2":"Peaceful Environment for Relaxation",
-      "title2":"Indoor Swimming Pool",
-      "text2":"Discover tranquility and relaxation in our heated indoor swimming pool, available during cooler seasons. Ideal for a peaceful swim, it offers a soothing environment away from the sun, perfect for unwinding and rejuvenating during your stay.",
-      "depth2":"140 cm",
-      "area2":"100 m²",
-      "span2":"Heated (Seasonally)",
-      "subtitle3":" Kids Club",
-      "title3":"Children's Pool",
-      "text3":"Our specially designed heated children’s pool provides a safe and fun environment for our little guests. With shallow water and a mini slide, children can play safely and create unforgettable memories.",
-      "depth3":"40 cm",
-      "area3":"90 m²",
-      "span3":"Mini-slide included",
-      "subtitle4":"Exciting Fun with Thrilling Slides",
-      "title4":"Slide Pool",
-      "text4":"Add adventure to your holiday! The heated Slide Pool with four different water slides offers excitement and fun for both children and adults.",
-      "depth4":"120 cm",
-      "area4":"80 m²",
-      "span4":"4 Water Slides",
-      "subtitle5":"Safe and Fun for Little Swimmers",
-      "title5":"Indoor Children's Pool",
-      "text5":"Specially created for our youngest guests, the Indoor Children's Pool provides a warm and safe environment ideal for playful swimming. With shallow water, this heated pool ensures comfort and fun, allowing kids to enjoy delightful water activities regardless of the weather.",
-      "depth5":"40 cm",
-      "area5":"14 m²",
-      "span5":"Heated (Seasonally)",
-      "indoor":"Indoor",
-      "outdoor":"Outdoor"
-    }
-  },
-
-  "Restaurants":{
-    "subtitle":" Curated Culinary Experiences",
-    "title":"Restaurants",
-    "text":"Embark on a delightful culinary journey with our carefully curated dining options. From authentic Turkish and Mediterranean delicacies to international gourmet specialties, Azura Deluxe Resort & Spa offers an exceptional variety of restaurants, ensuring every meal becomes an unforgettable experience.",
-    "TwoImagesSection":{
-      "subtitle":"",
-      "title":"Culinary Art at Azura Deluxe",
-      "text":"At Azura Deluxe Resort & Spa, indulge in extraordinary culinary experiences. Savor the finest international cuisines in our elegant A'la Carte restaurants, or enjoy our rich open buffet featuring delightful Turkish specialties and fresh Mediterranean flavors, making each meal unforgettable",
-      "span":" Dining Options:",
-      "list1":"Main Restaurant: Early Breakfast, Breakfast, Late Breakfast, Lunch, Dinner, Night Breakfast (23:00–03:00)",
-      "list2":"Snack Restaurant (Lyric Snack):12:00–16:00 (Grilled specialties, fast-food, desserts, fruits, ice cream served at selected times)"
-    },
-
-    "BackgroundSection":{
-      "subtitle":"A UNIQUE FEAST OF TASTE",
-      "title":"Main Restaurant",
-      "text":"For breakfast, lunch, and dinner, enjoy a rich open buffet showcasing the authentic flavors of Turkish cuisine and delightful seasonal specialties, all carefully prepared for your dining pleasure",
-      "span":"Meal Hours:",
-      "list1":"Breakfast: 07:00 - 10:30",
-      "list2":"Lunch: 12:30 - 14:00",
-      "list3":"Dinner: 19:00 - 21:00",
-      "buttonText":"DISCOVER MORE"
-    },
-
-    "CarouselSection":{
-      "subtitle":"Perfect Fine Dining Experiences",
-      "title":"A'la Carte Restaurants",
-      "text":"Embark on a culinary journey at our exclusive à la carte restaurants, where exquisite international flavors await, masterfully prepared by our talented and award-winning chefs. Enhance your holiday experience by indulging in exceptional dishes and memorable dining moments",
-      "subtitle1":"CUISINE: International",
-      "title1":" Main Restaurant",
-      "text1":"  Explore the rich variety of international flavors prepared by our talented chefs in the welcoming atmosphere of our Main Restaurant. Enjoy a carefully curated, beautifully presented buffet offering a wide selection of delicious dishes from around the world, available each day for breakfast, lunch, and dinner.",
-      "span1":"Opening Hours: 10:00 – 18:00",
-      "subtitle2":"  CUISINE: Italian",
-      "title2":"  Italian À la Carte Restaurant",
-      "text2":" Discover the irresistible flavors of Southern Italian cuisine at our Italian À la Carte Restaurant. Delight your senses with signature dishes such as carpaccio, risotto, pasta, and salads paired beautifully with the aroma of fine red wine. Enjoy a magical dining experience that will take you on a culinary journey through the Mediterranean.",
-      "span2":"Opening Hours: 19:00 – 21:00",
-      "subtitle3":" CUISINE: Turkish",
-      "title3":" Turkish À la Carte Restaurant",
-      "text3":" Enjoy an extraordinary dining experience featuring rare recipes from the magnificent Ottoman Palace cuisine. Accompanied by the gentle melodies of classical Turkish music, each dish invites you to savor the rich culinary heritage of Turkey.",
-      "span3":"Opening Hours: 12:00 – 16:00"
-    },
-
-    "TwoImagesSection2":{
-      "subtitle": "",
-  "title": "Irresistible Sweet Delights",
-  "span": "Irresistible Sweet Delights",
-  "text": "Azura Deluxe Resort & Spa offers an unforgettable experience for dessert lovers. In our patisserie, you can sweeten your holiday with flavors that appeal to every palate. Enjoy a sweet break at any time of the day with a rich variety of salty and sweet cookies, moist cakes, and special sandwiches, paired perfectly with your coffee or tea.",
-  "text2": "Our delicious desserts are carefully prepared by our professional chefs. Made with fresh and natural ingredients, these treats exemplify Azura Deluxe's approach to culinary excellence, ready to add a special touch to your vacation."
-    },
-    
-    "CarouselSection2": {
-      "subtitle": "Bar & Café Delights",
-      "title": "Patisserie, Bars & Snacks",
-      "text": "Brighten your holiday with an array of delightful drinks and snacks at Azura Deluxe Resort & Spa's exclusive bars and cafés. Savor hot and cold specialties crafted by our talented chefs in a cozy atmosphere perfect for relaxing moments.",
-      "subtitle1": "Desserts & Hot Drinks",
-      "title1": "Patisserie",
-      "text1": "Indulge in freshly baked pastries, exquisite desserts, flavorful cakes, and a variety of hot beverages at our patisserie. It’s the ideal spot to treat yourself throughout the day.",
+    "PoolSection": {
+      "subtitle": "Dive Into Our Pool Selection",
+      "title": "All Pools at a Glance",
+      "text": "Azura World Hotel offers Indoor Pool, Oasis Pool and Aquapark. Hours and usage may vary seasonally.",
+      "subtitle1": "Outdoor Pool",
+      "title1": "Oasis Pool",
+      "text1": "Area: 271 m² (Kids: 14.7 m²). Depth: 137 cm (Kids: 34 cm). Sunbeds: 140 / umbrellas: 70.",
+      "depth1": "137 cm (Kids: 34 cm)",
+      "area1": "271 m² (Kids: 14.7 m²)",
       "span1": "",
-      "subtitle2": "À LA CARTE SNACKS",
-      "title2": "Mazurka Snack Restaurant",
-      "text2": "Enjoy the à la carte snacks at Mazurka Snack Restaurant, featuring fresh grilled specialties, delicious sandwiches, and exquisite salads. Satisfy your late-night snack cravings with a comfortable dining experience within the hotel. Cuisine: grilled dishes, burgers, sandwiches, salads, and fruits.",
-      "span2": "Opening Hours: Mar, Apr & Oct 10:00–00:00; May–Sep 24 hours",
-      "subtitle3": "Beach Snacks",
-      "title3": "Lyric",
-      "text3": "At Lyric Snack Bar by the beach, enjoy grilled specialties, pita, doner, burgers, salads, and fresh fruits, along with an ice-cream corner at select hours. Perfect for a seaside snack with panoramic views.",
-      "span3": "Opening Hours: 12:00–16:00"
-    },
-
-    "BackgroundSection2":{
-      "subtitle":"A UNIQUE FEAST OF TASTE",
-      "title":"Discover Our Bars",
-      "text":"Immerse yourself in a delightful atmosphere at Azura Deluxe Resort & Spa's stylish bars. From refreshing cocktails and premium beverages to cozy settings ideal for socializing or relaxing, each of our bars offers a unique experience tailored to your mood",
-      "buttonText":"DISCOVER MORE"
-    }
-
-  },
-
-  "Bars":{
-    "subtitle":"EXCLUSIVE DRINK EXPERIENCES",
-    "title":"Bars",
-    "text":"Discover an exceptional variety of beverages and stylish atmospheres at Azura Deluxe Resort & Spa's bars. From expertly crafted cocktails and premium international drinks to relaxing herbal teas and freshly brewed coffee, we offer delightful options perfect for every moment of your stay.",
-
-    "TwoImageSection":{
-      "subtitle":"Perfect Beverage Experiences",
-      "title":"Exceptional Bars",
-      "text":"At Azura Deluxe Resort & Spa, elevate your vacation experience at our stylish bars. Sip expertly crafted cocktails, enjoy premium international beverages, or unwind with freshly brewed coffees and teas. Each bar offers a unique atmosphere perfect for relaxing, socializing, or celebrating special moments"
-    },
-
-    "BackgroundSection":{
-      "subtitle":" A UNIQUE FEAST OF TASTE",
-      "title":" Cool Down and Relax",
-      "text":"Relax and refresh yourself at our carefully designed bars. Enjoy a variety of refreshing beverages, expertly crafted cocktails, and premium drinks in stylish settings, perfect for unwinding at any moment of your day",
-      "buttonText":"DISCOVER MORE"
-    },
-
-    "Carousel":{
-      "subtitle":"Perfect Beverage Experiences",
-      "title":"Bars",
-      "text":"Indulge in delightful beverage experiences at Azura Deluxe Resort & Spa's inviting bars. Savor refreshing cocktails, premium spirits, international drinks, and soothing beverages prepared by our skilled bartenders. Enjoy each moment with style and sophistication.",
-      "subtitle1":"March, April, October: 10:00 – 00:00 May – September: 24 Hours ",
-      "title1":"Lobby Piano Bar",
-      "text1":"Relax and socialize in our elegant Lobby Piano Bar, the perfect spot to unwind with expertly prepared cocktails, premium beverages, and delightful refreshments. Enjoy pleasant conversations in a sophisticated ambiance",
-      "subtitle2":"HOURS: 10:00 – 00:00 ",
-      "title2":"Cha Cha Pool Bar",
-      "text2":"Relax poolside at our vibrant Cha Cha Pool Bar, serving refreshing cocktails, chilled beverages, and delightful snacks. Enjoy your favorite drinks under the sun or beneath the stars, creating memorable moments throughout the day.",
-      "subtitle3":"HOURS: 10:00 – 18:00 ",
-      "title3":"Pier Bar",
-      "text3":"Enjoy a refreshing seaside break at our Pier Bar, where delicious cocktails, cold beverages, and delightful snacks are served with stunning sea views. The perfect spot to relax and recharge while savoring the beauty of the Mediterranean.",
-      "subtitle4":"HOURS:12.00-16.00 ",
-      "title4": "Lyric Snack Bar",
-      "text4": "At Lyric Snack Bar by the beach, enjoy grilled specialties, pita, doner, burgers, salads, and fresh fruits, along with an ice-cream corner at select hours. Perfect for a seaside snack with panoramic views.",
-      "buttonText":"DISCOVER MORE"
-    },
-
-    "BackgroundSection2":{
-      "subtitle":"A UNIQUE FEAST OF TASTE",
-      "title":"Discover Our Finest Restaurants",
-      "text":"Embark on a delightful culinary journey at Azura Deluxe Resort & Spa, featuring exceptional dining experiences. Our restaurants offer a diverse array of flavors, ranging from authentic Turkish specialties and Mediterranean delicacies to international gourmet dishes, each crafted by expert chefs dedicated to creating memorable moments for your taste buds.",
-      "buttonText":"DISCOVER MORE"
+      "subtitle2": "Indoor Pool",
+      "title2": "Indoor Pool",
+      "text2": "1 main pool + 1 kids pool. Area: 102 m² + 12 m². Depth: 140 cm – 34 cm. Seasonally heated (on specific dates).",
+      "depth2": "140 cm – 34 cm",
+      "area2": "102 m² + 12 m²",
+      "span2": "Heated (Seasonally)",
+      "subtitle3": "Kids Pool",
+      "title3": "Indoor Pool Kids",
+      "text3": "Kids pool area: 12 m²; depth: 34 cm.",
+      "depth3": "34 cm",
+      "area3": "12 m²",
+      "span3": "",
+      "subtitle4": "Aquapark",
+      "title4": "Aquapark",
+      "text4": "13 slides. Pool area: 1613 m². Depth: 120 cm (Kids: 27 cm). Hours: 10:00–12:00 / 14:00–17:00. Sunbeds: 100.",
+      "depth4": "120 cm (Kids: 27 cm)",
+      "area4": "1613 m²",
+      "span4": "13 Slides",
+      "subtitle5": "Kids Area",
+      "title5": "Oasis Kids Area",
+      "text5": "Kids area: 14.7 m²; depth: 34 cm.",
+      "depth5": "34 cm",
+      "area5": "14.7 m²",
+      "span5": "",
+      "indoor": "Indoor",
+      "outdoor": "Outdoor"
     }
   },
-
-  "Entertainment":{
-    "subtitle":"Entertainment & Activities",
-      "title": "Unlimited Fun and Activities",
-      "text":" Azura Deluxe Resort & Spa offers endless entertainment opportunities for guests of all ages. Enjoy daily pool activities, exciting live performances, fitness sessions, water aerobics, darts, boccia, and much more. Our professional animation team ensures unforgettable fun, making every moment of your stay delightful.",
-      "span1":"Exciting Experience",
-      "span2":"Unforgettable Experience",
-      "daytime":"Daytime Activities",
-      "nighttime":"Nighttime Entertainment",
-
-      "GridSection":{
-        "subtitle":"Entertainment & Activities",
-        "title": "Events are held daily",
-        "text":"Azura Deluxe Resort & Spa, which offers a variety of activities such as live performances, special evening shows, discos, boccia, beach volleyball, table tennis, darts, pool games, aerobics, and water gymnastics, is ready to welcome you with unforgettable entertainment and sporting experiences.",
-
-        "title1": " Sport & Fitness",
-        "text1":" Stay active and energized throughout your vacation at Azura Deluxe Resort & Spa. Take advantage of our fully-equipped fitness center, participate in invigorating aerobics sessions, water gymnastics, beach volleyball matches, boccia games, darts, and various pool activities, all designed to enhance your holiday experience.",
-
-        "title2": "Kids & Teen Club",
-        "text2":"Azura Deluxe Resort & Spa offers endless fun and entertainment for our young guests! Our specially designed Kids Club provides supervised daily activities, games, playgrounds, mini discos, and creative events tailored for children aged 4 to 12. Teens can also enjoy social activities, games, and opportunities to make new friends in a safe and welcoming environment.",
-
-        "title3": "Water Sports",
-        "text3":"Experience thrilling moments with exciting water sports at Azura Deluxe Resort & Spa. Enjoy a variety of activities, from adventurous jet-ski rides to parasailing, banana boat rides, and more, all offering unforgettable fun and adventure on the crystal-clear waters of the Mediterranean Sea.",
-        
-        "title4": "Beach Activities",
-        "text4":" Enjoy endless fun on our beautiful private beach with a variety of exciting activities, including beach volleyball, boccia, darts, games, and relaxing beachside entertainment. Make your days memorable by joining vibrant activities under the sun, right by the sparkling waters of the Mediterranean Sea.",
-
-        "title5": "Table Tennis",
-        "text5":"Enjoy competitive fun with exciting table tennis matches at Azura Deluxe Resort & Spa. Ideal for players of all levels, it's a great way to spend your daytime hours, stay active, and have fun with family or friends",
-
-        "title6": "Water Gymnastics",
-        "text6":"Refresh your body and mind with energetic water gymnastics sessions at Azura Deluxe Resort & Spa. Join our professional instructors for enjoyable workouts in the pool, ideal for staying fit and having fun during your holiday.",
-
-        "title7": "Step Aerobics",
-        "text7":"Join our energetic step aerobics sessions led by professional instructors at Azura Deluxe Resort & Spa. Energize your body, boost your mood, and enjoy a fun group workout experience during your vacation.",
-
-        "title8": "Stage Shows",
-        "text8":"Experience captivating daytime stage shows at Azura Deluxe Resort & Spa. Featuring lively performances, interactive entertainment, and professional shows, our daytime activities promise endless fun and memorable moments for guests of all ages.",
-
-        "title9": " Darts & Boccia",
-        "text9":" Test your skills and enjoy friendly competitions with darts and boccia games at Azura Deluxe Resort & Spa. Perfect for guests of all ages, these activities provide entertainment, socializing, and lots of fun throughout your stay.",
-
-        "daytime":"DAYTIME ACTIVITIES",
-        "nighttime":"NIGHTTIME ACTIVITIES"
-      }
+  "Restaurants": {
+    "subtitle": "Curated Culinary Experiences",
+    "title": "Restaurants",
+    "text": "All Inclusive concept includes Milos Restaurant (buffet by schedule), Saffron A’la Carte (reservation) and Patisserie Art (desserts). Freshly squeezed juices are extra.",
+    "TwoImagesSection": {
+      "subtitle": "",
+      "title": "Dining at Azura World",
+      "text": "Service hours may vary depending on season and hotel management.",
+      "span": " Dining Options:",
+      "list1": "Milos Restaurant (Floor B): 07:00–10:00 / 10:00–10:30 / 12:30–14:00 / 18:30–21:00",
+      "list2": "Saffron A’la Carte (Floor B): 18:30–23:00 (reservation; 1 time for 7+ nights stays)"
+    },
+    "BackgroundSection": {
+      "subtitle": "A UNIQUE FEAST OF TASTE",
+      "title": "Milos Restaurant (Floor B)",
+      "text": "Breakfast, late breakfast, lunch and dinner buffets are served by schedule.",
+      "span": "Meal Hours:",
+      "list1": "Breakfast: 07:00 - 10:00",
+      "list2": "Late Breakfast: 10:00 - 10:30",
+      "list3": "Lunch: 12:30 - 14:00",
+      "list4": "Dinner: 18:30 - 21:00",
+      "buttonText": "DISCOVER MORE"
+    },
+    "CarouselSection": {
+      "subtitle": "À la Carte (Reservation)",
+      "title": "Saffron A’la Carte (Floor B)",
+      "text": "Opening hours: 18:30–23:00. Reservation is required. One time for stays of 7 nights and more.",
+      "subtitle1": "CUISINE: TBD",
+      "title1": "Saffron A’la Carte",
+      "text1": "Service: 18:30–23:00 (reservation).",
+      "span1": "Opening Hours: 18:30 – 23:00",
+      "subtitle2": " ",
+      "title2": " ",
+      "text2": " ",
+      "span2": " ",
+      "subtitle3": " ",
+      "title3": " ",
+      "text3": " ",
+      "span3": " "
+    },
+    "TwoImagesSection2": {
+      "subtitle": "",
+      "title": "Patisserie Art",
+      "span": "",
+      "text": "Desserts served: chocolate, cakes, cookies, cupcakes and more.",
+      "text2": "Service hours: 14:00 – 18:00."
+    },
+    "CarouselSection2": {
+      "subtitle": "All Day Options",
+      "title": "Other Service Areas",
+      "text": "Lobby Bistro Lounge and Azura Beach complete the All Inclusive experience.",
+      "subtitle1": "DESSERTS",
+      "title1": "Patisserie Art",
+      "text1": "Service: 14:00 – 18:00.",
+      "span1": "Hours: 14:00 – 18:00",
+      "subtitle2": "LOBBY",
+      "title2": "Lobby Bistro Lounge",
+      "text2": "Open 24/7. Service hours: 10:00 – 01:00.",
+      "span2": "Service: 10:00 – 01:00",
+      "subtitle3": "BEACH",
+      "title3": "Azura Beach",
+      "text3": "Snack & Beverage: 12:30 – 16:00.",
+      "span3": "Hours: 12:30 – 16:00"
+    },
+    "BackgroundSection2": {
+      "subtitle": "A UNIQUE FEAST OF TASTE",
+      "title": "Discover Our Bars",
+      "text": "Oasis Pool Bar and Lobby Bistro Lounge are included. Flamingo Bar Aquapark is extra fee.",
+      "buttonText": "DISCOVER MORE"
+    }
   },
-
-  "KidsClub":{
-    "subtitle":"FUN TIME FOR KIDS",
+  "Bars": {
+    "subtitle": "EXCLUSIVE DRINK EXPERIENCES",
+    "title": "Bars",
+    "text": "Oasis Pool Bar: 10:00–22:00. Lobby Bistro Lounge: service 10:00–01:00 (area open 24/7). Flamingo Bar Aquapark: 10:00–00:00 (extra fee). Alcohol is not served to guests under 18.",
+    "TwoImageSection": {
+      "subtitle": "Perfect Beverage Experiences",
+      "title": "Service Areas",
+      "text": "Service hours may vary depending on season and hotel management."
+    },
+    "BackgroundSection": {
+      "subtitle": "A UNIQUE FEAST OF TASTE",
+      "title": "Cool Down and Relax",
+      "text": "Oasis Pool Bar, Lobby Bistro Lounge and Flamingo Bar Aquapark (extra fee).",
+      "buttonText": "DISCOVER MORE"
+    },
+    "Carousel": {
+      "subtitle": "Perfect Beverage Experiences",
+      "title": "Bars",
+      "text": "Hours may vary.",
+      "subtitle1": "Service: 10:00 – 01:00 (Area open 24/7)",
+      "title1": "Lobby Bistro Lounge",
+      "text1": "Lobby lounge area for relaxing with service hours.",
+      "subtitle2": "Service: 10:00 – 22:00",
+      "title2": "Oasis Pool Bar",
+      "text2": "Beverage service by the pool.",
+      "subtitle3": "Service: 10:00 – 00:00 (Extra Fee)",
+      "title3": "Flamingo Bar Aquapark",
+      "text3": "Beverage service in the aquapark area (extra fee).",
+      "subtitle4": "Snack & Beverage: 12:30 – 16:00",
+      "title4": "Azura Beach",
+      "text4": "Beach area service.",
+      "buttonText": "DISCOVER MORE"
+    },
+    "BackgroundSection2": {
+      "subtitle": "A UNIQUE FEAST OF TASTE",
+      "title": "Discover Our Finest Restaurants",
+      "text": "Milos Restaurant, Saffron A’la Carte and Patisserie Art.",
+      "buttonText": "DISCOVER MORE"
+    }
+  },
+  "Entertainment": {
+    "subtitle": "Entertainment & Experiences",
+    "title": "Experiences at Azura World",
+    "text": "Enjoy Aquapark with 13 slides, Funzone Gaming Room and other hotel areas. Details and schedules may vary seasonally.",
+    "span1": "Experience",
+    "span2": "Enjoyment",
+    "daytime": "Daytime",
+    "nighttime": "Evening",
+    "GridSection": {
+      "subtitle": "Entertainment & Experiences",
+      "title": "What’s Available",
+      "text": "Aquapark, gaming room and meeting room are available for guests.",
+      "title1": "Aquapark",
+      "text1": "13 slides. Hours: 10:00–12:00 / 14:00–17:00.",
+      "title2": "Funzone Gaming Room",
+      "text2": "B Floor: PS5 (3), table football (2), air hockey (1), dartboard (2).",
+      "title3": "Aspendos Meeting Room",
+      "text3": "12×21 m, height 3.10 m, total 255 m², capacity up to 270 people.",
+      "title4": "Beach Area",
+      "text4": "125 m beach; cabin/WC/shower facilities; sunbeds and umbrellas.",
+      "title5": "Oasis Pool",
+      "text5": "271 m² (Kids: 14.7 m²). Depth 137 cm (Kids: 34 cm).",
+      "title6": "Indoor Pool",
+      "text6": "102 m² + 12 m². Depth 140 cm – 34 cm. Seasonally heated.",
+      "title7": "Services",
+      "text7": "Complimentary and paid services are available. (TBD)",
+      "title8": "Special Occasions",
+      "text8": "Special occasion packages are paid.",
+      "title9": "Room Service",
+      "text9": "Room service is extra fee.",
+      "daytime": "DAYTIME",
+      "nighttime": "EVENING"
+    }
+  },
+  "KidsClub": {
+    "subtitle": "FUN TIME FOR KIDS",
     "title": "Mini Club ",
-    "text":"At Azura Deluxe Resort & Spa’s Mini Club, fun and excitement await our younger guests aged 4 to 12. With supervised activities, creative workshops, exciting playgrounds, and lively mini discos, our Kids Club ensures unforgettable moments and safe entertainment throughout the day.",
-   
-    "TwoImageSection":{
-      "subtitle":"FUN & DELIGHT FOR THE LITTLE ONES",
+    "text": "Mini Club is available as a complimentary service. Program details may vary seasonally.",
+    "TwoImageSection": {
+      "subtitle": "FUN & DELIGHT FOR THE LITTLE ONES",
       "title": "Mini Club ",
-      "text":"At Azura Deluxe Resort & Spa's Mini Club, your children aged 4 to 12 will enjoy endless fun with supervised daily activities, creative games, mini discos, playgrounds, and much more. Our caring and experienced staff ensures your little ones have a joyful, safe, and memorable vacation experience, while you relax and enjoy your holiday."
+      "text": "Mini Club and family-friendly areas are available. (TBD)"
     },
-
-    "iconsText1":"Secure Environment",
-    "iconsText2":" Age-Appropriate Activities",
-    "iconsText3":"Social Interaction",
-    "iconsText4":"Professional Staff",
-
-    "CarouselSection":{
-      "subtitle":"Welcome to Kids Club",
+    "iconsText1": "Secure Environment",
+    "iconsText2": " Age-Appropriate Activities",
+    "iconsText3": "Social Interaction",
+    "iconsText4": "Professional Staff",
+    "CarouselSection": {
+      "subtitle": "Welcome to Kids Club",
       "title": "Where Fun and Education Meet",
-      "text":"Our Kids Club offers educational and entertaining activities tailored to children of all ages. We've created a vibrant environment designed to nurture creativity, inspire imagination, and bring their dreams to life, making your child's holiday unforgettable.",
-      "title1":"Children's Activities",
-      "title2":"Mini Disco",
-      "title3":"Little Cinema",
-      "title4":"Game Rooms",
-      "title5":"Playground"
+      "text": "Mini Club is complimentary. (TBD)",
+      "title1": "Children's Activities",
+      "title2": "Mini Disco",
+      "title3": "Little Cinema",
+      "title4": "Game Rooms",
+      "title5": "Playground"
     },
-
-    "OtherOptions":{
-      "subtitle":"Mini Club",
+    "OtherOptions": {
+      "subtitle": "Mini Club",
       "title": "Children’s Pools",
-      "text":"Our dedicated children's pools at Azura Deluxe Resort & Spa provide a safe and fun environment for little ones to splash, play, and have endless fun. Featuring shallow water, a mini-slide, and a comfortable atmosphere, these pools are perfectly designed to meet the needs and enjoyment of our youngest guests.",
-      "subtitle1":"Mini Club",
-      "title1": "Kids Slide Pool",
-      "text1": "The heated Children's Slide Pool at Azura Deluxe Resort & Spa offers an exciting and safe environment for our young guests. With its shallow pool and mini slide, children can enjoy water activities, wild splashes, and endless fun throughout their holiday.",
-      "subtitle2":"Mini Club",
-      "title2": "Children’s Pools",
-      "text2": "The specially designed heated Children's Pool at Azura Deluxe Resort & Spa provides a safe, enjoyable, and relaxing environment for our little ones. With its shallow waters and mini slide, children can play safely under supervision, turning every moment of the holiday into joy and unforgettable memories.",
-      "subtitle3":"Mini Club",
-      "title3": "Indoor Kids Pool",
-      "text3":" Our Indoor Kids Pool provides a warm, safe, and comfortable water environment for young guests at Azura Deluxe Resort & Spa. Featuring shallow and heated water, it is ideal for enjoyable and supervised play, ensuring endless fun for your children regardless of the weather."
+      "text": "Indoor Pool Kids: 12 m², 34 cm. Oasis Kids Area: 14.7 m², 34 cm. Aquapark kids area depth: 27 cm.",
+      "subtitle1": "Mini Club",
+      "title1": "Indoor Pool Kids",
+      "text1": "12 m² / 34 cm.",
+      "subtitle2": "Mini Club",
+      "title2": "Oasis Kids Area",
+      "text2": "14.7 m² / 34 cm.",
+      "subtitle3": "Mini Club",
+      "title3": "Aquapark Kids",
+      "text3": "Depth: 27 cm. (Area: TBD)"
     },
-
-    "galleryTitle":"Make Every Moment Memorable"
+    "galleryTitle": "Make Every Moment Memorable"
   },
-
-  "Spa":{
-    "subtitle":" RELAX AT OUR SYMPHONY SPA & WELLNESS CENTER",
+  "Spa": {
+    "subtitle": " RELAX AT AZURA WORLD SPA & WELLNESS",
     "title": " Spa & Wellness",
-    "text":"Relax, rejuvenate, and recharge at Azura Deluxe Resort & Spa’s Symphony Spa & Wellness Center. Indulge in high-quality professional massages and treatments, designed to provide complete physical and mental relaxation, ensuring your holiday is peaceful and unforgettable.",
-    "title1": "Aromatherapy Massage",
-    "title2": "Oriental Massage",
-    "title3": "Classic Massage",
-    "title4": "Facial Special Massage",
-    "time":"DURATION: 60 MIN",
-
-    "InfoSection":{
-      "subtitle1":" Renew Your Body and Mind",
-      "title1": " Wellness at Azura Deluxe Resort & Spa",
-      "text1":"Keep fit during your vacation at our fully-equipped fitness center, featuring professional-grade equipment. After your workout, indulge in relaxation at Symphony Spa & Wellness Center with a professional massage, rejuvenate yourself in our traditional Turkish Bath, or unwind and detox in our Finnish Sauna.",
-      "subtitle2":" Relax in our Turkish Bath and Sauna at Symphony Spa.",
+    "text": "Indoor Pool, steam room, Turkish bath, sauna and salt room are complimentary; massages are paid. Working hours: 08:00 – 19:00. Free Honeymoon Package includes room decoration on arrival, sparkling wine and fruit basket, plus a SPA discount for honeymoon guests.",
+    "title1": "Massage",
+    "title2": "SPA Treatments",
+    "title3": "Turkish Bath",
+    "title4": "Sauna",
+    "time": "DURATION: TBD",
+    "InfoSection": {
+      "subtitle1": " Renew Your Body and Mind",
+      "title1": " Wellness at Azura World",
+      "text1": "Complimentary areas: Indoor Pool, steam room, Turkish bath, sauna and salt room. Massages are paid.",
+      "subtitle2": "Spa Areas",
       "title2": "Sauna & Turkish Bath",
-      "text2":"Opening Hours: 07:00 – 20:00",
-      "subtitle3":" SPA Treatments",
+      "text2": "Working Hours: 08:00 – 19:00",
+      "subtitle3": "Spa Services",
       "title3": " Spa & Wellness",
-      "text3":"Opening Hours: 08:00 – 19:00",
-      "list1":"10 Massage Rooms",
-      "list2":"1 VIP Double Spa Suite",
-      "list3":"Turkish Bath",
-      "list4":"Sauna",
-      "list5":"Steam Room",
-      "list6":"Relaxation Areas",
-      "list7":"Professional Fitness Center"
+      "text3": "Working Hours: 08:00 – 19:00",
+      "list1": "Indoor Pool (seasonally heated)",
+      "list2": "Steam Room",
+      "list3": "Turkish Bath",
+      "list4": "Sauna",
+      "list5": "Salt Room",
+      "list6": "Massage (paid)",
+      "list7": "Free Honeymoon Package"
     },
-    "GallerySection":{
-      "subtitle":" Rejuvenate Your Senses",
-      "title": " Symphony Spa & Wellness",
-      "text":"Indulge yourself at Azura Deluxe Resort & Spa's Symphony Spa, where tranquility and relaxation await. Discover soothing treatments, calming massages, traditional Turkish bath experiences, and serene sauna sessions designed to refresh your mind and revitalize your body."
+    "GallerySection": {
+      "subtitle": " Rejuvenate Your Senses",
+      "title": " Spa & Wellness",
+      "text": "Relax and recharge in the hotel’s Spa & Wellness area."
     },
-    
-    "CarouselSection":{
-      "subtitle":"RELAX AND FORGET",
+    "CarouselSection": {
+      "subtitle": "RELAX AND FORGET",
       "title": " Massage Options",
-      "text":"Enjoy ultimate relaxation with a wide variety of professional massage treatments at Symphony Spa & Wellness Center. Relieve stress, refresh your body, and unwind your mind during your stay at Azura Deluxe Resort & Spa."
+      "text": "Massages are paid. (TBD)"
     },
-
-    "SpaTypes":{
-      "subtitle1":"Working Hours: 08:00 – 19:00",
+    "SpaTypes": {
+      "subtitle1": "Working Hours: 08:00 – 19:00",
       "title1": "Indoor Pool",
-      "text1":" Enjoy tranquility and relaxation at our Indoor Pool, available seasonally heated for your comfort. It's the perfect spot to unwind and recharge in a peaceful atmosphere during your stay at Azura Deluxe Resort & Spa",
-      "subtitle2":" Experience Traditional Culture",
-      "title2":" Turkish Hammam",
-      "text2":"Immerse yourself in authentic Turkish tradition at our luxurious Turkish Hammam. Experience relaxation and renewal through a traditional bathing ritual, rejuvenating foam massages, and gentle exfoliation that leave your skin refreshed and revitalized at Azura Deluxe Resort & Spa’s Symphony Spa & Wellness Center."
+      "text1": "1 main pool + 1 kids pool. Area: 102 m² + 12 m². Depth: 140 cm – 34 cm. Seasonally heated (on specific dates).",
+      "subtitle2": " Experience Traditional Culture",
+      "title2": " Turkish Hammam",
+      "text2": "Turkish bath is complimentary. Massages are paid."
     }
   },
-
-  "Sport":{
-    "subtitle":" STAY ACTIVE & FIT",
+  "Sport": {
+    "subtitle": " STAY ACTIVE & FIT",
     "title": " Sport & Fitness",
-    "text":" Maintain your fitness routine during your stay at Azura Deluxe Resort & Spa. Our professionally equipped Fitness Center offers everything you need for your daily workouts, helping you keep energized and in great shape throughout your vacation.",
-
-    "InfoSection":{
-      "subtitle1":"  Stay Fit and Feel Good",
-      "title1": " Fitness & Wellness at Azura Deluxe Resort & Spa",
-      "text1":" Maintain your fitness routine in our professionally equipped fitness center and then unwind at Symphony Spa & Wellness Center. Refresh yourself with a soothing massage, experience relaxation in our traditional Turkish Bath, or detoxify in our Finnish Sauna for complete rejuvenation during your vacation.",
-      "subtitle2":"Sport & Fitness",
-      "title2": " Group Activities",
-      "text2":" Join our engaging group activities to stay active and energized throughout your stay at Azura Deluxe Resort & Spa:",
-      "subtitle3":" Enjoy keeping fit and having fun in a friendly group environment!",
+    "text": "Fitness Center is available as a complimentary service. Tennis and basketball courts are complimentary (court lighting may be paid).",
+    "InfoSection": {
+      "subtitle1": "  Stay Fit and Feel Good",
+      "title1": " Fitness at Azura World",
+      "text1": "Fitness Center is complimentary. (TBD)",
+      "subtitle2": "Sport & Fitness",
+      "title2": " Tennis & Basketball",
+      "text2": "Tennis and basketball courts are complimentary; court lighting may be paid.",
+      "subtitle3": "Activities",
       "title3": "Sport & Fitness",
-      "text3":"Opening Hours: 08:00 – 19:00",
-      "list1":" Step Aerobics",
-      "list2":" Water Gymnastics",
-      "list3":" Pool Games",
-      "list4":"Fitness Classes"
+      "text3": "TBD",
+      "list1": "Fitness Center (complimentary)",
+      "list2": "Tennis (complimentary)",
+      "list3": "Basketball (complimentary)",
+      "list4": "Court lighting (paid)"
     },
-    "GallerySection":{
-      "subtitle":"  Stay Fit & Energized",
+    "GallerySection": {
+      "subtitle": "  Stay Fit & Energized",
       "title": "  Fitness Center",
-      "text":" Maintain your fitness routine at Azura Deluxe Resort & Spa’s professionally equipped Fitness Center. With modern equipment and a welcoming atmosphere, it’s the perfect place to stay active, healthy, and energized throughout your holiday"
+      "text": "Fitness Center is available as a complimentary service."
     },
-
-    "SpaTypes":{
-      "subtitle1":" Personalized Fitness Experience",
+    "SpaTypes": {
+      "subtitle1": " Personalized Fitness Experience",
       "title1": " Personal Trainer",
-      "text1":" Enhance your fitness routine with personalized guidance from our professional trainers at Azura Deluxe Resort & Spa. Tailored fitness programs and one-on-one sessions ensure you stay active and motivated throughout your vacation.",
-      "subtitle2":"  Your Daily Energy Boost",
-      "title2":"  Fitness Center",
-      "text2":" Boost your energy and keep your workout routine on track at Azura Deluxe Resort & Spa. Enjoy exercising with a variety of state-of-the-art fitness equipment in our modern fitness facility. Stay active, feel refreshed, and maintain your wellness during your stay."
+      "text1": "TBD",
+      "subtitle2": "  Your Daily Energy Boost",
+      "title2": "  Fitness Center",
+      "text2": "Fitness Center is available as a complimentary service."
     }
   },
-
-  "About":{
-    "subtitle":"  UNFORGETTABLE HAPPY MOMENTS",
-    "title":"About Our Hotel",
-  
-  "InfoSection":{
-    "subtitle":"Azura Deluxe Resort & Spa",
-    "title":" Your Ideal Holiday Destination",
-    "text":"  Enjoy an unforgettable holiday experience at Azura Deluxe Resort & Spa, where comfort meets elegance in our stylish and thoughtfully designed rooms. Thanks to the hotel’s excellent location, our rooms offer charming views of the sea, pool, or lush surroundings. We also offer heated indoor pools: one dedicated to adults and another specially designed for children.",
-    "buttonText":"MORE ABOUT"
-  },
-    "MissinonVision":{
-      "subtitle":" Azura Deluxe Resort & Spa",
-      "title":"Our Mission & Vision",
-      "text":" Our mission is to provide unparalleled hospitality and create lasting memories for our guests at Azura Deluxe Resort & Spa. We are dedicated to excellence in every aspect of your stay, from personalized services to sustainable practices. Our vision is to become a leading name in the hospitality industry, renowned for exceptional experiences and environmental responsibility.",
-      "clubsubtitle1":"Azura Deluxe Resort & Spa",
-      "clubtitle1":"Why Choose Azura Deluxe?",
-      "clubtext1":"  Choose Azura Deluxe Resort & Spa for an unforgettable holiday experience, combining luxury, comfort, and exceptional service. With our ideal seaside location, stylish accommodations, diverse dining options, exclusive Spa & Wellness services, and commitment to sustainability, we promise to make your stay memorable and unique.",
-      "clubsubtitle2":"Azura Deluxe Resort & Spa",
-      "clubtitle2":" An Exceptional Vacation Awaits",
-      "clubtext2":"  Nestled between the serene Mediterranean Sea and majestic Taurus Mountains, Azura Deluxe Resort & Spa combines unmatched luxury with personalized hospitality. From stylish rooms and gourmet dining experiences to our inviting spa and vibrant entertainment, every moment here is uniquely crafted for your comfort. Our prime location provides easy access to historical Alanya and nearby airports, making your vacation seamless.",
-       "buttonText":"MORE ABOUT"
+  "About": {
+    "subtitle": "  UNFORGETTABLE HAPPY MOMENTS",
+    "title": "About Our Hotel",
+    "InfoSection": {
+      "subtitle": "Azura World Hotel",
+      "title": "Your Holiday in Alanya",
+      "text": "Azura World Hotel is a 5-star hotel located in Türkler, Alanya/Antalya. Opening: 2025. Concept: All Inclusive. Total rooms: 188. Floors: 6. Elevators: 2. Pets are not allowed.",
+      "buttonText": "MORE ABOUT"
+    },
+    "MissinonVision": {
+      "subtitle": " Azura World Hotel",
+      "title": "Our Mission & Vision",
+      "text": "Our mission is to provide a comfortable All Inclusive holiday experience with a high service standard. Our vision focuses on sustainability and guest satisfaction.",
+      "clubsubtitle1": "Azura World Hotel",
+      "clubtitle1": "Why Choose Azura World?",
+      "clubtext1": "All Inclusive concept with Milos Restaurant, Saffron A’la Carte, Patisserie Art and all-day service areas; Indoor Pool, Oasis Pool and Aquapark with 13 slides; Spa & Wellness; complimentary Wi-Fi and shuttle to the beach.",
+      "clubsubtitle2": "Azura World Hotel",
+      "clubtitle2": "Services",
+      "clubtext2": "Complimentary: Mini Club, Fitness Center, tennis & basketball courts, beach towels/sunbeds/umbrellas, Wi-Fi, playground, shuttle to the beach, honeymoon package. Paid: airport transfer, room service, hairdresser, shops, doctor/medical, laundry, photo service, car rental, taxi, indoor parking and more.",
+      "buttonText": "MORE ABOUT"
     }
   },
-
-  "Gallery":{
-    "subtitle":"Explore the hotel",
-    "title": "Azura Gallery",
-    "general":"General View",
-    "rooms":"Rooms",
-  "meeting": "Meeting",
-    "pool":"Pool & Beach",
-    "flavours":"Flavours",
-    "spa":"Spa & Wellness",
-    "kidsclub":"Kids Club",
-    "entertainment":"Entertainment",
-    "bar":"Bars",
-    "lobby":"Lobby"
+  "Gallery": {
+    "subtitle": "Explore the hotel",
+    "title": "Azura World Gallery",
+    "general": "General View",
+    "rooms": "Rooms",
+    "meeting": "Meeting",
+    "pool": "Pool & Beach",
+    "flavours": "Flavours",
+    "spa": "Spa & Wellness",
+    "kidsclub": "Kids Club",
+    "entertainment": "Entertainment",
+    "bar": "Bars",
+    "lobby": "Lobby"
   },
-
-
- "ExploreAlanya": {
+  "ExploreAlanya": {
     "header": "Routes That Enrich Your Holiday",
     "title1": "Dim Cave",
     "description1": "Attracting cavers from all over the world with its fascinating formations, Dim Cave is one of Alanya’s most famous natural wonders. Located 10 km from the center, it sits 232 meters above sea level with impressive views and well-lit walkways through massive stalactites and stalagmites.",
@@ -949,45 +852,43 @@
     "title21": "Dim River",
     "description21": "Originating from the Taurus Mountains, the Dim River is famous for its riverside restaurants, picnic spots, and cool waters."
   },
-
   "IconSection": {
     "Dikkat": "IMPORTANT POINTS TO CONSIDER",
-  "Icon1": {
-    "header1": "PLACES OF WORSHIP",
-    "list1": "It is important for visitors to dress appropriately, usually covering shoulders and knees.",
-    "list2": "Women should cover their heads before entering.",
-    "list3": "Shoes should not be worn inside.",
-    "list4": "Avoid speaking loudly and do not disturb people who are worshipping.",
-    "list5": "Although photography is generally not prohibited, proper permissions should be obtained."
-  },
-  "Icon2": {
-    "header1": "MUSEUMS",
-    "list1": "Remain quiet so as not to disturb other visitors.",
-    "list2": "Check the museum’s photography rules at the entrance. Some exhibits may be prohibited from being photographed.",
-    "list3": "Do not touch the artifacts.",
-    "list4": "Eating and drinking are not allowed.",
-    "list5": "Keep your children under control."
-  },
-  "Icon3": {
-    "header1": "NATURAL AREAS",
-    "list1": "Act with environmental awareness to avoid harming plants and wildlife.",
-    "list2": "Collect your trash and do not leave anything harmful to nature behind.",
-    "list3": "Do not light fires unless it is explicitly permitted.",
-    "list4": "Use designated camping areas for camping."
-  },
-  "Icon4": {
-    "header1": "HUNTING",
-    "list1": "Obtain the necessary licenses and permits for hunting.",
-    "list2": "Follow the hunting season regulations.",
-    "list3": "Do not exceed the daily hunting limits.",
-    "list4": "Do not hunt protected species."
-  },
-  "Icon5": {
-    "header1": "PROTECT YOURSELF FROM THE SUN",
-    "list1": "You must protect your body from Antalya’s high temperatures.",
-    "list2": "Use sunscreen with at least SPF 50 to protect against UV rays.",
-    "list3": "Not using sunscreen may cause serious health issues."
+    "Icon1": {
+      "header1": "PLACES OF WORSHIP",
+      "list1": "It is important for visitors to dress appropriately, usually covering shoulders and knees.",
+      "list2": "Women should cover their heads before entering.",
+      "list3": "Shoes should not be worn inside.",
+      "list4": "Avoid speaking loudly and do not disturb people who are worshipping.",
+      "list5": "Although photography is generally not prohibited, proper permissions should be obtained."
+    },
+    "Icon2": {
+      "header1": "MUSEUMS",
+      "list1": "Remain quiet so as not to disturb other visitors.",
+      "list2": "Check the museum’s photography rules at the entrance. Some exhibits may be prohibited from being photographed.",
+      "list3": "Do not touch the artifacts.",
+      "list4": "Eating and drinking are not allowed.",
+      "list5": "Keep your children under control."
+    },
+    "Icon3": {
+      "header1": "NATURAL AREAS",
+      "list1": "Act with environmental awareness to avoid harming plants and wildlife.",
+      "list2": "Collect your trash and do not leave anything harmful to nature behind.",
+      "list3": "Do not light fires unless it is explicitly permitted.",
+      "list4": "Use designated camping areas for camping."
+    },
+    "Icon4": {
+      "header1": "HUNTING",
+      "list1": "Obtain the necessary licenses and permits for hunting.",
+      "list2": "Follow the hunting season regulations.",
+      "list3": "Do not exceed the daily hunting limits.",
+      "list4": "Do not hunt protected species."
+    },
+    "Icon5": {
+      "header1": "PROTECT YOURSELF FROM THE SUN",
+      "list1": "You must protect your body from Antalya’s high temperatures.",
+      "list2": "Use sunscreen with at least SPF 50 to protect against UV rays.",
+      "list3": "Not using sunscreen may cause serious health issues."
+    }
   }
-}
-
 }

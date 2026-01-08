@@ -40,9 +40,9 @@ export default function Footer() {
                 {t("emailAddress")} info@azuradeluxe.com
                 </a>
                 <p className="text-lagoGray2 font-jost text-[16px] font-normal leading-[20px] ">
-                  {t("ourAddress")}   Avsallar Mah.  
+                  {t("ourAddress")}   Türkler Mah.  
                   <br />
-                  İncekum Cad. No:76
+                  Cumhuriyet Cad. No:10
                   <br />
                   Alanya / Turkey
                 </p>

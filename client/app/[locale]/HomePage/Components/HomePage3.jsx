@@ -2,9 +2,9 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
-import Family from "./Images/ODASOL.png";
-import Fantasy from "./Images/ODAORTA.png";
-import Deluxe from "./Images/ODASAG.png";
+import Family from "./Images/ODASOL.jpg";
+import Fantasy from "./Images/ODAORTA.jpg";
+import Deluxe from "./Images/ODASAG.jpg";
 import Area from "./Icons/Area";
 import Tree from "./Icons/Tree";
 import Sea from "./Icons/Sea";

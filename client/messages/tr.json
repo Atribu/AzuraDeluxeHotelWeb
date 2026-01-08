@@ -1,10 +1,9 @@
 {
-    "LocaleSwitcher": {
-      "label": "Dili Değiştir",
-      "locale": "{locale, select, en {EN} tr {TR} ru {RU} de {DE} other {Bilinmeyen}}"
-    },
-
-    "Header": {
+  "LocaleSwitcher": {
+    "label": "Dili Değiştir",
+    "locale": "{locale, select, en {EN} tr {TR} ru {RU} de {DE} other {Bilinmeyen}}"
+  },
+  "Header": {
     "contact": "İLETİŞİM",
     "booknow": "Rezervasyon Yap",
     "accommodation": "Konaklama",
@@ -20,12 +19,11 @@
     "allrooms": "Tüm Odalar",
     "letuscallyou": "Sizi Arayalım",
     "deluxe": "Deluxe Oda",
-    "family": "Aile Odası",
-    "fantasy": "Fantazi Odası",
+    "family": "Deluxe Family Oda",
+    "fantasy": "Superior Oda",
     "handicap": "Engelli Odası",
-     "spor":"Spor"
+    "spor": "Spor"
   },
-
   "Reservation": {
     "text": "Hayalinizdeki Tatili Ayırtın",
     "checkin": "Giriş",
@@ -33,14 +31,13 @@
     "guests": "Misafirler",
     "search": "Ara",
     "adults": "Yetişkin(ler)",
-  "kids": "Çocuk(lar)",
-  "reservationDates": "Rezervasyon Tarihleri",
-  "pickDates": "Konaklama tarihlerinizi seçin",
-  "contactUs": "Şimdi iletişime geçin"
+    "kids": "Çocuk(lar)",
+    "reservationDates": "Rezervasyon Tarihleri",
+    "pickDates": "Konaklama tarihlerinizi seçin",
+    "contactUs": "Şimdi iletişime geçin"
   },
-
-  "ContactPage":{
-    "contactTitle": "Azura Hotel İletişim",
+  "ContactPage": {
+    "contactTitle": "Azura World Hotel İletişim",
     "connectWithUs": "Bizimle Bağlanın",
     "ourAddress": "Adresimiz:",
     "phoneNumber": "Telefon Numarası:",
@@ -59,23 +56,21 @@
     "callCenter": "Çağrı Merkezi",
     "bookNow": "HEMEN REZERVASYON"
   },
-
   "Footer": {
     "ourAddress": "Adresimiz:",
     "phoneNumber": "Telefon Numarası:",
     "emailAddress": "E-posta:",
-    
     "phoneColon": "Telefon:",
     "callCenter": "Çağrı Merkezi",
     "category1": "Konaklama",
-     "contact": "İLETİŞİM",
-     "gallery": "Galeri",
+    "contact": "İLETİŞİM",
+    "gallery": "Galeri",
     "category2": "Mutfak",
-    "mainrestaurant": "Ana Restoran",
-    "orchestra": "Orchestra",
-    "bella": "Bella Azura",
+    "mainrestaurant": "Milos Restaurant",
+    "orchestra": "Saffron A'la Carte",
+    "bella": "Patisserie Art",
     "entertainment": "Eğlence",
-    "ottoman": "Ottoman A'la Carte",
+    "ottoman": "Lobby Bistro Lounge",
     "barcafes": "Barlar ve Kafeler",
     "category3": "Aktiviteler",
     "spor": "Spor & Fitness",
@@ -83,15 +78,15 @@
     "spa": "Spa",
     "blog": "Blog",
     "deluxe": "Deluxe Oda",
-    "family": "Aile Odası",
-    "fantasy": "Fantazi Odası",
+    "family": "Deluxe Family Oda",
+    "fantasy": "Superior Oda",
     "policy": "Gizlilik Politikası",
     "bookings": "Rezervasyonlar & İptaller",
     "terms": "Web Sitesi Şartları",
     "aboutcompany": "Şirket Hakkında",
-    "phone": "Tel: +90 242 517 12 34",
-    "email": "E-posta: info@azuradeluxe.com",
-    "address": "Avsallar Mah. İncekum Cad. No:76 Alanya/Türkiye",
+    "phone": "Tel: +90 242 528 88 88",
+    "email": "E-posta: TBD",
+    "address": "Türkler Mah. Kargı Çayı Cad. No:10 Alanya/Antalya",
     "termsuse": "Kullanım Şartları",
     "notice": "Gizlilik Bildirimi",
     "sustainability": "Sürdürülebilirlik",
@@ -100,620 +95,572 @@
     "certificates": "Sertifikalar",
     "ourpolicies": "Politikalarımız"
   },
-
-    "Homepage":{
-      "subtitle":" Azura Deluxe Resort & Spa’ya Hoş Geldiniz – Hayallerin Konforla Buluştuğu Yer!",
-      "title":" Lüks, konfor, kalite ve kusursuz hizmet",
-      "text":"Akdeniz ile büyüleyici Toros Dağları arasında konumlanan Azura Deluxe Resort & Spa, 12.000 m²'lik etkileyici bir deniz kenarı alanına yayılmaktadır. Antalya ve Gazipaşa havalimanlarına yakın konumuyla, 70 metrelik özel plajımız ve davetkâr iskelesi sizleri bekliyor.",
-      "buttonText":" DAHA FAZLASINI KEŞFEDİN",
-
-      "EmblaCarousel":{
-      "accommodation":"Konaklama",
-      "restaurants":"Restoranlar",
-      "beachPools":"Plaj ve Havuzlar",
-      "experiences":"Deneyimler",
-      "kids":"Çocuklar"
-      },
-  
-      "TwoImageSection":{
-        "subtitle":" AZURA DELUXE’TE UNUTULMAZ ANLAR",
-        "title":" Şimdi Azura deneyimini keşfedin!",
-        "text1":"  Turkuaz Akdeniz’in ve görkemli Toros Dağları’nın arasında yer alan 12.000 m²’lik kartpostallık bir alanda konumlanan Azura Deluxe Resort & Spa, sizi tamamen dinlenmeye yönelik tasarlanmış davetkâr iskelesiyle birlikte 70 metrelik özel plajıyla karşılıyor.",
-        "text2":"Açık yüzme havuzu, ısıtmalı kapalı havuzlar ve heyecan verici su kaydıraklarının bulunduğu farklı havuzlarımızda huzura dalın; her yaştan misafir için eğlence ve dinlenme bir arada sunuluyor. Lüks ve konfor dolu kaçamağınız Azura Deluxe’te sizi bekliyor; burada her an, değerli bir anıya dönüşür.",
-        "buttonText":" Galeriye Git"
-      },
-  
-      "Accomodation":{
-        "subtitle":" Size En Uygun Konaklamayı Seçin",
-        "title":"Lüks Bir Konaklama Deneyiminin Keyfini Çıkarın",
-        "roomTitle1":" Deluxe Oda",
-        "roomText1":"  Ana binamızda yer alan bu şık 30–32 m² büyüklüğündeki oda; deniz, kara veya kısmi deniz manzarası seçenekleriyle büyüleyici bir konaklama sunar. Bir adet çift kişilik yatak ve bir adet tek kişilik yatak bulunan oda, 3 yetişkin ve 1 çocuğa kadar konforlu bir şekilde konaklama imkânı sağlar. Oda, modern bir banyo ve dinlenmeniz için keyifli bir oturma alanı ile donatılmıştır.",
-        "area1":" 30-32 m²",
-        "view1":"Kara / Deniz Manzarası",
-        "roomTitle2":"  Fantazi Oda",
-        "roomText2":" Özel olarak tasarlanmış Fantazi Odalarımız, nefes kesici deniz manzarası eşliğinde etkileyici 58 m²’lik bir yaşam alanı sunar. Her odada konforlu bir çift kişilik yatağın yer aldığı şık bir yatak odası ve 25 m² büyüklüğünde, jakuzi ve şezlonglarla donatılmış lüks bir özel teras bulunur. Romantik bir dinlenme ve mahremiyet arayan çiftler için mükemmel bir seçenektir.",
-        "area2":"  58 m²",
-        "view2":"Deniz Manzarası",
-        "roomTitle3":" Aile Odası",
-        "roomText3":"  Ana binamızda yer alan geniş Aile Odalarımız, 50 m²’lik konforlu alanıyla iki ayrı yatak odasından oluşur ve bu odalar ara kapı ile birbirine bağlanarak hem mahremiyet hem de kullanım kolaylığı sunar. Her Aile Odasında bir adet çift kişilik yatak ve iki adet tek kişilik yatak bulunur; bu da aileler veya gruplar için ideal bir konaklama sağlar. Deniz ya da kara manzaralı seçenekleriyle sunulan bu odalar, 4 yetişkin ve 1 çocuk ya da 3 yetişkin ve 1 çocuk için konforlu bir konaklama imkânı sunar ve tüm aile için keyifli bir tatil vadeder.",
-        "area3":"  50 m²",
-        "view3":"Kara / Deniz Manzarası",
-        "buttonText":" Keşfet"
-      },
-  
-      "Essentials":{
-        "subtitle": "Olağanüstü Hizmetlerimizi Keşfedin",
-        "title": "Mükemmel Konfor için Her Şey",
-        "title1":"  Özel Plaj ve İskele",
-        "text1":" Rahat şezlonglar, güneş şemsiyeleri ve güneşin tadını doyasıya çıkarabilmeniz için özel olarak tasarlanmış lüks iskelesiyle donatılmış 70 metrelik özel plajımızda dinlenin ve gevşeyin",
-        "title2":"Her Ruh Hâline Uygun Havuzlar",
-        "text2":"Geniş açık havuzumuzda ferahlayın, ısıtmalı kapalı havuzlarımızda keyifli anlar yaşayın ya da dört heyecan verici kaydırağa sahip Aqua Park’ımızda eğlencenin tadını çıkarın. Küçük misafirlerimiz için özel olarak tasarlanmış çocuk havuzları da mevcuttur.",
-        "title3":" Dünya Standartlarında Yemek Deneyimi",
-        "text3":"Zengin açık büfelerin ve Türk, Akdeniz ile uluslararası mutfaklardan seçkin lezzetler sunan şık à la carte restoranların yer aldığı ultra her şey dâhil gastronomi deneyimimizle damak zevkinizi şımartın.",
-        "title4":" Çocuklar İçin Eğlence",
-        "text4":" 4–12 yaş arası çocuklara yönelik Mini Kulübümüz; oyun alanları, gözetmen eşliğindeki oyun odaları, günlük mini diskolar ve özel çocuk büfeleriyle minik misafirlerimizin hem eğlenmesini hem de mutlu olmasını sağlar.",
-        "title5":" Eğlence ve Aktiviteler",
-        "text5":" Her yaşa uygun canlı performanslar, su oyunları, fitness dersleri, masa tenisi, dart, boccia ve çok daha fazlasıyla dolu dolu, eğlenceli anlarla günlerinizi renklendirin.",
-        "title6":"Spa & Wellness",
-        "text6":"Geleneksel Türk hamamı, sauna, buhar odası ve rahatlatıcı masaj ile bakım uygulamalarının sunulduğu Symphony Spa & Wellness Merkezi’mizde gevşeyin, yenilenin ve tazelenin. Ayrıca konforunuz için tam donanımlı bir fitness merkezi de hizmetinizdedir.",
-        "buttonText":"  Bizi Takip Edin"
-      },
-  
-      "BackgroundSection":{
-        "subtitle":" Azura Deluxe’te Lüks ve Doğanın Uyumunu Yaşayın",
-        "title":" Lüks ile Doğanın Güzelliği Buluşuyor",
-        "text":" Azura Deluxe Resort & Spa, etkileyici Akdeniz ile görkemli Toros Dağları arasında mükemmel bir konumda yer alarak size lüks ve konfor dolu eşsiz bir kaçış sunar. Özel plajı, şık konaklama seçenekleri, dünya standartlarında yemek deneyimleri ve zarif spa olanaklarıyla Azura Deluxe, rahatlama ve keyif dolu unutulmaz bir tatil için ihtiyaç duyduğunuz her şeyi sunar.Azura Deluxe’te Lüks ve Doğanın Uyumunu Yaşayın.",
-        "buttonText":"  Daha Fazlasını Keşfedin"
-      }
+  "Homepage": {
+    "subtitle": "Azura World Hotel Alanya’ya Hoş Geldiniz – All Inclusive Konsept",
+    "title": "5 Yıldızlı Konfor, All Inclusive Deneyim",
+    "text": "Türkler, Alanya/Antalya’da konumlanan Azura World Hotel; 2025 açılışlı 5 yıldızlı, All Inclusive konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Check-in 14:00, check-out 12:00’dir. Plaj 1 km mesafededir; plaja shuttle servis mevcuttur. Evcil hayvan kabul edilmez.",
+    "buttonText": " DAHA FAZLASINI KEŞFEDİN",
+    "EmblaCarousel": {
+      "accommodation": "Konaklama",
+      "restaurants": "Restoranlar",
+      "beachPools": "Plaj ve Havuzlar",
+      "experiences": "Deneyimler",
+      "kids": "Çocuklar"
     },
-
-    "Rooms":{
-      "header":"ODALARIMIZ",
-      "buttonText1":"Deluxe Oda",
-      "buttonText2":"Aile Odası",
-      "buttonText3":" Fantazi Oda",
-  
-      "subtitle":" SİZ VE AİLENİZ İÇİN KONFORLU KONAKLAMA",
-      "title":"Lüks Odalarımızda Kendinizi Evde Hissedin",
-      "text":"Azura Deluxe Resort & Spa’nın özenle dekore edilmiş odalarında konfor ve zarafetin tadını çıkarın. Her oda, dinlenme, rahatlık ve lüksü bir arada sunmak üzere özenle tasarlanmıştır. İster etkileyici manzaraya sahip bir Deluxe Oda, ister aileler için ideal geniş bir Aile Odası, ister özel ayrıcalıklarla donatılmış romantik bir Fantazi Oda tercih edin — tüm ihtiyaçlarınıza hitap eden mükemmel bir sığınak sizi bekliyor.",
-      "checkin":"GİRİŞ: 14:00",
-      "checkout":"ÇIKIŞ: 12:00",
-  
-      "Room1":{
-        "title":"Deluxe Oda",
-        "text": "30-32 m² büyüklüğündeki zarif ve konforlu odalarımız, ana binamızda yer alır. Kara, kısmi deniz ve tam deniz manzarası seçenekleri sunan bu odalarda 1 çift kişilik yatak, 1 tek kişilik yatak ve 1 koltuk (sofa) yer alır. Toplamda 288 adet standart deluxe ve 4 adet engelli odası mevcuttur. Tüm misafirlerimizin konforu için zemin katta özel olarak tasarlanmış engelli odaları da bulunmaktadır.",
-        "area":"30-32 m²",
-        "view":" Kara veya Kısmi Deniz Manzarası veya Deniz Manzaralı",
-        "buttonText":" Keşfet"
-      },
-  
-      "Room2":{
-        "title":"Aile Odası",
-        "text":"Aileler ve gruplar için ideal olan 50 m² büyüklüğündeki odalarımızda, birbirine kapı ile bağlı iki ayrı yatak odası yer alır. Bir çift kişilik ve iki tek kişilik yatak içeren Aile Odaları; 2 yetişkin + 2 çocuk, 3 yetişkin + 1 çocuk veya 4 yetişkin + 1 çocuk konaklamaları için uygundur. Deniz veya kara manzaralı seçenekleriyle keyifli bir tatil sizleri bekliyor.",
-        "area":" 50 m²",
-        "view":"Kara veya Kısmi Deniz Manzarası",
-        "buttonText":" Keşfet"
-      },
-  
-      "Room3":{
-        "title":" Fantazi Oda",
-        "text":" Çiftler için özel olarak tasarlanmış Fantazi Odalarımız, 58 m² genişliğindedir ve büyüleyici deniz manzarasına sahiptir. 25 m²’lik özel terasında jakuzi ve şezlonglar bulunan bu odalar, romantik ve ayrıcalıklı bir tatil için idealdir. Şık bir şekilde dekore edilmiş yatak odasında geniş çift kişilik yatak yer almaktadır.",
-        "area":" 58 m²",
-        "view":"Deniz Manzarası",
-        "buttonText":" Keşfet"
-      },
-  
-      "Parallax":{
-        "subtitle":" Odada Sunulan Temel Olanaklar",
-        "title":"İhtiyacınız Olan Her Şey, Odalarımızda Sizi Bekliyor",
-        "text":"Tüm temel ihtiyaçlar elinizin altında, kusursuz bir konaklama deneyimi sizi bekliyor. Günlük yenilenen minibar, kaliteli banyo ürünleri, güvenli oda erişimi ve LED TV ile 24 saat Wi-Fi hizmetiyle her an konforunuz ön planda tutulur.",
-        "span1":"Mini Bar",
-        "text1":" Günlük olarak yenilenen minibarımızda; şişe su, gazlı içecekler (Coca Cola, Fanta, Sprite), meyve suları ve soda yer alır.",
-        "span2":"Kozmetik Ürünleri",
-        "text2":"  Banyo malzemeleri arasında şampuan, saç kremi, duş jeli, sabun, vücut losyonu, lif, diş fırçası ve macunu, duş bonesi, tıraş bıçağı, makyaj temizleme pamuğu ve saç kurutma makinesi bulunur.",
-        "span3":" Oda Girişi",
-        "text3":"  Tüm odalara güvenli elektronik kart sistemiyle kolay ve güvenli erişim sağlanmaktadır.",
-        "span4":"Wifi & LedTV ",
-        "text4":" Ulusal ve uluslararası uydu kanallarına sahip LED TV, radyo ve 24 saat kesintisiz Wi-Fi hizmeti mevcuttur."
-      }
-  
+    "TwoImageSection": {
+      "subtitle": "AZURA WORLD’DE UNUTULMAZ ANLAR",
+      "title": "Şimdi Azura World deneyimini keşfedin!",
+      "text1": "Azura World Hotel, Türkler bölgesinde All Inclusive konseptiyle hizmet verir. Konforlu oda seçenekleri, spa alanları ve gün boyu yeme-içme noktalarıyla keyifli bir tatil sunar.",
+      "text2": "Indoor Pool, Oasis Pool ve 13 farklı kaydıraklı Aquapark ile hem dinlenme hem de eğlence seçenekleri bir aradadır. Plaj alanı 125 metredir; plajda şezlong, şemsiye, kabin, WC ve duş imkânları mevcuttur.",
+      "buttonText": " Galeriye Git"
     },
-
-    "FamilyRoom":{
-      "subtitle":"Deniz veya Kara Manzaralı Konforlu Aile Konaklaması",
-        "title":" Aile Odası",
-        "text":"Enjoy a seamless stay",
-        "span1":"Kara / Deniz Manzarası ",
-        "span2":" 1-4 Yetişkin + 1-3 Çocuk ",
-        "span3":"1 Çift Kişilik Yatak + 2 Tek Kişilik Yatak",
-  
-        "RoomFeatures":{
-          "subtitle":" HER YAŞA UYGUN EĞLENCE",
-          "title":"Aile Odası",
-          "text":"  Ana binada yer alan, 50 m² genişliğe sahip Aile Odalarımız; deniz veya kara manzarası seçenekleriyle ferah bir konaklama sunar. Bu odalarda ara kapı ile ayrılmış iki ayrı yatak odası bulunur: biri çift kişilik yataklı, diğeri ise iki tek kişilik yataklıdır. Ortak banyo ile birlikte gelen bu alanlar, 2 yetişkin + 2 çocuk, 3 yetişkin + 1 çocuk veya 4 yetişkin + 1 çocuk için idealdir.",
-          "subtitle2":" Ailelere Özel Olanaklar",
-          "span1":" 1 Çift Kişilik Yatak",
-          "span2":"2 Tek Kişilik Yatak ",
-          "subtitle3":"Oda Özellikleri",
-          "text2":"Tüm odalarda Elektronik Anahtar Kart Sistemi, günlük minibar yenilemesi, özel banyo kozmetikleri, çay-kahve yapma olanakları mevcuttur.",
-          "feature1":"50 m2",
-          "feature2":"Makyaj Masası",
-          "feature3":"Sigara İçilmez",
-          "feature4":"Mini Bar",
-          "feature5":"Kasa",
-          "feature6":"Saç Kurutma Makinesi",
-          "feature7":"Banyo Ürünleri",
-          "feature8":"Çay-Kahve Seti ",
-          "feature9":"LED TV ve Wi-Fi",
-          "feature10":"Balkon",
-          "feature11":"Duş",
-          "sofa":"1 Sofa"
-        },
-  
-        "BackgroundSection":{
-          "subtitle":"  AYRICALIKLI HİZMETLER",
-          "title":" Aile Odası Avantajları",
-          "text":" Aile Odalarımızda konaklayan misafirler, iki ayrı yatak odasının sunduğu konfor ve etkileyici deniz veya kara manzaralarının tadını çıkarır.",
-          "list1":"  A’la Carte Yemek: 7 gece ve üzeri konaklamalarda bir defaya mahsus ücretsiz A’la Carte akşam yemeği.",
-          "list2":"Spa & Wellness: Türk hamamı, sauna, buhar odası ve fitness merkezi kullanımı ücretsizdir.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-        },
-
-        "RoomTour": {
-          "span": "360° Sanal Oda Turu",
-          "title": "Family Oda – Kara Manzarası 360°",
-          "text": "Geniş ve konforlu Family odamızın doğal kara manzarasını, her açıdan keşfedebileceğiniz 360° sanal tur ile deneyimleyin.",
-          "span2": "360° Sanal Oda Turu",
-          "title2": "Family Oda – Deniz Manzarası 360°",
-          "text2": "Ferahlık ve şıklığı bir araya getiren Family odamızın muhteşem deniz manzarasını, 360° sanal tur ile doyasıya keşfedin."
-        },
-  
-        "OtherOptions":{
-          "subtitle":"  Size Uygun Odayı Seçin",
-          "title":"  Diğer Konforlu Seçenekleri Keşfedin",
-          "span1":"AİLENİZİN TÜM BİREYLERİ İÇİN ODA",
-          "title1":" Aile Odası",
-          "area1":" 50 m²",
-          "person1":"En fazla 4 yetişkin + 1 çocuk",
-          "text1":" İç kapı ile ayrılmış iki yatak odası bulunan Aile Odalarımız, ailelerin rahatça konaklayabileceği şekilde tasarlanmıştır. Deniz veya kara manzarası seçenekleriyle unutulmaz aile anıları için idealdir.",
-          "span2":"Odanızdan Ayrılmadan Yenilenin",
-          "title2":" Fantazi Oda",
-          "area2":" 50 m²",
-          "person2":"2 yetişkin (yalnızca çiftler)",
-          "text2":"Özel tasarımlı Fantazi Odalar, muhteşem deniz manzaraları ve jakuzili 25 m² özel teras ile çiftlere romantik ve huzurlu bir tatil sunar.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-         
-        }
+    "Accomodation": {
+      "subtitle": "Size En Uygun Konaklamayı Seçin",
+      "title": "Konforlu Konaklama Seçenekleri",
+      "roomTitle1": " Deluxe Oda",
+      "roomText1": "Deluxe odalar 22–24,99 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "area1": " 22–24,99 m²",
+      "view1": "Detaylar: TBD",
+      "roomTitle2": " Superior Oda",
+      "roomText2": "Superior odalar 25–40 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "area2": " 25–40 m²",
+      "view2": "Detaylar: TBD",
+      "roomTitle3": " Deluxe Family Oda",
+      "roomText3": "Deluxe Family odalar 43–53 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "area3": " 43–53 m²",
+      "view3": "Detaylar: TBD",
+      "buttonText": " Keşfet"
     },
-
-
-    "FantasyRoom":{
-      "subtitle":"ÖZEL VE ROMANTİK KAÇAMAK",
-        "title":" Fantazi Oda",
-        "text":"Özel jakuzili 25 m² terası ve konforlu şezlonglarıyla unutulmaz bir romantik tatil için Fantazi Odalarımıza davetlisiniz. Her biri özenle tasarlanmış bu odalar, muhteşem deniz manzarasına sahip olup çiftlerin mahremiyet ve lüks içinde konaklaması için ideal bir ortam sunmaktadır.",
-        "span1":"Deniz Manzaralı ",
-        "span2":"2 Yetişkin (Sadece Çiftler)",
-        "span3":"1 Yatak Odası / 1 King Size Yatak",
-  
-        "RoomFeatures":{
-          "subtitle":"ÖZEL VE ROMANTİK KAÇAMAK",
-          "title":"Fantazi Room",
-          "text":" Ana binamızda yer alan Fantazi Odalar, 58 m² genişliğinde romantizm ve mahremiyet arayan çiftler için özel olarak tasarlanmıştır. Her odada lüks bir çift kişilik yatak bulunan zarif bir yatak odası ve 25 m²'lik özel bir teras yer almakta; terasta ise jakuzili ve şezlonglu eşsiz bir manzara sunulmaktadır. Bu odalar yalnızca 2 yetişkini ağırlamakta olup, romantik bir deneyim için mükemmel bir seçenektir.",
-          "subtitle2":"Özel Romantik Olanaklar",
-          "span1": "Özellikle Çiftler İçin Tasarlandı",
-          "span2": "1 King Size Yatak",
-          "span3": "Jakuzili Özel Teras",        
-          "subtitle3":"Oda Özellikleri",
-          "text2":"Tüm Fantazi Odalarda Elektronik Kartlı Giriş Sistemi, günlük minibar yenilemesi, lüks banyo kozmetikleri, çay-kahve seti, konforlu terlikler ve ücretsiz Wi-Fi mevcuttur. Bu odalar yalnızca romantik çift konaklamaları için tasarlanmıştır. Oda 58 m² genişliğindedir ve 25 m² özel jakuzili terasa sahiptir. Not: Fantasy Odalar sadece 2 yetişkin (çift) için uygundur. Bu oda tipinde ilave yatak, bebek yatağı veya özel havuz bulunmamaktadır.",
-          "feature1":"58 m2",
-          "feature2":"Makyaj Masası",
-          "feature3":"Sigara İçilmez",
-          "feature4":"Mini Bar",
-          "feature5":"Kasa",
-          "feature6":"Saç Kurutma Makinesi",
-          "feature7":"Banyo Ürünleri",
-          "feature8":"Çay-Kahve Seti ",
-          "feature9":"LED TV ve Wi-Fi",
-          "feature10":"Balkon",
-          "feature11":"Duş"
-        },
-  
-        "BackgroundSection":{
-          "subtitle":"  AYRICALIKLI HİZMETLER",
-          "title":" Fantazi Odası Avantajları",
-          "text":" Fantazi Odalarımızda konaklayan misafirler, yatak odasının sunduğu konfor ve etkileyici deniz manzaralarının tadını çıkarır.",
-          "list1":"  A’la Carte Yemek: 7 gece ve üzeri konaklamalarda bir defaya mahsus ücretsiz A’la Carte akşam yemeği.",
-          "list2":"Spa & Wellness: Türk hamamı, sauna, buhar odası ve fitness merkezi kullanımı ücretsizdir.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-        },
-
-        "RoomTour": {
-          "span": "360° Sanal Oda Turu",
-          "title": "Fantazi Oda – Deniz Manzarası 360°",
-          "text": "Romantik Fantazi odamızın eşsiz deniz manzarasını ve şık iç mekanını, sadece deniz manzarasına odaklanan 360° sanal tur ile keşfedin."
-        },
-  
-        "OtherOptions":{
-          "subtitle":"  Size Uygun Odayı Seçin",
-          "title":"  Diğer Konforlu Seçenekleri Keşfedin",
-          "span1":"AİLENİZİN TÜM BİREYLERİ İÇİN ODA",
-          "title1":" Aile Odası",
-          "area1":" 50 m²",
-          "person1":"En fazla 4 yetişkin + 1 çocuk",
-          "text1":" İç kapı ile ayrılmış iki yatak odası bulunan Aile Odalarımız, ailelerin rahatça konaklayabileceği şekilde tasarlanmıştır. Deniz veya kara manzarası seçenekleriyle unutulmaz aile anıları için idealdir.",
-          "span2":"Odanızdan Ayrılmadan Yenilenin",
-          "title2":" Fantazi Oda",
-          "area2":" 58 m²",
-          "person2":"2 yetişkin (yalnızca çiftler)",
-          "text2":"Özel tasarımlı Fantazi Odalar, muhteşem deniz manzaraları ve jakuzili 25 m² özel teras ile çiftlere romantik ve huzurlu bir tatil sunar.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-         
-        }
+    "Essentials": {
+      "subtitle": "Olağanüstü Hizmetlerimizi Keşfedin",
+      "title": "Konfor için Her Şey",
+      "title1": "Plaj Alanı",
+      "text1": "125 metrelik plaj alanında 120 şezlong ve 60 şemsiye bulunur; kabin, WC ve duş imkânları mevcuttur. Plaj 1 km mesafededir; plaja shuttle servis sağlanır.",
+      "title2": "Havuzlar & Aquapark",
+      "text2": "Indoor Pool (1 ana + 1 çocuk havuzu), Oasis Pool ve 13 kaydıraklı Aquapark alanı mevcuttur. Aquapark saatleri: 10:00–12:00 / 14:00–17:00. Indoor Pool ısıtması sezonluk uygulanır (belirli tarihlerde).",
+      "title3": "All Inclusive Yeme-İçme",
+      "text3": "Milos Restaurant’ta (Floor B) kahvaltı/öğle/akşam büfeleri; Saffron A’la Carte (rezervasyonlu); Patisserie Art’ta tatlı servisi; Azura Beach’te snack & beverage servisi sunulur.",
+      "title4": "Çocuklar İçin",
+      "text4": "Mini Club ve çocuk oyun alanı ücretsiz hizmetler arasındadır. (Detaylar: TBD)",
+      "title5": "Ek Hizmetler",
+      "text5": "Fitness Center, Wi-Fi, plaj havlusu/şezlong, şemsiye ve plaja shuttle servis ücretsiz hizmetler arasındadır. (Detaylar: TBD)",
+      "title6": "Spa & Wellness",
+      "text6": "Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir. Çalışma saatleri: 08:00 – 19:00.",
+      "buttonText": " Bizi Takip Edin"
     },
-
-    "DeluxeRoom":{
-      "subtitle":"Zarif Konfor ve Rahatlama",
-        "title":" Deluxe Oda",
-        "text":"",
-        "span1":"Deniz, kara ve kısmi deniz manzaralı",
-        "span2":"3 Yetişkin + 1 Çocuk",
-        "span3":"1 Çift Kişilik Yatak + 1 Tek Kişilik Yatak + 1 Sofa",
-  
-        "RoomFeatures":{
-          "subtitle":"Konfor Şıklıkla Buluşuyor",
-          "title":"Deluxe Oda",
-         "text": "Deluxe Odalarımız, 30-32 m² şık ve konforlu yaşam alanı sunar ve muhteşem deniz, kara veya kısmi deniz manzaralarına sahiptir. Zarif bir şekilde tasarlanmış bu odada bir çift kişilik yatak , bir tek kişilik yatak, bir kanepe, modern bir banyo ve dinlenme alanı bulunur; çiftler veya küçük gruplar için idealdir. Toplamda 288 adet standart deluxe oda ve 4 adet özel tasarlanmış engelli odası mevcuttur. Tüm misafirlerimizin konforu için engelli odaları zemin katta yer almaktadır.",
-          "subtitle2":"Seçkin Olanaklar",
-         "span1": "1 Çift Kişilik Yatak",
-          "span2": "1 Tek Kişilik Yatak ",
-          "subtitle3":"Oda Özellikleri",
-         "text2": "Azura Deluxe Resort & Spa’daki tüm odalarda elektronik kartlı kilit sistemi, günlük minibar yenilemesi, seçkin banyo kozmetik ürünleri ve çay-kahve yapma imkânı bulunmaktadır.",
-          "feature1":"30-32 m2",
-          "feature2":"Makyaj Masası",
-          "feature3":"Sigara İçilmez",
-          "feature4":"Mini Bar",
-          "feature5":"Kasa",
-          "feature6":"Saç Kurutma Makinesi",
-          "feature7":"Banyo Ürünleri",
-          "feature8":"Çay-Kahve Seti ",
-          "feature9":"LED TV ve Wi-Fi",
-          "feature10":"Balkon",
-          "feature11":"Duş",
-           "sofa":"1 Sofa"
-        },
-  
-        "BackgroundSection":{
-          "subtitle":"  AYRICALIKLI HİZMETLER",
-          "title":" Deluxe Odası Avantajları",
-          "text":"Odalarımızda konaklayan misafirler, iki ayrı yatak odasının sunduğu konfor ve etkileyici deniz veya kara manzaralarının tadını çıkarır.",
-          "list1":"  A’la Carte Yemek: 7 gece ve üzeri konaklamalarda bir defaya mahsus ücretsiz A’la Carte akşam yemeği.",
-          "list2":"Spa & Wellness: Türk hamamı, sauna, buhar odası ve fitness merkezi kullanımı ücretsizdir.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-        },
-
-        "RoomTour": {
-          "span": "360° Sanal Oda Turu",
-          "title": "Deluxe Oda – Kara Manzarası 360°",
-          "text": "Geniş ve konforlu Deluxe odamızın doğal kara manzarasını, bulunduğunuz her açıdan görebileceğiniz 360° sanal tur ile keşfedin.",
-          "span2": "360° Sanal Oda Turu",
-          "title2": "Deluxe Oda – Deniz Manzarası 360°",
-          "text2": "Şık tasarımlı Deluxe odamızın eşsiz deniz manzarasını, 360° sanal tur ile doyasıya deneyimleyin.",
-          "span3": "360° Sanal Oda Turu",
-          "title3": "Deluxe Oda – Kısmi Deniz Manzarası 360°",
-          "text3": "Özenle tasarlanmış Deluxe odamızın kısmi deniz manzarasını her açıdan keşfedebileceğiniz 360° sanal tur ile deneyimleyin."
-        },
-  
-        "OtherOptions":{
-          "subtitle":"  Size Uygun Odayı Seçin",
-          "title":"  Diğer Konforlu Seçenekleri Keşfedin",
-          "span1":"AİLENİZİN TÜM BİREYLERİ İÇİN ODA",
-          "title1":" Aile Odası",
-          "area1":" 50 m²",
-          "person1":"En fazla 4 yetişkin + 1 çocuk",
-          "text1":" İç kapı ile ayrılmış iki yatak odası bulunan Aile Odalarımız, ailelerin rahatça konaklayabileceği şekilde tasarlanmıştır. Deniz veya kara manzarası seçenekleriyle unutulmaz aile anıları için idealdir.",
-          "span2":"Odanızdan Ayrılmadan Yenilenin",
-          "title2":" Fantazi Oda",
-          "area2":" 58 m²",
-          "person2":"2 yetişkin (yalnızca çiftler)",
-          "text2":"Özel tasarımlı Fantazi Odalar, muhteşem deniz manzaraları ve jakuzili 25 m² özel teras ile çiftlere romantik ve huzurlu bir tatil sunar.",
-          "buttonText":" DAHA FAZLASINI KEŞFET"
-         
-        }
+    "BackgroundSection": {
+      "subtitle": "Azura World’de Konfor ve Keyif",
+      "title": "All Inclusive Tatil Deneyimi",
+      "text": "Azura World Hotel, All Inclusive konseptiyle; konaklama, yeme-içme, havuz & aquapark, spa ve ek hizmetleriyle keyifli bir tatil sunar. Saatler ve hizmetler sezon koşullarına göre değişebilir.",
+      "buttonText": " Daha Fazlasını Keşfedin"
+    }
+  },
+  "Rooms": {
+    "header": "ODALARIMIZ",
+    "buttonText1": "Deluxe Oda",
+    "buttonText2": "Deluxe Family Oda",
+    "buttonText3": " Superior Oda",
+    "subtitle": "SİZ VE AİLENİZ İÇİN KONFORLU KONAKLAMA",
+    "title": "Azura World Odaları",
+    "text": "Azura World Hotel’de toplam 188 oda bulunur. Tüm odalarda TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur. Çarşaflar 3 günde bir değiştirilir; havlular misafir talebiyle yenilenir.",
+    "checkin": "GİRİŞ: 14:00",
+    "checkout": "ÇIKIŞ: 12:00",
+    "Room1": {
+      "title": "Deluxe Oda",
+      "text": "Deluxe odalar 22–24,99 m² aralığındadır. Tüm odalarda standart olanaklar mevcuttur.",
+      "area": "22–24,99 m²",
+      "view": "Detaylar: TBD",
+      "buttonText": " Keşfet"
     },
-
-    "HandicapRoom": {
-      "title": "Engelli Dostu Oda",
-      "subtitle": "Erişilebilirlik standartlarına uygun, konforlu konaklama",
-      "span1": "Adım/eşik olmayan giriş",
-      "span2": "Roll-in duş ve tutunma barları",
-      "span3": "Geniş manevra alanı",
-  
-      "RoomFeatures": {
-        "title": "Oda Özellikleri",
-        "subtitle": "Erişilebilirlik",
-        "text": "Odamız tekerlekli sandalye kullanıcıları ve sınırlı hareket kabiliyeti olan misafirler için optimize edilmiştir.",
-        "subtitle2": "Banyoda Erişilebilirlik",
-        "subtitle3": "Güvenlik ve Konfor",
-        "text2": "Görsel/işitsel alarm ve acil çağrı sistemleri mevcuttur.",
-        "span1": "Tekerlekli sandalye erişimi",
-        "span2": "Düşük seviyede anahtar/priz",
-        "sofa": "İsteğe bağlı açılır koltuk",
-        "feature1": "Adım/eşik yok, geniş kapılar (≥90 cm)",
-        "feature2": "Roll-in (engel’siz) duş alanı",
-        "feature3": "Duş ve WC'de tutunma barları",
-        "feature4": "Alçaltılmış lavabo, tezgâh ve prizler",
-        "feature5": "Banyoda acil durum çekme ipi",
-        "feature6": "Görsel/işitsel alarm sistemi",
-        "feature7": "Yatak çevresinde transfer alanı",
-        "feature8": "Tüm odada step-free dolaşım",
-        "feature9": "Engelli park alanına yakın",
-        "feature10": "Tekerlekli sandalye manevra alanı",
-        "feature11": "Düşük eşikli balkon/teras (varsa)"
-      },
-  
-      "BackgroundSection": {
-        "title": "Konfor ve Bağımsızlık",
-        "subtitle": "Detaylarda erişilebilir tasarım",
-        "text": "Kapı genişliklerinden mobilya yerleşimine kadar her detay, bağımsız ve güvenli bir konaklama için düşünülmüştür."
-      },
-  
-      "RoomTour": {
-        "span": "360° Oda Turu",
-        "title": "Odayı Keşfet",
-        "text": "Engelli dostu odanın tüm detaylarını 360° tur ile inceleyin.",
-        "span2": "Banyo Turu",
-        "title2": "Erişilebilir Banyo",
-        "text2": "Roll-in duş ve tutunma barlarını yakından görün.",
-        "span3": "Kat Koridoru",
-        "title3": "Erişilebilir Rotalar",
-        "text3": "Asansör ve koridor erişimini görüntüleyin."
-      },
-  
-      "OtherOptions": {
-        "subtitle": "Diğer Seçenekler",
-        "title1": "Aile Odası",
-        "area1": "45 m²",
-        "person1": "4 kişi",
-        "text1": "Geniş aileler için konforlu düzen.",
-        "title2": "Fantasy Oda",
-        "area2": "35 m²",
-        "person2": "2 kişi",
-        "text2": "Tematik ve sıra dışı deneyim."
-      }
+    "Room2": {
+      "title": "Deluxe Family Oda",
+      "text": "Deluxe Family odalar 43–53 m² aralığındadır. Tüm odalarda standart olanaklar mevcuttur.",
+      "area": "43–53 m²",
+      "view": "Detaylar: TBD",
+      "buttonText": " Keşfet"
     },
-
-    "BeachPools": {
+    "Room3": {
+      "title": " Superior Oda",
+      "text": "Superior odalar 25–40 m² aralığındadır. Tüm odalarda standart olanaklar mevcuttur.",
+      "area": "25–40 m²",
+      "view": "Detaylar: TBD",
+      "buttonText": " Keşfet"
+    },
+    "Parallax": {
+      "subtitle": " Odada Sunulan Temel Olanaklar",
+      "title": "İhtiyacınız Olan Her Şey, Odalarımızda Sizi Bekliyor",
+      "text": "Tüm odalarda TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası, yüksek hızlı Wi-Fi, balkon (masa-sandalye), tartı, aydınlatmalı makyaj aynası, acil telefon ve saç kurutma makinesi bulunur. Yastık menüsü ücretlidir.",
+      "span1": "Mini Bar",
+      "text1": "Minibar: Su ve soft içecekler.",
+      "span2": "Kozmetik Ürünleri",
+      "text2": "Banyo seti ve temel banyo ürünleri mevcuttur.",
+      "span3": " Oda Girişi",
+      "text3": "Elektronik kart sistemiyle güvenli giriş.",
+      "span4": "Wifi & LedTV ",
+      "text4": "Yüksek hızlı Wi-Fi ve TV mevcuttur."
+    }
+  },
+  "FamilyRoom": {
+    "subtitle": "Geniş Konaklama Seçeneği",
+    "title": " Deluxe Family Oda",
+    "text": "Deluxe Family odalar 43–53 m² aralığındadır ve ferah bir konaklama alanı sunar.",
+    "span1": "Detaylar: TBD",
+    "span2": "Kapasite: TBD",
+    "span3": "Yatak Düzeni: TBD",
+    "RoomFeatures": {
+      "subtitle": "KONFORLU KONAKLAMA",
+      "title": "Deluxe Family Oda",
+      "text": "Deluxe Family odalar 43–53 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "subtitle2": " Ailelere Uygun Olanaklar",
+      "span1": "Ferah yaşam alanı",
+      "span2": "Balkon (masa-sandalye)",
+      "subtitle3": "Oda Özellikleri",
+      "text2": "Tüm odalarda standart oda olanakları mevcuttur. Çarşaflar 3 günde bir değiştirilir; havlular misafir talebiyle yenilenir.",
+      "feature1": "43–53 m2",
+      "feature2": "Makyaj Masası",
+      "feature3": "Sigara İçilmez",
+      "feature4": "Mini Bar",
+      "feature5": "Kasa",
+      "feature6": "Saç Kurutma Makinesi",
+      "feature7": "Banyo Ürünleri",
+      "feature8": "Çay-Kahve Seti ",
+      "feature9": "LED TV ve Wi-Fi",
+      "feature10": "Balkon",
+      "feature11": "Duş",
+      "sofa": "Detaylar: TBD"
+    },
+    "BackgroundSection": {
+      "subtitle": " AYRICALIKLI HİZMETLER",
+      "title": " Deluxe Family Oda Avantajları",
+      "text": "All Inclusive konsept, günlük yeme-içme seçenekleri ve tesisteki imkanlarla konforlu bir konaklama sunar.",
+      "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
+      "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    },
+    "RoomTour": {
+      "span": "360° Sanal Oda Turu",
+      "title": "Deluxe Family Oda – 360°",
+      "text": "Detaylar: TBD",
+      "span2": "360° Sanal Oda Turu",
+      "title2": "Deluxe Family Oda – 360°",
+      "text2": "Detaylar: TBD"
+    },
+    "OtherOptions": {
+      "subtitle": " Size Uygun Odayı Seçin",
+      "title": " Diğer Konforlu Seçenekleri Keşfedin",
+      "span1": "FARKLI ODA SEÇENEKLERİ",
+      "title1": " Deluxe Oda",
+      "area1": "22–24,99 m²",
+      "person1": "Detaylar: TBD",
+      "text1": "Kompakt ve konforlu Deluxe oda seçeneği.",
+      "span2": "DAHA GENİŞ ALAN",
+      "title2": " Superior Oda",
+      "area2": "25–40 m²",
+      "person2": "Detaylar: TBD",
+      "text2": "Daha geniş yaşam alanı arayan misafirler için Superior oda seçeneği.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    }
+  },
+  "FantasyRoom": {
+    "subtitle": "KONFORLU VE FERAH ODA",
+    "title": " Superior Oda",
+    "text": "Superior odalar 25–40 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+    "span1": "Detaylar: TBD",
+    "span2": "Kapasite: TBD",
+    "span3": "Yatak Düzeni: TBD",
+    "RoomFeatures": {
+      "subtitle": "KONFORLU KONAKLAMA",
+      "title": "Superior Oda",
+      "text": "Superior odalar 25–40 m² aralığındadır ve standart oda olanaklarıyla konforlu bir konaklama sunar.",
+      "subtitle2": "Konfor Olanakları",
+      "span1": "Elektronik kartlı giriş",
+      "span2": "Minibar (su + soft içecek)",
+      "span3": "VRF klima",
+      "subtitle3": "Oda Özellikleri",
+      "text2": "TV, çay-kahve seti, kasa, minibar (su + soft içecek), çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "feature1": "25–40 m2",
+      "feature2": "Makyaj Masası",
+      "feature3": "Sigara İçilmez",
+      "feature4": "Mini Bar",
+      "feature5": "Kasa",
+      "feature6": "Saç Kurutma Makinesi",
+      "feature7": "Banyo Ürünleri",
+      "feature8": "Çay-Kahve Seti ",
+      "feature9": "LED TV ve Wi-Fi",
+      "feature10": "Balkon",
+      "feature11": "Duş"
+    },
+    "BackgroundSection": {
+      "subtitle": " AYRICALIKLI HİZMETLER",
+      "title": " Superior Oda Avantajları",
+      "text": "All Inclusive konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
+      "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
+      "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    },
+    "RoomTour": {
+      "span": "360° Sanal Oda Turu",
+      "title": "Superior Oda – 360°",
+      "text": "Detaylar: TBD"
+    },
+    "OtherOptions": {
+      "subtitle": " Size Uygun Odayı Seçin",
+      "title": " Diğer Konforlu Seçenekleri Keşfedin",
+      "span1": "AİLELER İÇİN",
+      "title1": " Deluxe Family Oda",
+      "area1": "43–53 m²",
+      "person1": "Detaylar: TBD",
+      "text1": "Ferah aile odası düzeni ve standart oda olanakları.",
+      "span2": "KOMPAKT SEÇENEK",
+      "title2": " Deluxe Oda",
+      "area2": "22–24,99 m²",
+      "person2": "Detaylar: TBD",
+      "text2": "Kompakt ve konforlu Deluxe oda seçeneği.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    }
+  },
+  "DeluxeRoom": {
+    "subtitle": "KONFORLU VE ŞIK KONAKLAMA",
+    "title": " Deluxe Oda",
+    "text": "",
+    "span1": "Detaylar: TBD",
+    "span2": "Kapasite: TBD",
+    "span3": "Yatak Düzeni: TBD",
+    "RoomFeatures": {
+      "subtitle": "Konfor Şıklıkla Buluşuyor",
+      "title": "Deluxe Oda",
+      "text": "Deluxe odalar 22–24,99 m² aralığındadır. TV, çay-kahve seti, kasa, minibar (su ve soft içecek), VRF klima, elektronik kartlı giriş, çalışma masası ve yüksek hızlı Wi-Fi mevcuttur.",
+      "subtitle2": "Seçkin Olanaklar",
+      "span1": "Elektronik kartlı giriş",
+      "span2": "Minibar (su + soft içecek)",
+      "subtitle3": "Oda Özellikleri",
+      "text2": "Tüm odalarda standart oda olanakları mevcuttur. Yastık menüsü ücretlidir.",
+      "feature1": "22–24,99 m2",
+      "feature2": "Makyaj Masası",
+      "feature3": "Sigara İçilmez",
+      "feature4": "Mini Bar",
+      "feature5": "Kasa",
+      "feature6": "Saç Kurutma Makinesi",
+      "feature7": "Banyo Ürünleri",
+      "feature8": "Çay-Kahve Seti ",
+      "feature9": "LED TV ve Wi-Fi",
+      "feature10": "Balkon",
+      "feature11": "Duş",
+      "sofa": "Detaylar: TBD"
+    },
+    "BackgroundSection": {
+      "subtitle": "  AYRICALIKLI HİZMETLER",
+      "title": " Deluxe Oda Avantajları",
+      "text": "All Inclusive konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
+      "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
+      "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    },
+    "RoomTour": {
+      "span": "360° Sanal Oda Turu",
+      "title": "Deluxe Oda – 360°",
+      "text": "Detaylar: TBD",
+      "span2": "360° Sanal Oda Turu",
+      "title2": "Deluxe Oda – 360°",
+      "text2": "Detaylar: TBD",
+      "span3": "360° Sanal Oda Turu",
+      "title3": "Deluxe Oda – 360°",
+      "text3": "Detaylar: TBD"
+    },
+    "OtherOptions": {
+      "subtitle": "  Size Uygun Odayı Seçin",
+      "title": "  Diğer Konforlu Seçenekleri Keşfedin",
+      "span1": "AİLELER İÇİN",
+      "title1": " Deluxe Family Oda",
+      "area1": "43–53 m²",
+      "person1": "Detaylar: TBD",
+      "text1": "Ferah oda planı ve standart oda olanakları.",
+      "span2": "DAHA GENİŞ ALAN",
+      "title2": " Superior Oda",
+      "area2": "25–40 m²",
+      "person2": "Detaylar: TBD",
+      "text2": "Daha geniş yaşam alanı arayan misafirler için.",
+      "buttonText": " DAHA FAZLASINI KEŞFET"
+    }
+  },
+  "HandicapRoom": {
+    "title": "Engelli Dostu Oda",
+    "subtitle": "Erişilebilirlik standartlarına uygun, konforlu konaklama",
+    "span1": "Erişilebilir konaklama",
+    "span2": "Kamu alanlarında erişilebilir WC",
+    "span3": "Havuz için Pool Lift",
+    "RoomFeatures": {
+      "title": "Oda Özellikleri",
+      "subtitle": "Erişilebilirlik",
+      "text": "Azura World Hotel’de 2 adet engelli erişimine uygun oda bulunur. Kamu alanlarında erişilebilir WC ve havuz için Pool Lift desteği mevcuttur.",
+      "subtitle2": "Banyoda Erişilebilirlik",
+      "subtitle3": "Güvenlik ve Konfor",
+      "text2": "Detaylar: TBD",
+      "span1": "Tekerlekli sandalye erişimi",
+      "span2": "Detaylar: TBD",
+      "sofa": "Detaylar: TBD",
+      "feature1": "Detaylar: TBD",
+      "feature2": "Detaylar: TBD",
+      "feature3": "Detaylar: TBD",
+      "feature4": "Detaylar: TBD",
+      "feature5": "Detaylar: TBD",
+      "feature6": "Detaylar: TBD",
+      "feature7": "Detaylar: TBD",
+      "feature8": "Detaylar: TBD",
+      "feature9": "Detaylar: TBD",
+      "feature10": "Detaylar: TBD",
+      "feature11": "Detaylar: TBD"
+    },
+    "BackgroundSection": {
+      "title": "Konfor ve Bağımsızlık",
+      "subtitle": "Erişilebilir tasarım",
+      "text": "Detaylar: TBD"
+    },
+    "RoomTour": {
+      "span": "360° Oda Turu",
+      "title": "Odayı Keşfet",
+      "text": "Detaylar: TBD",
+      "span2": "Banyo Turu",
+      "title2": "Erişilebilir Banyo",
+      "text2": "Detaylar: TBD",
+      "span3": "Kat Koridoru",
+      "title3": "Erişilebilir Rotalar",
+      "text3": "Detaylar: TBD"
+    },
+    "OtherOptions": {
+      "subtitle": "Diğer Seçenekler",
+      "title1": "Deluxe Family Oda",
+      "area1": "43–53 m²",
+      "person1": "Detaylar: TBD",
+      "text1": "Ferah aile odası seçeneği.",
+      "title2": "Superior Oda",
+      "area2": "25–40 m²",
+      "person2": "Detaylar: TBD",
+      "text2": "Daha geniş alan arayan misafirler için."
+    }
+  },
+  "BeachPools": {
     "subtitle": "DENİZ KENARINDA RAHATLA & YENİLEN",
     "title": "Plaj & Havuzlar",
-    "text": "70 metre uzunluğundaki özel plajımızda yumuşak kum, konforlu şezlonglar, şemsiyeler ve dinlendirici anlar için lüks bir iskele sizi bekliyor.",
+    "text": "125 metrelik plaj alanında 120 şezlong ve 60 şemsiye bulunur; kabin, WC ve duş imkânları mevcuttur. Oasis Pool, Indoor Pool ve 13 kaydıraklı Aquapark alanları tatil boyunca keyifli zaman sunar.",
     "TwoImageSection": {
       "subtitle": "DENİZ KENARINDA RAHAT ANLAR",
-      "title": "Özel Plajımızı Keşfedin",
-      "text": "Sakin turkuaz sularıyla yüzme ve su sporları için ideal özel kumlu plajımızda rahatlama anlarının keyfini çıkarın. Konforlu şezlonglar, şemsiyeler ve ücretsiz havlular bir günlük keyif için hazır. Gün boyu plaj barlarımızda sunulan serinletici içecekler ve lezzetli atıştırmalıklarla kendinizi yenileyin.",
+      "title": "Plaj Alanını Keşfedin",
+      "text": "Plaj alanında şezlong ve şemsiye seçenekleriyle gün boyu dinlenin. Kabin, WC ve duş imkânları mevcuttur.",
       "span": "Özel Ayrıcalıklar",
-      "list1": "Ücretsiz şezlong, şemsiye ve havlular.",
-      "list2": "Plaj barlarında serinletici içecekler ve hafif atıştırmalıklar.",
-      "list3": "Yüzme ve su sporları için sakin sular."
+      "list1": "120 şezlong ve 60 şemsiye.",
+      "list2": "Kabin, WC ve duş imkânları.",
+      "list3": "Plaja shuttle servis (ücretsiz)."
     },
     "BeachCarousel": {
-      "subtitle": "DENİZ KENARINDA EĞLENCE & GÜNEŞ",
-      "title": "Plaj Aktiviteleri ve Daha Fazlası",
-      "text": "Yüzme, su sporları ve her yaşa uygun heyecan verici eğlenceler de dahil olmak üzere çeşitli plaj aktiviteleri ile canlı bir atmosferin keyfini çıkarın. Deniz kenarında eğlence ve heyecan dolu unutulmaz anlar yaratın.",
-      "title1": "Yüzme & Dinlenme",
-      "span1": "Kokteyller & Atıştırmalıklar",
-      "title2": "Plaj Barında Ferahlayın",
-      "span2": "Tüm Gün Açık",
-      "title3": "Su Sporları",
-      "span3": "Tüm Gün Açık",
-      "title4": "Plajda Kutlama",
-      "span4": "SÜRE: 60 DAKİKA"
+      "subtitle": "DENİZ KENARINDA GÜNEŞ & KEYİF",
+      "title": "Azura Beach",
+      "text": "Azura Beach alanında Snack & Beverage servisi 12:30–16:00 saatleri arasında sunulur.",
+      "title1": "Snack & Beverage",
+      "span1": "12:30 – 16:00",
+      "title2": "Plaj Olanakları",
+      "span2": "Kabin / WC / Duş",
+      "title3": "Şezlong & Şemsiye",
+      "span3": "120 / 60",
+      "title4": "Plaj Alanı",
+      "span4": "125 Metre"
     },
     "BeachGif": {
-      "subtitle": "Her An İçin Tasarlanmış Havuzlar",
-      "title": "Rahatlamaya Yelken Açın",
-      "text": "Her ruh haline uygun tasarlanmış havuzlarımızda dinlenin ve yenilenin. Geniş açık yüzme havuzumuzda dalın veya ısıtmalı kapalı havuzumuzda huzurun tadını çıkarın. Küçük misafirlerimiz için özel çocuk havuzları ve heyecan verici su kaydırakları, herkes için neşe dolu anlar yaratır."
+      "subtitle": "Her An İçin Tasarlanmış Alanlar",
+      "title": "Havuzlar ve Aquapark",
+      "text": "Indoor Pool, Oasis Pool ve Aquapark alanlarında dinlenme ve eğlence bir arada sunulur."
     },
-   "PoolSection": {
-    "subtitle": "Özel Havuz Seçkimize Dalın",
-    "title": "Tüm Havuzlar Bir Bakışta",
-    "text": "Azura Deluxe Resort & Spa, her tercihe uygun havuzlar sunar. Ferah açık havuzumuzda serinleyin, ısıtmalı kapalı havuzumuzda rahatlayın veya Aqua Park’ımızdaki heyecanlı su kaydıraklarının keyfini çıkarın. Özel çocuk havuzları küçük misafirlerimize eğlence vadediyor. İdeal havuz deneyiminizi burada keşfedin.",
-    "subtitle1": "Herkese Uygun Aile Dostu Havuz",
-    "title1": "Açık Yüzme Havuzu",
-    "text1": "Geniş açık yüzme havuzumuzda ferahlatıcı yüzmelerin ve rahatlatıcı anların tadını çıkarın. Her yaştan misafire uygun tasarlanmış havuz, konforlu şezlonglar ve şemsiyelerle güneş altında huzurlu bir deneyim sunar.",
-    "depth1": "140 cm",
-    "area1": "750 m²",
-    "span1": "",
-    "subtitle2": "Rahatlama İçin Sakin Ortam",
-    "title2": "Kapalı Havuz",
-    "text2": "Serin sezonlarda hizmet veren ısıtmalı kapalı havuzumuzda huzur ve rahatlama bulun. Güneşten uzak sakin bir yüzme deneyimi sunarak tatilinizde yenilenmenizi sağlar.",
-    "depth2": "140 cm",
-    "area2": "100 m²",
-    "span2": "Mevsimsel Isıtmalı",
-    "subtitle3": "Çocuk Kulübü",
-    "title3": "Çocuk Havuzu",
-    "text3": "Özel tasarlanmış ısıtmalı çocuk havuzumuz, küçük misafirlerimiz için güvenli ve eğlenceli bir ortam sunar. Sığ su ve mini kaydırakla çocuklar güvenle oynayıp unutulmaz anılar biriktirir.",
-    "depth3": "40 cm",
-    "area3": "90 m²",
-    "span3": "Mini kaydırak dahil",
-    "subtitle4": "Heyecan Dolu Kaydırak Keyfi",
-    "title4": "Kaydırak Havuzu",
-    "text4": "Tatilinize macera katın! Dört farklı su kaydırağına sahip ısıtmalı Kaydırak Havuzu, hem çocuklar hem yetişkinler için heyecan ve eğlenceli anlar sunar.",
-    "depth4": "120 cm",
-    "area4": "80 m²",
-    "span4": "4 Su Kaydırağı",
-    "subtitle5": "Küçük Yüzücüler İçin Güvenli ve Eğlenceli",
-    "title5": "Kapalı Çocuk Havuzu",
-    "text5": "En küçük misafirlerimize özel Kapalı Çocuk Havuzu, sıcak ve güvenli bir ortam sunar. Sığ ve ısıtmalı suyu sayesinde hava koşullarına bakılmaksızın eğlenceli su oyunları yaşanır.",
-    "depth5": "40 cm",
-    "area5": "14 m²",
-    "span5": "Mevsimsel Isıtmalı",
-    "indoor": "Kapalı",
-    "outdoor": "Açık"
-  }
+    "PoolSection": {
+      "subtitle": "Özel Havuz Seçkimize Dalın",
+      "title": "Tüm Havuzlar Bir Bakışta",
+      "text": "Indoor Pool, Oasis Pool ve Aquapark alanları misafirlerin kullanımına sunulur. Saatler ve kullanım koşulları sezona göre değişebilir.",
+      "subtitle1": "Açık Havuz",
+      "title1": "Oasis Pool",
+      "text1": "Oasis Pool alanı 271 m²’dir (Kids: 14,7 m²). Derinlik 137 cm’dir (Kids: 34 cm). Şezlong: 140 / Şemsiye: 70.",
+      "depth1": "137 cm (Kids: 34 cm)",
+      "area1": "271 m² (Kids: 14,7 m²)",
+      "span1": "",
+      "subtitle2": "Kapalı Havuz",
+      "title2": "Indoor Pool",
+      "text2": "1 ana havuz + 1 çocuk havuzu. Alan: 102 m² + 12 m². Derinlik: 140 cm – 34 cm. Isıtma sezonluk uygulanır; belirli tarihler dışında kapalıdır.",
+      "depth2": "140 cm – 34 cm",
+      "area2": "102 m² + 12 m²",
+      "span2": "Mevsimsel Isıtmalı",
+      "subtitle3": "Çocuk Havuzu",
+      "title3": "Indoor Pool Kids",
+      "text3": "Indoor Pool çocuk havuzu alanı 12 m²’dir ve derinliği 34 cm’dir.",
+      "depth3": "34 cm",
+      "area3": "12 m²",
+      "span3": "",
+      "subtitle4": "Heyecan Dolu Kaydırak Keyfi",
+      "title4": "Aquapark",
+      "text4": "13 farklı su kaydırağı bulunur. Havuz alanı 1613 m²’dir. Derinlik: 120 cm (Kids: 27 cm). Saatler: 10:00–12:00 / 14:00–17:00. Şezlong: 100.",
+      "depth4": "120 cm (Kids: 27 cm)",
+      "area4": "1613 m²",
+      "span4": "13 Su Kaydırağı",
+      "subtitle5": "Kids Alanı",
+      "title5": "Oasis Kids Alanı",
+      "text5": "Oasis Pool kids alanı 14,7 m²’dir ve derinliği 34 cm’dir.",
+      "depth5": "34 cm",
+      "area5": "14,7 m²",
+      "span5": "",
+      "indoor": "Kapalı",
+      "outdoor": "Açık"
+    }
   },
-
   "Restaurants": {
-    "subtitle": "Özenle Hazırlanmış Gurme Deneyimler",
+    "subtitle": "Özenle Hazırlanmış Lezzet Deneyimleri",
     "title": "Restoranlar",
-    "text": "Özenle seçilmiş yemek seçeneklerimizle keyifli bir lezzet yolculuğuna çıkın. Otantik Türk ve Akdeniz tatlarından uluslararası gurme uzmanlıklarına kadar Azura Deluxe Resort & Spa, her öğünü unutulmaz kılacak geniş bir restoran yelpazesi sunar.",
+    "text": "All Inclusive konsept kapsamında Milos Restaurant’ta büfe servisleri; Saffron A’la Carte’ta rezervasyonlu servis; Patisserie Art’ta tatlı servisi sunulur. Taze sıkma meyve suları ekstra ücretlidir.",
     "TwoImagesSection": {
       "subtitle": "",
-      "title": "Azura Deluxe'de Lezzet Sanatı",
-      "text": "Azura Deluxe Resort & Spa’da olağanüstü lezzet deneyimlerinin tadını çıkarın. Şık À la Carte restoranlarımızda en seçkin uluslararası mutfakların keyfini sürebilir veya zengin açık büfemizdeki Türk özel tatları ve taze Akdeniz lezzetleriyle her öğünü unutulmaz kılabilirsiniz",
+      "title": "Azura World’de Yeme-İçme",
+      "text": "All Inclusive konsept kapsamında, günün farklı saatlerinde farklı alanlarda servisler sunulur. Saatler sezon koşullarına göre değişebilir.",
       "span": "Yemek Seçenekleri:",
-      "list1": "Ana Restoran: Erken Kahvaltı, Kahvaltı, Geç Kahvaltı, Öğle Yemeği, Akşam Yemeği, Gece Kahvaltısı (23:00–03:00)",
-      "list2": "Snack Restoran (Lyric Snack): 12:00–16:00 (ızgara spesiyaliteler, fast‑food, tatlılar, meyveler, dondurma belirli saatlerde servis edilir)"
+      "list1": "Milos Restaurant (Floor B): 07:00–10:00 / 10:00–10:30 / 12:30–14:00 / 18:30–21:00",
+      "list2": "Saffron A’la Carte (Floor B): 18:30–23:00 (Rezervasyonlu, 7 gece+ konaklamada 1 kez)"
     },
     "BackgroundSection": {
       "subtitle": "EŞSİZ BİR LEZZET ŞÖLENİ",
-      "title": "Ana Restoran",
-      "text": "Kahvaltı, öğle ve akşam yemeklerinde, Türk mutfağının otantik lezzetlerini ve mevsimsel uzmanlıkları sergileyen zengin açık büfemizde keşfedin.",
+      "title": "Milos Restaurant",
+      "text": "Kahvaltı, geç kahvaltı, öğle ve akşam büfeleri Milos Restaurant’ta servis edilir.",
       "span": "Yemek Saatleri:",
-      "list1": "Kahvaltı: 07:00 - 10:30",
-      "list2": "Öğle Yemeği: 12:30 - 14:00",
-      "list3": "Akşam Yemeği: 19:00 - 21:00",
+      "list1": "Kahvaltı: 07:00 - 10:00",
+      "list2": "Geç Kahvaltı: 10:00 - 10:30",
+      "list3": "Öğle Yemeği: 12:30 - 14:00",
+      "list4": "Akşam Yemeği: 18:30 - 21:00",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     },
-
     "CarouselSection": {
-      "subtitle": "Mükemmel Gurme Deneyimler",
-      "title": "À la Carte Restoranlar",
-      "text": "Özel à la carte restoranlarımızda olağanüstü uluslararası lezzetlerin tadını çıkarın. Yetenekli ve ödüllü şeflerimiz tarafından ustalıkla hazırlanan enfes yemeklerle tatilinizi benzersiz kılın.",
-      "subtitle1": " MUTFAK: Uluslararası",
-      "title1": " Ana Restoran",
-      "text1": "Ana restoranımızın sıcak atmosferinde yetenekli şeflerimiz tarafından hazırlanan uluslararası lezzetlerin zengin çeşitliliğini keşfedin. Dünyanın farklı mutfaklarından özenle seçilmiş, lezzetli ve şık sunumlu açık büfemizin keyfini kahvaltı, öğle ve akşam yemeklerinde çıkarabilirsiniz.",
-      "span1": "Açılış Saatleri: 10:00 – 18:00",
-      "subtitle2": " MUTFAK: İtalyan",
-      "title2": " İtalyan À la Carte Restoranı",
-      "text2": " İtalyan À la Carte Restoranımızda Güney İtalya mutfağının birbirinden leziz tatlarını keşfedin. Carpaccio, risotto, makarna ve salata gibi özel lezzetlerin yanında kaliteli kırmızı şarapların eşsiz aromasını duyumsayın. Akdeniz boyunca büyüleyici bir gastronomi yolculuğuna çıkacağınız sihirli bir yemek deneyimi yaşayın.",
-      "span2": "Açılış Saatleri: 19:00 – 21:00",
-      "subtitle3": " MUTFAK: Türk",
-      "title3": " Türk À la Carte Restoran",
-      "text3": "Muhteşem Osmanlı Saray mutfağının nadir tarifleriyle hazırlanan benzersiz menümüzü keşfedin. Klasik Türk müziğinin huzur veren ezgileri eşliğinde, Türkiye’nin zengin mutfak mirasının tadına varacağınız unutulmaz bir yemek deneyimi yaşayın.",
-      "span3": "Açılış Saatleri: 12:00 – 16:00"
+      "subtitle": "Rezervasyonlu Seçenek",
+      "title": "Saffron A’la Carte",
+      "text": "Rezervasyon gereklidir. 7 gece ve üzeri konaklamalarda 1 kez kullanım hakkı bulunur.",
+      "subtitle1": " MUTFAK: TBD",
+      "title1": " Saffron A’la Carte",
+      "text1": "Servis saatleri: 18:30 – 23:00 (rezervasyonlu).",
+      "span1": "Açılış Saatleri: 18:30 – 23:00",
+      "subtitle2": " ",
+      "title2": " ",
+      "text2": " ",
+      "span2": " ",
+      "subtitle3": " ",
+      "title3": " ",
+      "text3": " ",
+      "span3": " "
     },
-
     "TwoImagesSection2": {
       "subtitle": "",
-      "span":"",
-      "title": "Tatlıların Dayanılmaz Lezzeti",
-      "text": "Azura Deluxe Resort & Spa, tatlı severlere unutulmaz bir deneyim sunuyor. Tesisimizin patisserie bölümünde, her damak tadına hitap eden lezzetlerle tatilinizi daha da tatlandırabilirsiniz. Zengin çeşitlilikteki tuzlu ve tatlı kurabiyeler, ıslak kekler ve özel sandviçlerle günün her anında tatlı bir mola verebilir, kahvenizin ya da çayınızın yanında seçkin lezzetlerin tadını çıkarabilirsiniz.",
-      "text2":"Birbirinden leziz tatlılarımız, profesyonel şeflerimizin elinden çıkarak özenle hazırlanır. Taze ve doğal malzemelerle hazırlanan bu tatlar, Azura Deluxe'ın lezzet anlayışının en güzel örneklerini sergiler ve tatilinize özel bir dokunuş katmaya hazırdır."
+      "span": "",
+      "title": "Patisserie Art",
+      "text": "Çikolata, kek, kurabiye, cupcake ve çeşitli tatlı seçenekleri sunulur.",
+      "text2": "Servis saatleri: 14:00 – 18:00."
     },
-
     "CarouselSection2": {
-      "subtitle": "Mükemmel Gurme Deneyimler",
-      "title": "À la Carte Restoranlar",
-      "text": "Özel à la carte restoranlarımızda olağanüstü uluslararası lezzetlerin tadını çıkarın. Yetenekli ve ödüllü şeflerimiz tarafından ustalıkla hazırlanan enfes yemeklerle tatilinizi benzersiz kılın.",
-      "subtitle1": "TATLILAR & SICAK İÇECEKLER",
-      "title1": "Patisserie",
-      "text1": "Çekici pastanemizde taze pişmiş hamur işleri, enfes tatlılar, lezzetli kekler ve sıcak içeceklerden oluşan zengin bir seçkiyle tatlı anların tadını çıkarın. Gün boyu keyifle dinlenmek ve kendinizi şımartmak için ideal bir mekan. Öne çıkanlar: Çeşitli kahveler, demlenmiş çay, baklava, kurabiye ve sandviçler.",
-      "span1": "Açılış Saatleri: 10:00 – 18:00",
-      "subtitle2": "À LA CARTE ATIŞTIRMALIKLAR",
-      "title2": "Mazurka Snack Restoranı",
-      "text2": "Mazurka Snack Restoranı'nda taze ızgara spesiyaliteler, lezzetli sandviçler ve nefis salatalardan oluşan à la carte atıştırmalıkların tadını çıkarın.  Otel içinde rahat bir yemek deneyimiyle gece saatlerindeki atıştırmalık ihtiyaçlarınızı karşılayın. Mutfak: Izgara ürünler, burgerler, sandviçler, salatalar ve meyveler.",
-      "span2": "Açılış Saatleri: 19:00 – 21:00",
-      "subtitle3": "PLAJ ATIŞTIRMALIKLARI",
-      "title3": "Lyric",
-      "text3": "Plaj ve iskele kenarındaki Lyric Snack Bar’da rahatlatıcı bir deniz kenarı yemek deneyimi yaşayın. Lezzetli taze salatalar, çıtır pizzalar, sulu kebaplar, taze meyveler, waffle’lar, atıştırmalıklar ve ferahlatıcı içecekler eşliğinde güneşin ve sonsuz deniz manzarasının keyfini çıkarın. Öne çıkanlar: Salatalar, pizza, kebaplar, meyveler, waffle ve çeşitli atıştırmalıklar.",
-      "span3": "Açılış Saatleri: 12:00 – 16:00"
+      "subtitle": "Gün Boyu Seçenekler",
+      "title": "Diğer Servis Alanları",
+      "text": "Lobby Bistro Lounge ve Azura Beach alanlarında günün farklı saatlerinde servis seçenekleri mevcuttur.",
+      "subtitle1": "TATLILAR",
+      "title1": "Patisserie Art",
+      "text1": "Servis: 14:00 – 18:00.",
+      "span1": "Açılış Saatleri: 14:00 – 18:00",
+      "subtitle2": "7/24 ALAN KULLANIMI",
+      "title2": "Lobby Bistro Lounge",
+      "text2": "Lobby Bistro Lounge 7/24 açıktır. Servis saatleri: 10:00 – 01:00.",
+      "span2": "Servis Saatleri: 10:00 – 01:00",
+      "subtitle3": "PLAJ ALANI",
+      "title3": "Azura Beach",
+      "text3": "Snack & Beverage servisi: 12:30 – 16:00.",
+      "span3": "Açılış Saatleri: 12:30 – 16:00"
     },
     "BackgroundSection2": {
       "subtitle": "EŞSİZ BİR LEZZET ŞÖLENİ",
       "title": "Barlarımızı Keşfedin",
-      "text": "Azura Deluxe Resort & Spa’nın şık barlarında keyifli bir atmosferin tadını çıkarın. Ferahlatıcı kokteyllerden premium içeceklere, sosyalleşme veya dinlenme için ideal rahat alanlara kadar her barımız, ruh halinize göre benzersiz bir deneyim sunar.",
+      "text": "Oasis Pool Bar ve Lobby Bistro Lounge’da servis seçenekleri mevcuttur. Flamingo Bar Aquapark içecek servisi ekstra ücretlidir.",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     }
   },
-
   "Bars": {
     "subtitle": "ÖZEL İÇECEK DENEYİMLERİ",
     "title": "Barlar",
-    "text": "Azura Deluxe Resort & Spa’nın barlarında seçkin içecek çeşitleri ve şık atmosferler keşfedin. Ustalıkla hazırlanmış kokteyllerden premium uluslararası içeceklere, rahatlatıcı bitki çaylarından taze demlenmiş kahvelere kadar her anınıza uygun lezzet seçenekleri sunuyoruz.",
-
+    "text": "Oasis Pool Bar’da 10:00–22:00, Lobby Bistro Lounge’da 10:00–01:00 servis sunulur. Flamingo Bar Aquapark içecek servisi 10:00–00:00 saatlerinde olup ekstra ücretlidir. 18 yaş altına alkol servisi yapılmaz.",
     "TwoImageSection": {
       "subtitle": "Mükemmel İçecek Deneyimleri",
-      "title": "Seçkin Barlar",
-      "text": "Azura Deluxe Resort & Spa’nın şık barlarında tatilinizi bir üst düzeye taşıyın. Ustalıkla hazırlanmış kokteyller, premium uluslararası içecekler veya taze demlenmiş çay ve kahvelerle rahatlayın. Her bar, dinlenmek, sosyalleşmek veya özel anları kutlamak için mükemmel bir atmosfer sunar."
+      "title": "İçecek Servis Alanları",
+      "text": "Gün boyunca farklı alanlarda alkollü/alkolsüz içecek servisleri sunulur. Saatler sezon koşullarına göre değişebilir."
     },
-
     "BackgroundSection": {
       "subtitle": "EŞSİZ BİR TAD ZİYAFETİ",
       "title": "Serinleyin ve Rahatlayın",
-      "text": "Özenle tasarlanmış barlarımızda dinlenip yenilenin. Şık ortamlarda çeşitli ferahlatıcı içecekler, ustaca hazırlanmış kokteyller ve premium içecekler sunuyoruz; günün her anında rahatlamak için ideal.",
+      "text": "Oasis Pool Bar ve Lobby Bistro Lounge’da içecek servisleri; Aquapark alanında ise Flamingo Bar (extra fee) seçeneği mevcuttur.",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     },
-
     "Carousel": {
       "subtitle": "Mükemmel İçecek Deneyimleri",
       "title": "Barlar",
-      "text": "Azura Deluxe Resort & Spa’nın davetkar barlarında keyifli içecek deneyimlerinin tadını çıkarın. Ferahlatıcı kokteyller, premium içkiler, uluslararası içecekler ve rahatlatıcı ikramlar sizleri bekliyor. Her anı şıklık ve zerafetle yaşayın.",
-      "subtitle1": "Mart, Nisan, Ekim: 10:00–00:00Mayıs–Eylül: 24 Saat",
-      "title1": "Lobby Piyano Barı",
-      "text1": "Lobby Piyano Barı’nda uzmanlıkla hazırlanmış kokteyller, premium içecekler ve lezzetli ikramlarla rahatlayın ve sosyalleşin. Zarif bir atmosferde keyifli sohbetlerin tadını çıkarın.",
-      "subtitle2": "Saat: 10:00–00:00",
-      "title2": "Cha Cha Pool Bar",
-      "text2": "Havuz kenarında hareketli Cha Cha Pool Bar’ımızda serinletici kokteyller, soğuk içecekler ve lezzetli atıştırmalıkların tadını çıkarın. Güneş altında veya yıldızlar altında unutulmaz anılar biriktirin.",
-      "subtitle3": "Saat: 10:00–18:00",
-      "title3": "Pier Bar",
-      "text3": "Pier Bar’ımızda deniz kenarında ferahlatıcı molanın keyfini çıkarın. Lezzetli kokteyller, soğuk içecekler ve atıştırmalıklar muhteşem manzara eşliğinde sunulur.",
-      "subtitle4": "Saat: 12.00-16.00",
-      "title4": "Lyric Snack Bar",
-      "text4": "Sahildeki Lyric Snack Bar’da ızgara çeşitleri, pide, döner, hamburger, salata ve taze meyve sunuluyor; belirli saatlerde dondurma köşesi de ziyafetinize eşlik ediyor. Deniz manzarası eşliğinde keyifli atıştırmalıklar sizi bekliyor.",
+      "text": "Saatler sezon koşullarına göre değişebilir.",
+      "subtitle1": "7/24 Alan Kullanımı (Servis: 10:00–01:00)",
+      "title1": "Lobby Bistro Lounge",
+      "text1": "Lobi alanında gün boyu dinlenme ve servis imkânı.",
+      "subtitle2": "Servis: 10:00–22:00",
+      "title2": "Oasis Pool Bar",
+      "text2": "Alkollü, alkolsüz ve ferahlatıcı içecekler.",
+      "subtitle3": "Servis: 10:00–00:00 (Extra Fee)",
+      "title3": "Flamingo Bar Aquapark",
+      "text3": "Aquapark alanında içecek servisi (ekstra ücretli).",
+      "subtitle4": "Snack & Beverage: 12:30–16:00",
+      "title4": "Azura Beach",
+      "text4": "Plaj alanında snack & beverage servisi.",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     },
-
     "BackgroundSection2": {
       "subtitle": "EŞSİZ BİR LEZZET ŞÖLENİ",
-      "title": "En Güzel Restoranlarımızı Keşfedin",
-      "text": "Azura Deluxe Resort & Spa’da olağanüstü gastronomik deneyimlere davetlisiniz. Restoranlarımız, özgün Türk spesiyalitelerinden Akdeniz lezzetlerine ve uluslararası gurme sunumlara kadar geniş bir yelpaze sunar; her biri unutulmaz tat anları için özenle hazırlanır.",
+      "title": "Restoranlarımızı Keşfedin",
+      "text": "Milos Restaurant ve Saffron A’la Carte seçenekleriyle lezzet deneyimi yaşayın.",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     }
   },
-
   "Entertainment": {
     "subtitle": "Eğlence & Aktiviteler",
-    "title": "Sınırsız Eğlence ve Aktiviteler",
-    "text": "Azura Deluxe Resort & Spa, her yaştan misafirimiz için bitmeyen eğlence fırsatları sunar. Günlük havuz aktiviteleri, heyecanlı canlı gösteriler, fitness seansları, su aerobiği, dart, boccia ve çok daha fazlasının tadını çıkarın. Profesyonel animasyon ekibimiz, konaklamanızın her anını unutulmaz kılacak eğlence vaat eder.",
-    "span1": "Heyecan Verici Deneyim",
+    "title": "Eğlence ve Deneyimler",
+    "text": "Azura World Hotel’de Aquapark, Funzone Gaming Room ve farklı hizmet alanlarıyla tatilinize keyif katın. Program ve kullanım koşulları sezona göre değişebilir.",
+    "span1": "Keyifli Deneyim",
     "span2": "Unutulmaz Deneyim",
     "daytime": "Gündüz Aktiviteleri",
-    "nighttime": "Gece Eğlencesi",
+    "nighttime": "Akşam Deneyimleri",
     "GridSection": {
-      "subtitle": "Eğlence & Aktiviteler",
-      "title": "Etkinlikler her gün düzenlenir",
-      "text": "Azura Deluxe Resort & Spa, canlı gösteriler, özel akşam şovları, diskolar, boccia, plaj voleybolu, masa tenisi, dart, havuz oyunları, aerobik ve su jimnastiği gibi çeşitli aktiviteler sunarak sizi unutulmaz eğlence ve spor deneyimleriyle ağırlamaya hazır.",
-      "title1": "Sport & Fitness",
-      "text1": "Azura Deluxe Resort & Spa’da tatiliniz boyunca formda ve enerjik kalın. Tam donanımlı fitness merkezimizden yararlanın, canlandırıcı aerobik seanslarına, su jimnastiğine, plaj voleybolu maçlarına, boccia oyunlarına, dart ve havuz aktivitelerine katılarak tatilinizi zenginleştirin.",
-      "title2": "Çocuk & Genç Kulübü",
-      "text2": "Azura Deluxe Resort & Spa, küçük misafirlerimiz için sonsuz eğlence sunar! Özel tasarlanmış Çocuk Kulübü’ımızda denetimli günlük aktiviteler, oyun alanları, mini diskolar ve 4–12 yaş çocuklara yönelik yaratıcı etkinlikler sizi bekliyor. Gençler de güvenli ve samimi ortamda oyunlar ve sosyal aktivitelerle yeni arkadaşlar edinebilir.",
-      "title3": "Su Sporları",
-      "text3": "Azura Deluxe Resort & Spa’da heyecan dolu su sporları deneyimi yaşayın. Maceralı jet ski turlarından parasailing, muz botu gezilerine kadar çeşit çeşit aktiviteyle Akdeniz’in masmavi sularında unutulmaz anlar sizi bekliyor.",
-      "title4": "Plaj Aktiviteleri",
-      "text4": "Güzel özel plajımızda plaj voleybolu, boccia, dart, çeşitli oyunlar ve rahatlatıcı sahil eğlenceleriyle sonsuz eğlence sizi bekliyor. Akdeniz’in ışıltılı sularının kıyısında güneş altında renkli aktivitelerle günlerinizi unutulmaz kılın.",
-      "title5": "Masa Tenisi",
-      "text5": "Azura Deluxe Resort & Spa’da heyecan verici masa tenisi karşılaşmalarıyla rekabet ve eğlence bir arada. Her seviyeye uygun bu aktivite, gününüzü aktif ve keyifli geçirmenin harika bir yoludur.",
-      "title6": "Su Jimnastiği",
-      "text6": "Azura Deluxe Resort & Spa’da enerjik su jimnastiği seanslarıyla bedeninizi ve zihninizi yenileyin. Profesyonel eğitmenlerimiz eşliğinde havuzda yapılan bu antrenmanlar, tatilinizde formda kalmanızı ve eğlenmenizi sağlar.",
-      "title7": "Step Aerobik",
-      "text7": "Enerjik step aerobik seanslarımıza katılarak vücudunuzu canlandırın, modunuzu yükseltin ve eğlenceli bir grup antrenmanı deneyimi yaşayın.",
-      "title8": "Sahne Şovları",
-      "text8": "Azura Deluxe Resort & Spa’da gündüz sahne şovları ile büyülenin. Canlı performanslar, etkileşimli eğlenceler ve profesyonel gösterilerle dolu etkinliklerimiz, tüm yaşlardaki misafirlerimize unutulmaz anlar vaat eder.",
-      "title9": "Dart & Boccia",
-      "text9": "Becerilerinizi test edin ve dostça rekabetin tadını çıkarın. Dart ve boccia oyunları, konaklamanız süresince sosyalleşme ve eğlence sunar.",
-      "daytime": "GÜNDÜZ AKTİVİTELERİ",
-      "nighttime": "GECE ETKİNLİKLERİ"
+      "subtitle": "Eğlence & Deneyimler",
+      "title": "Tesis İçi Seçenekler",
+      "text": "Aquapark, Funzone Gaming Room ve toplantı alanları gibi seçenekler mevcuttur.",
+      "title1": "Aquapark",
+      "text1": "13 farklı kaydırak, 1613 m² havuz alanı. Saatler: 10:00–12:00 / 14:00–17:00.",
+      "title2": "Funzone Gaming Room",
+      "text2": "B Floor: PS5 (3), Langırt (2), Air Hockey (1), Dartboard (2).",
+      "title3": "Aspendos Meeting Room",
+      "text3": "12 m x 21 m, yükseklik 3.10 m, toplam 255 m², kapasite 270 kişi.",
+      "title4": "Plaj Alanı",
+      "text4": "125 metre plaj alanı, kabin/WC/duş imkânları ve şezlong/şemsiye alanları.",
+      "title5": "Oasis Pool",
+      "text5": "271 m² (Kids 14,7 m²). Derinlik 137 cm (Kids 34 cm).",
+      "title6": "Indoor Pool",
+      "text6": "102 m² + 12 m² (Kids). Derinlik 140 cm – 34 cm. Isıtma sezonluk.",
+      "title7": "Hizmetler",
+      "text7": "Ücretsiz ve ücretli hizmetler tesise göre sunulur. (Detaylar aşağıda.)",
+      "title8": "Özel Gün Paketleri",
+      "text8": "Doğum günü, yıldönümü vb. paketler ücretlidir.",
+      "title9": "Oda Servisi",
+      "text9": "Room Service (extra fee) mevcuttur.",
+      "daytime": "GÜNDÜZ",
+      "nighttime": "AKŞAM"
     }
   },
-
   "KidsClub": {
-    "subtitle": "ÇOCUKLAR İÇİN EĞLENCELİ ZAMAN",
+    "subtitle": "ÇOCUKLAR İÇİN KEYİFLİ ZAMAN",
     "title": "Mini Kulüp",
-    "text": "Azura Deluxe Resort & Spa’nın Mini Kulübü’nde 4–12 yaş arası küçük misafirlerimizi eğlence ve heyecan bekliyor. Denetimli aktiviteler, yaratıcı atölyeler, heyecanlı oyun alanları ve canlı mini diskolarla Kids Club’ımız gün boyu unutulmaz anlar ve güvenli eğlence sunar.",
+    "text": "Mini Club ücretsiz hizmetler arasındadır. Çocuk oyun alanı da ücretsiz hizmetler kapsamındadır. Program ve detaylar sezona göre değişebilir.",
     "TwoImageSection": {
-      "subtitle": "KÜÇÜKLER İÇİN EĞLENCE & KEYİF",
+      "subtitle": "KÜÇÜKLER İÇİN EĞLENCE",
       "title": "Mini Kulüp",
-      "text": "Azura Deluxe Resort & Spa’nın Mini Kulübü’nde 4–12 yaş arası çocuklar, denetimli günlük aktiviteler, yaratıcı oyunlar, mini diskolar, oyun alanları ve daha fazlasıyla sonsuz eğlencenin tadını çıkarır. Şefkatli ve deneyimli ekibimiz, miniklerinizin neşeli, güvenli ve unutulmaz bir tatil geçirmesini sağlarken siz de tatilinizin keyfini çıkarabilirsiniz."
+      "text": "Mini Club, çocuk oyun alanı ve ailelere yönelik ücretsiz hizmetlerle tatil boyunca keyifli zaman hedeflenir."
     },
     "iconsText1": "Güvenli Ortam",
     "iconsText2": "Yaşa Uygun Aktiviteler",
@@ -721,147 +668,134 @@
     "iconsText4": "Profesyonel Personel",
     "CarouselSection": {
       "subtitle": "Mini Kulübe Hoş Geldiniz",
-      "title": "Eğlence ve Eğitim Buluşuyor",
-      "text": "Kids Club’ımız, her yaştan çocuğa yönelik eğitici ve eğlenceli aktiviteler sunar. Yaratıcılığı besleyen, hayal gücünü geliştiren ve çocukların hayallerini gerçeğe dönüştüren canlı bir ortam yarattık, tatilinizi unutulmaz kılacak anlar sizi bekliyor.",
-      "title1": "Çocuk Aktiviteleri",
-      "title2": "Mini Disko",
-      "title3": "Minik Sinema",
+      "title": "Eğlence ve Oyun",
+      "text": "Mini Club ücretsizdir. Detaylar: TBD",
+      "title1": "Aktiviteler",
+      "title2": "Oyun Zamanı",
+      "title3": "Eğlence",
       "title4": "Oyun Odaları",
       "title5": "Oyun Alanı"
     },
     "OtherOptions": {
       "subtitle": "Mini Kulüp",
       "title": "Çocuk Havuzları",
-      "text": "Azura Deluxe Resort & Spa’daki özel çocuk havuzlarımız, miniklerinizin suyla oynayıp eğlenebileceği güvenli ve keyifli bir ortam sunar. Sığ suyu, mini kaydırağı ve konforlu atmosferiyle bu havuzlar, en küçük misafirlerimizin ihtiyaçlarına ve eğlencesine göre tasarlanmıştır.",
+      "text": "Indoor Pool içerisinde 1 çocuk havuzu (12 m², 34 cm) bulunur. Oasis Pool kids alanı 14,7 m²’dir (34 cm). Aquapark kids alanı derinliği 27 cm’dir.",
       "subtitle1": "Mini Kulüp",
-      "title1": "Çocuk Kaydırak Havuzu",
-      "text1": "Azura Deluxe Resort & Spa’daki ısıtmalı Çocuk Kaydırak Havuzu, genç misafirlerimize heyecanlı ve güvenli bir ortam sunar. Sığ havuzu ve mini kaydırağıyla çocuklar tatil boyunca su aktivitelerinin, çılgın sıçramaların ve sınırsız eğlencenin keyfini çıkarır.",
+      "title1": "Indoor Pool Kids",
+      "text1": "12 m² / 34 cm.",
       "subtitle2": "Mini Kulüp",
-      "title2": "Çocuk Havuzları",
-      "text2": "Azura Deluxe Resort & Spa’daki özel tasarım ısıtmalı Çocuk Havuzu, miniklerimize güvenli, keyifli ve dinlendirici bir ortam sunar. Sığ sular ve mini kaydırağıyla çocuklar gözetim altında güvenle oynar, tatilin her anı neşe ve unutulmaz anlara dönüşür.",
+      "title2": "Oasis Kids Alanı",
+      "text2": "14,7 m² / 34 cm.",
       "subtitle3": "Mini Kulüp",
-      "title3": "Kapalı Çocuk Havuzu",
-      "text3": "Kapalı Çocuk Havuzumuz, Azura Deluxe Resort & Spa’nın genç misafirlerine sıcak, güvenli ve rahat bir su ortamı sunar. Sığ ve ısıtmalı suyuyla her hava koşulunda keyifle oynayıp eğlenebilecekleri ideal bir alandır."
+      "title3": "Aquapark Kids",
+      "text3": "Derinlik: 27 cm. (Alan: TBD)"
     },
     "galleryTitle": "Her Anı Unutulmaz Kılın"
   },
-
   "Spa": {
-    "subtitle": "SENFONY SPA & WELLNESS MERKEZİMİZDE RAHATLAYIN",
+    "subtitle": "AZURA WORLD SPA & WELLNESS’TE RAHATLAYIN",
     "title": "Spa & Wellness",
-    "text": "Azura Deluxe Resort & Spa’nın Symphony Spa & Wellness Merkezi'nde rahatlayın, yenilenin ve enerjinizi tazeleyin. Yüksek kalitede profesyonel masajlar ve bakımlarla hem bedensel hem zihinsel tam rahatlama sağlayın; tatiliniz huzurlu ve unutulmaz geçsin.",
-    "title1": "Aromaterapi Masajı",
-  "title2": "Oryantal Masaj",
-  "title3": "Klasik Masaj",
-  "title4": "Özel Yüz Masajı",
-  "time":"SÜRE: 60 DAK",
-
+    "text": "Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir. Çalışma saatleri: 08:00 – 19:00. Balayı misafirlerine SPA hizmetlerinde özel indirim ve ücretsiz balayı paketi sunulur.",
+    "title1": "Masaj",
+    "title2": "Spa Bakımları",
+    "title3": "Türk Hamamı",
+    "title4": "Sauna",
+    "time": "SÜRE: TBD",
     "InfoSection": {
       "subtitle1": "Bedeninizi ve Zihninizi Yenileyin",
-      "title1": "Azura Deluxe Resort & Spa’da Wellness",
-      "text1": "Tam donanımlı fitness merkezimizde formunuzu koruyun. Antrenmandan sonra Symphony Spa & Wellness Merkezi'nde profesyonel masajla gevşeyin, geleneksel Türk Hamamı’nda yenilenin veya Finlandiya Saunası’nda detoks yaparak rahatlayın.",
-      "subtitle2": "Symphony Spa’da Türk Hamamı ve Sauna Konforu",
+      "title1": "Azura World Hotel’de Wellness",
+      "text1": "Spa & Wellness alanında dinlenin ve yenilenin. Ücretsiz alanlar: Indoor Pool, buhar odası, Türk hamamı, sauna, tuz odası. Masaj hizmetleri ücretlidir.",
+      "subtitle2": "Spa Alanları",
       "title2": "Sauna & Türk Hamamı",
-      "text2": "Çalışma Saatleri: 07:00 – 20:00",
+      "text2": "Çalışma Saatleri: 08:00 – 19:00",
       "subtitle3": "Spa Bakımları",
       "title3": "Spa & Wellness",
       "text3": "Çalışma Saatleri: 08:00 – 19:00",
-      "list1": "10 Masaj Odası",
-      "list2": "1 VIP Çift Kişilik Spa Süiti",
+      "list1": "Indoor Pool (sezonluk ısıtmalı)",
+      "list2": "Buhar Odası",
       "list3": "Türk Hamamı",
       "list4": "Sauna",
-      "list5": "Buhar Odası",
-      "list6": "Dinlenme Alanları",
-      "list7": "Profesyonel Fitness Merkezi"
+      "list5": "Tuz Odası",
+      "list6": "Masaj (Ücretli)",
+      "list7": "Balayı Paketi (Ücretsiz)"
     },
-
     "GallerySection": {
       "subtitle": "Duyularınızı Yenileyin",
-      "title": "Symphony Spa & Wellness",
-      "text": "Azura Deluxe Resort & Spa’nın Symphony Spa’sında kendinizi şımartın; huzur ve dinlenme sizi bekliyor. Zihninizi tazeleyen bakımlar, rahatlatıcı masajlar, geleneksel Türk hamamı deneyimleri ve huzurlu sauna seanslarını keşfedin."
+      "title": "Spa & Wellness",
+      "text": "Geleneksel hamam, sauna ve dinlenme alanlarıyla tatilinizde rahatlayın."
     },
-
     "CarouselSection": {
       "subtitle": "RAHATLAYIN VE UNUTUN",
       "title": "Masaj Seçenekleri",
-      "text": "Symphony Spa & Wellness Merkezi'nde geniş profesyonel masaj seçenekleriyle nihai rahatlamayı yaşayın. Stresi azaltın, bedeninizi yenileyin ve zihninizi dinlendirin."
+      "text": "Masaj hizmetleri ücretlidir. Detaylar: TBD"
     },
-
     "SpaTypes": {
       "subtitle1": "Çalışma Saatleri: 08:00 – 19:00",
-      "title1": "Kapalı Havuz",
-      "text1": "Mevsimsel olarak ısıtılan Kapalı Havuzumuzda huzur ve sakinliğin tadını çıkarın. Azura Deluxe Resort & Spa’daki konaklamanız sırasında dinlenmek ve enerji toplamak için ideal bir mekandır.",
+      "title1": "Indoor Pool",
+      "text1": "1 ana havuz + 1 çocuk havuzu. Alan: 102 m² + 12 m². Derinlik: 140 cm – 34 cm. Isıtma sezonluk uygulanır.",
       "subtitle2": "Geleneksel Kültürü Deneyimleyin",
       "title2": "Türk Hamamı",
-      "text2": "Symphony Spa & Wellness Merkezi'mizde lüks Türk Hamamı deneyimi yaşayın. Geleneksel banyo ritüelleri, köpük masajları ve nazik peelinglerle cildinizi yenileyin ve canlandırın."
+      "text2": "Türk hamamı ücretsizdir. Masaj hizmetleri ücretlidir."
     }
   },
-
   "Sport": {
     "subtitle": " FORMUNUZU KORUYUN",
     "title": " Spor & Fitness",
-    "text": " Azura Deluxe Resort & Spa’daki tatiliniz boyunca spor rutininizi aksatmadan devam ettirebilirsiniz. Profesyonel ekipmanlarla donatılmış Fitness Merkezimizde günlük egzersizlerinizi yapabilir, tatil boyunca formda kalabilirsiniz.",
-
+    "text": "Fitness Center ücretsiz hizmetler arasındadır. Tenis & basketbol sahaları ücretsizdir. (Saha aydınlatması ücretli olabilir.)",
     "InfoSection": {
       "subtitle1": " Formda Kalın ve İyi Hissedin",
-      "title1": " Azura Deluxe Resort & Spa’da Fitness ve Wellness",
-      "text1": " Profesyonel ekipmanlarla donatılmış fitness merkezimizde spor rutininizi devam ettirin ve ardından Symphony Spa & Wellness Merkezi’nde rahatlayın. Tatiliniz boyunca, rahatlatıcı masaj seçenekleriyle yenilenin, geleneksel Türk Hamamı’nda rahatlayın veya Fin Saunası’nda vücudunuzu toksinlerden arındırarak tamamen tazelenin.",
-      "subtitle2": "Spor & Fitness",
-      "title2": " Grup Aktiviteleri",
-      "text2": " Azura Deluxe Resort & Spa’da tatiliniz boyunca aktif ve enerjik kalmanız için sunduğumuz grup aktivitelerine katılın:",
-      "subtitle3": " Eğlenceli bir atmosferde formda kalmanın keyfini çıkarın!",
+      "title1": " Azura World Hotel’de Fitness",
+      "text1": "Fitness Center ücretsizdir. Tatil boyunca spor rutininizi sürdürebilirsiniz.",
+      "subtitle2": "Spor Alanları",
+      "title2": " Tenis & Basketbol",
+      "text2": "Tenis & basketbol sahaları ücretsizdir. (Aydınlatma: ücretli hizmetler arasında listelenmiştir.)",
+      "subtitle3": " Aktiviteler",
       "title3": "Spor & Fitness",
-      "text3": "Çalışma Saatleri: 08:00 – 19:00",
-      "list1": " Step Aerobik",
-      "list2": " Su Jimnastiği",
-      "list3": " Havuz Oyunları",
-      "list4": " Fitness Dersleri"
+      "text3": "Detaylar: TBD",
+      "list1": "Fitness Center (Ücretsiz)",
+      "list2": "Tenis Sahası (Ücretsiz)",
+      "list3": "Basketbol (Ücretsiz)",
+      "list4": "Saha Aydınlatması (Ücretli)"
     },
-
     "GallerySection": {
       "subtitle": "Formda ve Enerjik Kalın",
       "title": "Fitness Merkezi",
-      "text": "Azura Deluxe Resort & Spa’nın profesyonel ekipmanlarla donatılmış Fitness Merkezi’nde spor rutininizi devam ettirin. Modern ekipmanlarımız ve samimi ortamımızla tatiliniz boyunca aktif, sağlıklı ve enerjik kalmanız için ideal bir alan sunuyoruz."
+      "text": "Fitness Center ücretsiz hizmetler arasındadır."
     },
-
     "SpaTypes": {
-      "subtitle1": " Kişiselleştirilmiş Fitness Deneyimi",
+      "subtitle1": " Kişiselleştirilmiş Deneyim",
       "title1": " Kişisel Eğitmen",
-      "text1": "Azura Deluxe Resort & Spa’daki tatiliniz boyunca profesyonel kişisel eğitmenlerimizin hazırladığı özel programlarla fitness rutininizi geliştirin. Size özel antrenman programları ve birebir çalışmalarla formda ve motive kalın.",
-      "subtitle2": "Günlük Enerji Takviyeniz",
+      "text1": "Detaylar: TBD",
+      "subtitle2": "Günlük Enerji",
       "title2": " Fitness Merkezi",
-      "text2": " Azura Deluxe Resort & Spa’da spor rutininizi sürdürün ve enerjinizi her gün yenileyin. Son teknoloji fitness ekipmanları ile donatılmış modern salonumuzda egzersizin keyfine varın. Tatil boyunca formunuzu koruyun, enerjinizi yükseltin ve zinde kalın"
+      "text2": "Fitness Center ücretsizdir."
     }
   },
-
-  "About":{
-    "subtitle":"  UNUTULMAZ MUTLU ANLAR",
-    "title":" Otelimiz Hakkında",
-  
-  "InfoSection":{
-    "subtitle":" Azura Deluxe Resort & Spa",
-    "title":" İdeal Tatil Adresiniz",
-    "text":"  Azura Deluxe Resort & Spa’da konfor ve şıklığı bir arada sunan odalarımızda unutulmaz bir tatil deneyimi yaşayın. Otelimizin eşsiz konumu sayesinde odalarımız deniz, havuz veya yemyeşil çevre manzarasına sahiptir. Ayrıca, biri yetişkinler diğeri çocuklar için özel olarak tasarlanmış ısıtmalı kapalı havuzlarımızla tatilinizi daha keyifli hale getirin.",
-    "buttonText":"DAHA FAZLASINI KEŞFET"
-  },
-    "MissinonVision":{
-      "subtitle":"Azura Deluxe Resort & Spa",
-      "title":" Misyonumuz ve Vizyonumuz",
-      "text":"  Azura Deluxe Resort & Spa olarak misyonumuz, misafirlerimize benzersiz bir konukseverlik sunmak ve unutulmaz anılar yaratmaktır. Kişiye özel hizmetlerden sürdürülebilir uygulamalara kadar konaklamanızın her alanında mükemmelliğe adanmış bulunmaktayız. Vizyonumuz ise, olağanüstü deneyimler yaşatan ve çevreye duyarlı bir işletme olarak turizm sektöründe öncü olmaktır.",
-      "clubsubtitle1":"Azura Deluxe Resort & Spa",
-      "clubtitle1":" Neden Azura Deluxe’ü Tercih Etmelisiniz?",
-      "clubtext1":"  Lüks, konfor ve kusursuz hizmeti bir araya getiren unutulmaz bir tatil deneyimi için Azura Deluxe Resort & Spa’yı tercih edin. Deniz kenarındaki ideal konumu, şık odaları, zengin restoran seçenekleri, seçkin Spa & Wellness hizmetleri ve sürdürülebilirlik ilkemizle tatilinizi unutulmaz ve ayrıcalıklı hale getireceğiz.",
-      "clubsubtitle2":"Azura Deluxe Resort & Spa",
-      "clubtitle2":" Sıradışı Bir Tatil Deneyimi",
-      "clubtext2":"  Huzur veren Akdeniz ve görkemli Toros Dağları’nın arasında yer alan Azura Deluxe Resort & Spa, ayrıcalıklı konforu kişiye özel misafirperverlikle buluşturuyor. Şık odalarımız, gurme restoranlarımız, dinlendirici spa olanaklarımız ve keyifli aktivitelerimizle unutulmaz anılar yaratın. Alanya’ya yakın konumumuz ve kolay ulaşım imkanlarımızla tatilinizi konforla buluşturuyoruz.",
-       "buttonText":"DAHA FAZLASINI KEŞFET"
+  "About": {
+    "subtitle": "  UNUTULMAZ MUTLU ANLAR",
+    "title": " Otelimiz Hakkında",
+    "InfoSection": {
+      "subtitle": " Azura World Hotel",
+      "title": "İdeal Tatil Adresiniz",
+      "text": "Azura World Hotel, Türkler/Alanya/Antalya’da konumlanan 5 yıldızlı, All Inclusive konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Evcil hayvan kabul edilmez.",
+      "buttonText": "DAHA FAZLASINI KEŞFET"
+    },
+    "MissinonVision": {
+      "subtitle": "Azura World Hotel",
+      "title": " Misyonumuz ve Vizyonumuz",
+      "text": "Misyonumuz, misafirlerimize konforlu ve keyifli bir All Inclusive tatil deneyimi sunmaktır. Vizyonumuz, misafir memnuniyetini odağında tutan sürdürülebilir bir konaklama deneyimi sağlamaktır.",
+      "clubsubtitle1": "Azura World Hotel",
+      "clubtitle1": " Neden Azura World’ü Tercih Etmelisiniz?",
+      "clubtext1": "All Inclusive konsept; Milos Restaurant, Saffron A’la Carte ve farklı servis alanları; Indoor Pool, Oasis Pool ve 13 kaydıraklı Aquapark; Spa & Wellness imkanları; ücretsiz Wi-Fi ve plaja shuttle servis ile keyifli bir tatil sunar.",
+      "clubsubtitle2": "Azura World Hotel",
+      "clubtitle2": " Ek Hizmetler",
+      "clubtext2": "Ücretsiz hizmetler: Mini Club, Fitness Center, tenis & basketbol sahaları, plaj havlusu/şezlong, şemsiye, Wi-Fi, çocuk oyun alanı, plaja shuttle servis, balayı paketi. Ücretli hizmetler: Airport transfer, room service, kuaför, mağazalar, doktor/medikal, laundry, fotoğraf, araç kiralama, taksi, indoor parking, cabana, gondola vb.",
+      "buttonText": "DAHA FAZLASINI KEŞFET"
     }
   },
-
-
   "Gallery": {
     "subtitle": "Otelimizi Keşfedin",
-    "title": "Azura Galerisi",
+    "title": "Azura World Galerisi",
     "general": "Genel Görünüm",
     "rooms": "Odalar",
     "meeting": "Toplantı",
@@ -870,98 +804,91 @@
     "spa": "Spa & Wellness",
     "kidsclub": "Çocuk Kulübü",
     "entertainment": "Eğlence",
-    "bar":"Barlar",
-    "lobby":"Lobi"
+    "bar": "Barlar",
+    "lobby": "Lobi"
   },
-
-  "ExploreAlanya":{
-    "header":"Tatilinizi Zenginleştirecek Rotalar",
-  "title1": "Dim Mağarası",
-  "description1": "Büyüleyici manzaralarıyla tüm dünyadan mağaracıları kendine çeken Dim Mağarası, Alanya’nın en bilinen doğal güzelliklerinden biri. İlçe merkezine yaklaşık 10 kilometre uzaklıkta yer alan ve hem turlar hem de minibüslerle kolayca ulaşabileceğiniz mağara, denizin seviyesinden 232 metre yükseklikteki bir yamaçta çarpıcı bir manzaraya sahip. İçerisindeki binlerce yılda oluşmuş devasa dikitler, sarkıtlar ve sütunlar ile 60 metre boyunca ilerleyen Dim Mağarası’nı iyi aydınlatılmış yürüyüş yolunda keşfe çıkabilirsiniz.",
-  "title2": "Alanya Teleferik",
-  "description2": "Damlataş’tan Alanya Kalesi’ne çıkan teleferik hattı boyunca şehir ve deniz manzarası izlenir. Gün batımında özellikle etkileyicidir.",
-  "title3": "Sapadere Kanyonu",
-  "description3": "Yürüyüş platformları ve şelaleleriyle ünlü doğal bir cennettir. Serin sularında kısa bir mola verip doğanın sesini dinleyebilirsiniz.",
-  "title4": "Tarihi Alanya Selçuklu Tersanesi",
-  "description4": "13. yüzyıldan kalma bu tersane, Akdeniz’in en iyi korunmuş yapılarından biridir. Tarihi dokusu ve denize açılan kemerleriyle etkileyici bir atmosfer sunar.",
-  "title5": "Atatürk Evi Müzesi",
-  "description5": "Mustafa Kemal Atatürk’ün Alanya ziyaretinde konakladığı ev müze olarak düzenlenmiştir. Döneme ait fotoğraflar ve kişisel eşyalar sergilenir.",
-  "title6": "Kleopatra Plajı",
-  "description6": "Sadece Alanya’nın değil, Akdeniz’in de en güzel ve ünlü plajlarından biri olan Kleopatra Plajı, denizin ve güneşin tadını çıkarmak için Alanya’da ilk uğramanız gereken yerler arasında. İlçe merkezine sadece 10 dakika yürüyüş mesafesinde olan ve toplu taşıma araçlarıyla da kolayca ulaşabileceğiniz plaj, özellikle yaz aylarında yerli ve yabancı turistlerle doluyor. • Efsanelerde ünlü Mısır Kraliçesi Kleopatra'nın plajda yüzdüğü ve burayı çok sevdiğisöyleniyor, plaj ismini de bu antik efsanelerden alıyor. Altın renkli kumlarla süslü 2,5 kilometrelik uzun bir sahile sahip Kleopatra Plajı, sığ ve dalgasız deniziyle çocuklu ailelerin de güvenle yüzebileceği Alanya plajlarından biri.",
-  "title7": "Alanya Deniz Feneri",
-  "description7": "Liman girişindeki fener, sahil yürüyüşleri için keyifli bir rotanın odak noktasıdır. Fotoğraf çekimi için ideal bir duraktır.",
-  "title8": "Damlataş Plajı",
-  "description8": "Damlataş Mağarası’nın hemen yanında yer alan plaj sakin suları ile bilinir. Şehir merkezine yakınlığıyla tercih edilir.",
-  "title9": "Alanya Kalesi",
-  "description9": "YAlanya ve Akdeniz’e hakim bir konumda, deniz seviyesinden 250m yükseklikteki yarımadanın zirvesinde inşa edilen Alanya Kalesi, ilçede yerli ve yabancı turistler tarafından en çok ziyaret edilen tarihi yapıdır. 13. yüzyılda Alanya ve çevresinde pek çok etkileyici yapı inşa ettiren Selçuklu Sultanı I. Alaeddin Keykubad tarafından yaptırılan görkemli kale, 10 hektardan daha büyük bir alanı kapsıyor. Denizden gelecek saldırılara karşı savunma ve gözetleme amacıyla tasarlanan, toplamda 6,5 kilometre boyunca uzanan surlarıyla ilçenin her yerinden harika fotoğraflarını çekebileceğiniz Alanya Kalesi, Osmanlı döneminde de yoğun olarak kullanılmış. • Dik bir yoldan yürüyerek veya toplu taşıma araçlarıyla ulaşabileceğiniz Alanya Kalesi’nin içerisinde devasa sarnıçlar, iç kale, saray bölümü, tophane ve Alanya’nın en eski camilerinden biri olan Süleymaniye Camii’ni gezebilirsiniz. Hem kale yolu hem de kalenin çevresi ise oteller, restoranlar, kafeler, gözleme çadırları ve hediyelik eşya tezgâhlarıyla dolu. Her yıl yüz binlerce kişinin ziyaret ettiği Alanya Kalesi’nden kıyı boyunca uzanan altın renkli Alanya plajlarının ve panoramik gün batımı manzaralarının harika fotoğraflarını çekebilirsiniz.",
-  "title10": "Kızılkule",
-  "description10": "Kırmızı tuğlalarıyla dikkat çeken sekizgen kule Selçuklu dönemi mimarisinin başyapıtıdır. İçindeki müze ile tarihe ışık tutar.",
-  "title11": "Damlataş Mağarası",
-  "description11": "Nemli ve sıcak havasıyla astım hastalarına iyi geldiği söylenen bir mağaradır. Sarkıt ve dikit oluşumları oldukça yoğundur.",
-  "title12": "Alanya Arkeoloji Müzesi",
-  "description12": "İyi düzenlenmiş koleksiyonlarda Arkaik, Klasik, Helenistik, Roma ve Bizans dönemlerinden yazıtlar, el yapımı sanat eserleri, silahlar, taş eserler, heykeller ve kişisel eşyaları yakından inceleyebilirsiniz. Fenike dönemine ait taş yazıtları ile de arkeoloji meraklılarını büyüleyen müzede Alanya’nın geleneksel kültürünü yansıtan el dokuması yörük halı ve kilimleri gibi binlerce eşya da sergileniyor. Alanya Arkeoloji Müzesi’ni haftanın her günü saat 08:30 ile 19:00 arasında gezebilir ve bölgenin zengin tarihi hakkında detaylı bilgiler alabilirsiniz.",
-  "title13": "Syedra Antik Kenti",
-  "description13": "Orman içinde saklı kalan antik kent, sütunlu caddeleri ve hamam kalıntılarıyla etkiler. Sessiz atmosferiyle keşif için idealdir.",
-  "title14": "Portakal Plajı",
-  "description14": "Geniş kumsalı ve dalga yapısıyla tanınır. Sahil boyunca yürüyüş ve bisiklet için uygun bir hattı vardır.",
-  "title15": "Alanya Süleymaniye Camii",
-  "description15": "Kale içinde yer alan cami, sade mimarisi ve huzurlu avlusuyla dikkat çeker. Tarihi dokuya saygılı bir restorasyon geçirmiştir.",
-  "title16": "Aşıklar Mağarası",
-  "description16": "Tekne turlarının uğradığı küçük bir mağaradır. Efsanelere konu olan romantik hikâyesiyle bilinir.",
-  "title17": "Alanya Benlidere Şelalesi",
-  "description17": "Şehir merkezine yakın saklı bir doğa köşesidir. Yaz sıcağında serinlemek ve piknik yapmak için uygundur.",
-  "title18": "Alanya Belediyesi Kedi Parkı",
-  "description18": "Sokak kedileri için düzenlenmiş sevimli bir parktır. Ailece kısa bir mola verip hayvanlarla vakit geçirilebilir.",
-  "title19":"Side Apollon Tapınağı",
-  "description19":"Ulusal ve uluslararası turizm dergilerinin kapakların süsleyen büyüleyici manzarası ile ünlü Side Apollon Tapınağı, Alanya gezilerinin değişmez adreslerinden biri. İlçeye 65 kilometre uzaklıkta, Side merkezinde Cumhuriyet Bulvarı üzerinde yer alan anıtsal yapı, Akdeniz’ hakim bir konumda M.S. 150 yılında inşa edilmiş. • Uyum ve ışık tanrısı Apollon’a adanan tapınak, günümüze kadar ayakta kalmış devasa sütunları ve sütunların üst bölümlerini süsleyen büyüleyici korint başlıklarıyla mutlaka görmeniz gereken mimari şaheserler arasında. Gün doğumu ve gün batımlarında sunduğu etkileyici manzarasından dolayı tüm dünyadan fotoğrafçıları kendine çeken, her yıl binlerce kişi tarafından ziyaret edilen Side Apollon Tapınağı’nı Side Antik Kenti ile birlikte gezebilir ve en güzel fotoğraflarınızı burada çekebilirsiniz.",
-  "title20":"Manavgat Şelalesi",
-  "description20":"Sadece Alanya’nın değil, Antalya ve çevre ilçelerin de en popüler gezi alanlarından biri olan Manavgat Şelalesi, rafting yapmak isteyen binlerce insan tarafından da ziyaret ediliyor. Alanya merkezine yaklaşık 1 saat uzaklıktakişelaleye hersaat bulabileceğiz minibüslerle, doğa gezileriyle veya rafting turlarıyla kolayca ulaşabilir; yemyeşil çam ormanları arasında akan şelalenin güzel manzarasını izleyebilirsiniz. • Manavgat Şelalesi’nin çevresinde temiz havada piknik yapabileceğiniz mesire alanları, fotoğraflar çekebileceğiniz seyir terasları ve yürüyüş yollarısıralanıyor. Gezinizden sonra bir mola vererek su kenarında ahşap iskelelerde hizmet veren balık restoranlarında taze balıklar ve yöresel mezeler tadarak yorgunluk atabilirsiniz. Yaz aylarında rafting yapabileceğiniz kolay bir parkura sahip şelalede kano ve bot gezilerine katılarak da bölgenin doğal güzelliğini keşfe çıkabilirsiniz. Türkiye'nin en çok ziyaret edilen tabiat harikalarından biri olan Manavgat Şelalesi’ne Alanya gezinizde kesinlikle uğramanızı öneririz.",
-  "title21":"Dim Çayı",
-  "description21":"Yaz aylarındaki Alanya'nın turist kalabalığından uzaklaşmak ve doğanın içinde keyifli bir gün geçirmek için bölgenin en sevilen gezi noktalarından biri olan Dim Çayı’na uğrayabilirsiniz. Toros Dağları’ndan doğarak 60 kilometre boyunca ilerleyen Dim Çayı; balık restoranları, su parkları, temiz havada piknik yapabileceğiniz mesire alanları, iyi düzenlenmiş yürüyüş yolları, donanımlı kamp alanları ve su kenarındaki iskelelerde çayınızı yudumlayabileceğinizturistik tesisleri ile çok popüler. • Dim Çayı’nın üzerinde kurulan barajı ve baraj gölünü de gezebileceğiniz bölgede turizm olanakları oldukça gelişmiş durumda. Zengin balık çeşitliliğine sahip sularda olta balıkçılığı yapabilir, 5,5 kilometre boyunca uzanan parkurda uzmanlarla birlikte rafting yapabilir veya Dim Çayı’nda sandal ve kanolarla gezerek yorgunluk atabilirsiniz. Dim Çayı, aynızamanda milyonlarca yıllık Dim Mağarası'ndan dolayı da yılın her mevsimi doğa yürüyüşleri, bisiklet gezileri ve fotoğrafsafarilerinin değişmez adresleri arasında."
+  "ExploreAlanya": {
+    "header": "Tatilinizi Zenginleştirecek Rotalar",
+    "title1": "Dim Mağarası",
+    "description1": "Büyüleyici manzaralarıyla tüm dünyadan mağaracıları kendine çeken Dim Mağarası, Alanya’nın en bilinen doğal güzelliklerinden biri. İlçe merkezine yaklaşık 10 kilometre uzaklıkta yer alan ve hem turlar hem de minibüslerle kolayca ulaşabileceğiniz mağara, denizin seviyesinden 232 metre yükseklikteki bir yamaçta çarpıcı bir manzaraya sahip. İçerisindeki binlerce yılda oluşmuş devasa dikitler, sarkıtlar ve sütunlar ile 60 metre boyunca ilerleyen Dim Mağarası’nı iyi aydınlatılmış yürüyüş yolunda keşfe çıkabilirsiniz.",
+    "title2": "Alanya Teleferik",
+    "description2": "Damlataş’tan Alanya Kalesi’ne çıkan teleferik hattı boyunca şehir ve deniz manzarası izlenir. Gün batımında özellikle etkileyicidir.",
+    "title3": "Sapadere Kanyonu",
+    "description3": "Yürüyüş platformları ve şelaleleriyle ünlü doğal bir cennettir. Serin sularında kısa bir mola verip doğanın sesini dinleyebilirsiniz.",
+    "title4": "Tarihi Alanya Selçuklu Tersanesi",
+    "description4": "13. yüzyıldan kalma bu tersane, Akdeniz’in en iyi korunmuş yapılarından biridir. Tarihi dokusu ve denize açılan kemerleriyle etkileyici bir atmosfer sunar.",
+    "title5": "Atatürk Evi Müzesi",
+    "description5": "Mustafa Kemal Atatürk’ün Alanya ziyaretinde konakladığı ev müze olarak düzenlenmiştir. Döneme ait fotoğraflar ve kişisel eşyalar sergilenir.",
+    "title6": "Kleopatra Plajı",
+    "description6": "Sadece Alanya’nın değil, Akdeniz’in de en güzel ve ünlü plajlarından biri olan Kleopatra Plajı, denizin ve güneşin tadını çıkarmak için Alanya’da ilk uğramanız gereken yerler arasında. İlçe merkezine sadece 10 dakika yürüyüş mesafesinde olan ve toplu taşıma araçlarıyla da kolayca ulaşabileceğiniz plaj, özellikle yaz aylarında yerli ve yabancı turistlerle doluyor. • Efsanelerde ünlü Mısır Kraliçesi Kleopatra'nın plajda yüzdüğü ve burayı çok sevdiğisöyleniyor, plaj ismini de bu antik efsanelerden alıyor. Altın renkli kumlarla süslü 2,5 kilometrelik uzun bir sahile sahip Kleopatra Plajı, sığ ve dalgasız deniziyle çocuklu ailelerin de güvenle yüzebileceği Alanya plajlarından biri.",
+    "title7": "Alanya Deniz Feneri",
+    "description7": "Liman girişindeki fener, sahil yürüyüşleri için keyifli bir rotanın odak noktasıdır. Fotoğraf çekimi için ideal bir duraktır.",
+    "title8": "Damlataş Plajı",
+    "description8": "Damlataş Mağarası’nın hemen yanında yer alan plaj sakin suları ile bilinir. Şehir merkezine yakınlığıyla tercih edilir.",
+    "title9": "Alanya Kalesi",
+    "description9": "YAlanya ve Akdeniz’e hakim bir konumda, deniz seviyesinden 250m yükseklikteki yarımadanın zirvesinde inşa edilen Alanya Kalesi, ilçede yerli ve yabancı turistler tarafından en çok ziyaret edilen tarihi yapıdır. 13. yüzyılda Alanya ve çevresinde pek çok etkileyici yapı inşa ettiren Selçuklu Sultanı I. Alaeddin Keykubad tarafından yaptırılan görkemli kale, 10 hektardan daha büyük bir alanı kapsıyor. Denizden gelecek saldırılara karşı savunma ve gözetleme amacıyla tasarlanan, toplamda 6,5 kilometre boyunca uzanan surlarıyla ilçenin her yerinden harika fotoğraflarını çekebileceğiniz Alanya Kalesi, Osmanlı döneminde de yoğun olarak kullanılmış. • Dik bir yoldan yürüyerek veya toplu taşıma araçlarıyla ulaşabileceğiniz Alanya Kalesi’nin içerisinde devasa sarnıçlar, iç kale, saray bölümü, tophane ve Alanya’nın en eski camilerinden biri olan Süleymaniye Camii’ni gezebilirsiniz. Hem kale yolu hem de kalenin çevresi ise oteller, restoranlar, kafeler, gözleme çadırları ve hediyelik eşya tezgâhlarıyla dolu. Her yıl yüz binlerce kişinin ziyaret ettiği Alanya Kalesi’nden kıyı boyunca uzanan altın renkli Alanya plajlarının ve panoramik gün batımı manzaralarının harika fotoğraflarını çekebilirsiniz.",
+    "title10": "Kızılkule",
+    "description10": "Kırmızı tuğlalarıyla dikkat çeken sekizgen kule Selçuklu dönemi mimarisinin başyapıtıdır. İçindeki müze ile tarihe ışık tutar.",
+    "title11": "Damlataş Mağarası",
+    "description11": "Nemli ve sıcak havasıyla astım hastalarına iyi geldiği söylenen bir mağaradır. Sarkıt ve dikit oluşumları oldukça yoğundur.",
+    "title12": "Alanya Arkeoloji Müzesi",
+    "description12": "İyi düzenlenmiş koleksiyonlarda Arkaik, Klasik, Helenistik, Roma ve Bizans dönemlerinden yazıtlar, el yapımı sanat eserleri, silahlar, taş eserler, heykeller ve kişisel eşyaları yakından inceleyebilirsiniz. Fenike dönemine ait taş yazıtları ile de arkeoloji meraklılarını büyüleyen müzede Alanya’nın geleneksel kültürünü yansıtan el dokuması yörük halı ve kilimleri gibi binlerce eşya da sergileniyor. Alanya Arkeoloji Müzesi’ni haftanın her günü saat 08:30 ile 19:00 arasında gezebilir ve bölgenin zengin tarihi hakkında detaylı bilgiler alabilirsiniz.",
+    "title13": "Syedra Antik Kenti",
+    "description13": "Orman içinde saklı kalan antik kent, sütunlu caddeleri ve hamam kalıntılarıyla etkiler. Sessiz atmosferiyle keşif için idealdir.",
+    "title14": "Portakal Plajı",
+    "description14": "Geniş kumsalı ve dalga yapısıyla tanınır. Sahil boyunca yürüyüş ve bisiklet için uygun bir hattı vardır.",
+    "title15": "Alanya Süleymaniye Camii",
+    "description15": "Kale içinde yer alan cami, sade mimarisi ve huzurlu avlusuyla dikkat çeker. Tarihi dokuya saygılı bir restorasyon geçirmiştir.",
+    "title16": "Aşıklar Mağarası",
+    "description16": "Tekne turlarının uğradığı küçük bir mağaradır. Efsanelere konu olan romantik hikâyesiyle bilinir.",
+    "title17": "Alanya Benlidere Şelalesi",
+    "description17": "Şehir merkezine yakın saklı bir doğa köşesidir. Yaz sıcağında serinlemek ve piknik yapmak için uygundur.",
+    "title18": "Alanya Belediyesi Kedi Parkı",
+    "description18": "Sokak kedileri için düzenlenmiş sevimli bir parktır. Ailece kısa bir mola verip hayvanlarla vakit geçirilebilir.",
+    "title19": "Side Apollon Tapınağı",
+    "description19": "Ulusal ve uluslararası turizm dergilerinin kapakların süsleyen büyüleyici manzarası ile ünlü Side Apollon Tapınağı, Alanya gezilerinin değişmez adreslerinden biri. İlçeye 65 kilometre uzaklıkta, Side merkezinde Cumhuriyet Bulvarı üzerinde yer alan anıtsal yapı, Akdeniz’ hakim bir konumda M.S. 150 yılında inşa edilmiş. • Uyum ve ışık tanrısı Apollon’a adanan tapınak, günümüze kadar ayakta kalmış devasa sütunları ve sütunların üst bölümlerini süsleyen büyüleyici korint başlıklarıyla mutlaka görmeniz gereken mimari şaheserler arasında. Gün doğumu ve gün batımlarında sunduğu etkileyici manzarasından dolayı tüm dünyadan fotoğrafçıları kendine çeken, her yıl binlerce kişi tarafından ziyaret edilen Side Apollon Tapınağı’nı Side Antik Kenti ile birlikte gezebilir ve en güzel fotoğraflarınızı burada çekebilirsiniz.",
+    "title20": "Manavgat Şelalesi",
+    "description20": "Sadece Alanya’nın değil, Antalya ve çevre ilçelerin de en popüler gezi alanlarından biri olan Manavgat Şelalesi, rafting yapmak isteyen binlerce insan tarafından da ziyaret ediliyor. Alanya merkezine yaklaşık 1 saat uzaklıktakişelaleye hersaat bulabileceğiz minibüslerle, doğa gezileriyle veya rafting turlarıyla kolayca ulaşabilir; yemyeşil çam ormanları arasında akan şelalenin güzel manzarasını izleyebilirsiniz. • Manavgat Şelalesi’nin çevresinde temiz havada piknik yapabileceğiniz mesire alanları, fotoğraflar çekebileceğiniz seyir terasları ve yürüyüş yollarısıralanıyor. Gezinizden sonra bir mola vererek su kenarında ahşap iskelelerde hizmet veren balık restoranlarında taze balıklar ve yöresel mezeler tadarak yorgunluk atabilirsiniz. Yaz aylarında rafting yapabileceğiniz kolay bir parkura sahip şelalede kano ve bot gezilerine katılarak da bölgenin doğal güzelliğini keşfe çıkabilirsiniz. Türkiye'nin en çok ziyaret edilen tabiat harikalarından biri olan Manavgat Şelalesi’ne Alanya gezinizde kesinlikle uğramanızı öneririz.",
+    "title21": "Dim Çayı",
+    "description21": "Yaz aylarındaki Alanya'nın turist kalabalığından uzaklaşmak ve doğanın içinde keyifli bir gün geçirmek için bölgenin en sevilen gezi noktalarından biri olan Dim Çayı’na uğrayabilirsiniz. Toros Dağları’ndan doğarak 60 kilometre boyunca ilerleyen Dim Çayı; balık restoranları, su parkları, temiz havada piknik yapabileceğiniz mesire alanları, iyi düzenlenmiş yürüyüş yolları, donanımlı kamp alanları ve su kenarındaki iskelelerde çayınızı yudumlayabileceğinizturistik tesisleri ile çok popüler. • Dim Çayı’nın üzerinde kurulan barajı ve baraj gölünü de gezebileceğiniz bölgede turizm olanakları oldukça gelişmiş durumda. Zengin balık çeşitliliğine sahip sularda olta balıkçılığı yapabilir, 5,5 kilometre boyunca uzanan parkurda uzmanlarla birlikte rafting yapabilir veya Dim Çayı’nda sandal ve kanolarla gezerek yorgunluk atabilirsiniz. Dim Çayı, aynızamanda milyonlarca yıllık Dim Mağarası'ndan dolayı da yılın her mevsimi doğa yürüyüşleri, bisiklet gezileri ve fotoğrafsafarilerinin değişmez adresleri arasında."
   },
-
-  "IconSection":{
+  "IconSection": {
     "Dikkat": "DİKKAT EDİLMESİ GEREKEN HUSUSLAR",
-   "Icon1":{
-     "header1":"İBADETHANELER",
-    "list1":"Ziyaretçilerin uygun bir şekilde giyinmesi önemlidir, bu genellikle omuz ve dizleri kapatan kıyafetleri içerir",
-    "list2":"Kadınlar başlarını örterek girmelidir",
-    "list3":"Ayakkabı ile girilmemelidir",
-    "list4":"Yüksek sesle konuşulmamalı ve ibadet eden insanlar rahatsız edilmemelidir.",
-    "list5":"Genellikle fotoğraf çekme konusunda bir yasak olmamakla beraber gerekli izinler alınmalıdır."
-   },
-
-     "Icon2":{
-     "header1":"MÜZELER",
-    "list1":"Diğer ziyaretçileri rahatsız etmemek için sesiz olunmalıdır.",
-    "list2":"Müzelerin fotoğraf çekme kuralları müze girişlerinde kontrol edilmelidir.Bazı eserlerin fotoğraflarının çekilmesi yasak olabilir.",
-    "list3":"Eserlere dokunulmamalıdır",
-    "list4":"Yiyecek ve içecek tüketmek yasaktır.",
-    "list5":"Çocuklarınızı kontrol altında tutun."
-   },
-
-     "Icon3":{
-     "header1":"DOĞAL ALANLAR",
-    "list1":"Bitki ve hayvan örtüsüne zarar vermemek için doğayı koruma bilinciyle hareket edilmelidir.",
-    "list2":"Çöpler toplanmalı ve doğaya zarar verecek herhangi bir eşya bırakılmamalıdır.",
-    "list3":"Ateş yakma izni yoksa kesinlikle ateş yakılmamalıdır.",
-    "list4":"Kamp yapmak için belirlenmiş kamp alanlarını kullanın."
-   },
-
-     "Icon4":{
-     "header1":"AVCILIK",
-    "list1":"Avcılık için gerekli olan lisans ve izinler alınmalıdır.",
-    "list2":"Avlanma sezonuna uyulmalıdır",
-    "list3":"Bir günde avlayabileceğiniz maksimum hayvan sayısı aşılmamalıdır.",
-    "list4":"Koruma altındaki hayvanlar kesinlikle avlanmamalıdır."
-   },
-
-     "Icon5":{
-     "header1":"GÜNEŞTEN KORUNUN",
-    "list1":"Antalya’nın yüksek sıcaklarından vücudunuzu kesinlikle korumanız gerekmektedir.",
-    "list2":"UV ışınlarından korunmak için en az 50 faktöriyel güneş kremleri kullanılmalıdır.",
-    "list3":"Güneş kremi kullanmamak ciddi rahatsızlıklara sebebiyet verebilir."
-   }
+    "Icon1": {
+      "header1": "İBADETHANELER",
+      "list1": "Ziyaretçilerin uygun bir şekilde giyinmesi önemlidir, bu genellikle omuz ve dizleri kapatan kıyafetleri içerir",
+      "list2": "Kadınlar başlarını örterek girmelidir",
+      "list3": "Ayakkabı ile girilmemelidir",
+      "list4": "Yüksek sesle konuşulmamalı ve ibadet eden insanlar rahatsız edilmemelidir.",
+      "list5": "Genellikle fotoğraf çekme konusunda bir yasak olmamakla beraber gerekli izinler alınmalıdır."
+    },
+    "Icon2": {
+      "header1": "MÜZELER",
+      "list1": "Diğer ziyaretçileri rahatsız etmemek için sesiz olunmalıdır.",
+      "list2": "Müzelerin fotoğraf çekme kuralları müze girişlerinde kontrol edilmelidir.Bazı eserlerin fotoğraflarının çekilmesi yasak olabilir.",
+      "list3": "Eserlere dokunulmamalıdır",
+      "list4": "Yiyecek ve içecek tüketmek yasaktır.",
+      "list5": "Çocuklarınızı kontrol altında tutun."
+    },
+    "Icon3": {
+      "header1": "DOĞAL ALANLAR",
+      "list1": "Bitki ve hayvan örtüsüne zarar vermemek için doğayı koruma bilinciyle hareket edilmelidir.",
+      "list2": "Çöpler toplanmalı ve doğaya zarar verecek herhangi bir eşya bırakılmamalıdır.",
+      "list3": "Ateş yakma izni yoksa kesinlikle ateş yakılmamalıdır.",
+      "list4": "Kamp yapmak için belirlenmiş kamp alanlarını kullanın."
+    },
+    "Icon4": {
+      "header1": "AVCILIK",
+      "list1": "Avcılık için gerekli olan lisans ve izinler alınmalıdır.",
+      "list2": "Avlanma sezonuna uyulmalıdır",
+      "list3": "Bir günde avlayabileceğiniz maksimum hayvan sayısı aşılmamalıdır.",
+      "list4": "Koruma altındaki hayvanlar kesinlikle avlanmamalıdır."
+    },
+    "Icon5": {
+      "header1": "GÜNEŞTEN KORUNUN",
+      "list1": "Antalya’nın yüksek sıcaklarından vücudunuzu kesinlikle korumanız gerekmektedir.",
+      "list2": "UV ışınlarından korunmak için en az 50 faktöriyel güneş kremleri kullanılmalıdır.",
+      "list3": "Güneş kremi kullanmamak ciddi rahatsızlıklara sebebiyet verebilir."
+    }
   }
-    
 }
