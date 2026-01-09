@@ -21,12 +21,12 @@ const ContactDetails = () => {
           {t("contactForMore")}
         </span>
         <h2 className="font-marcellus font-normal text-[28px] md:text-[28px] lg:text-[28px] xl:text-[36px] 2xl:text-[44px] leading-[150%] lg:leading-[57.6px] capsizedText3 lg:capsizedText2">
-          @AzuraDeluxeResort
+          @AzuraWorld
         </h2>
         <p className="font-jost text-[14px] md:text-[16px] leading-[24px] underline-offset-2 flex flex-col gap-2 ">
           {/* Mobil görünüm (lg'den küçük) */}
           <span className="capsizedText4 lg:hidden">
-            Avsallar Mah. İncekum Cad. No:76 Alanya / Turkey
+          Türkle Mah. Cumhuriyet Cad. No:10 Alanya / Turkey
           </span>
           <span className="capsizedText4 lg:hidden">
           {t("phoneColon")}{" "}
@@ -49,7 +49,7 @@ const ContactDetails = () => {
 
           {/* Desktop görünüm (lg ve üstü) */}
           <span className="hidden lg:block">
-            Avsallar Mah. İncekum Cad. No:76 Alanya / Turkey
+            Türkle Mah. Cumhuriyet Cad. No:10 Alanya / Turkey
           </span>
           <span className="hidden lg:block">
           {t("phoneColon")}{" "}
