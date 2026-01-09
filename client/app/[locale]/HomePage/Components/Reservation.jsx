@@ -329,7 +329,7 @@ export default function Reservation() {
        
         </div>
 
-        <Link href="https://azuradeluxehotel.orsmod.com/" target="_blank"
+        <Link href="https://azuraworld.orsmod.com/" target="_blank"
               rel="norefferer nofollower"
           // onClick={() => console.log("Final Guest Information:", guestInfo)}
           className="

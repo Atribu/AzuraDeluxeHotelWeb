@@ -136,7 +136,7 @@ export default function Header() {
              {t("contact")}
             </Link>
             <Link
-            href="https://azuradeluxehotel.orsmod.com/"
+            href="https://azuraworld.orsmod.com/"
               rel="norefferer nofollower"
                   target="_blank"
               className="
@@ -268,12 +268,12 @@ export default function Header() {
                   >
                       {t("fantasy")}
                   </Link>
-                  <Link
+                  {/* <Link
                     href="/rooms/handicaproom"
                     className="block text-[14px] text-[#FBFBFB] leading-[29.639px] uppercase"
                   >
                       {t("handicap")}
-                  </Link>
+                  </Link> */}
                   
                  
                 </div>

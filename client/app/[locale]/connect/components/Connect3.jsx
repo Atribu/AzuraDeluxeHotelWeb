@@ -27,14 +27,13 @@ const Connect3 = () => {
       {/* Harita Alanı */}
       <div className="w-full max-w-[1106px] h-[620px]">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3202.2838216078544!2d31.76600607593326!3d36.61955427786161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14dcafb246cf65f9%3A0xdb5e32db1f07e8b0!2sAzura%20Deluxe%20Resort%20%26%20Spa!5e0!3m2!1sen!2str!4v1741618787539!5m2!1sen!2str"
-          width="100%"
-          height="100%"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3258.916722306044!2d31.80944111257551!3d36.60398199660002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14dcafa33ce0b9c1%3A0x86f5a8ec94c20883!2sWyndham%20Alanya!5e0!3m2!1str!2str!4v1767957016706!5m2!1str!2str"
+          className="w-full h-full"
           style={{ border: 0 }}
           allowFullScreen
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-        ></iframe>
+        />
       </div>
       
     </div>

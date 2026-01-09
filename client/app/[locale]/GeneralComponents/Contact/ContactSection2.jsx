@@ -99,7 +99,7 @@ const ContactDetails = () => {
             </Link>
           </div>
           <div className="flex bg-black h-[20px] w-[1px] self-center"></div>
-          <Link href="https://azuradeluxehotel.orsmod.com/"  target="_blank"
+          <Link href="https://azuraworld.orsmod.com/"  target="_blank"
               rel="norefferer nofollower" className="text-lagoBrown font-marcellus underline underline-offset-[6px] text-[14px] lg:text-[16px] font-normal leading-[30px] uppercase">
           {t("bookNow")}
           </Link>

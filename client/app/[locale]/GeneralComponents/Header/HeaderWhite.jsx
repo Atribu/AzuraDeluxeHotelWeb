@@ -143,7 +143,7 @@ export default function HeaderWhite() {
                {t("contact")}
             </Link>
             <Link
-             href="https://azuradeluxehotel.orsmod.com/"
+             href="https://azuraworld.orsmod.com/"
                rel="norefferer nofollower"
                   target="_blank"
               className="
