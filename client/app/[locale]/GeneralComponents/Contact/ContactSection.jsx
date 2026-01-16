@@ -46,7 +46,7 @@ const ContactSection = () => {
         <div className='flex h-[25%] md:h-auto w-[90%] md:w-[45%] lg:w-[39%] font-jost text-black items-center md:items-start justify-center z-20'>
            <div className='flex flex-col md:w-[79%] items-center text-center md:text-start md:items-start justify-center gap-[15px] md:gap-[23.19px] lg:gap-[30px]'>
            <span className=' text-[12px] font-medium leading-[14px] uppercase tracking-[0.48px] mt-[14%] md:mt-0'> {t("contactForMore")}</span>
-            <h2 className='font-marcellus font-normal text-[28px] md:text-[28px] lg:text-[28px] xl:text-[36px] 2xl:text-[44px] leading-[150%] lg:leading-[57.6px] capsizedText3 lg:capsizedText2'>@AzuraDeluxeResort</h2>
+            <h2 className='font-marcellus font-normal text-[28px] md:text-[28px] lg:text-[28px] xl:text-[36px] 2xl:text-[44px] leading-[150%] lg:leading-[57.6px] capsizedText3 lg:capsizedText2'>@AzuraWorld</h2>
            
             <div className="font-jost text-[14px] md:text-[16px] leading-[24px] underline-offset-2 flex flex-col gap-2 ">
           {/* Mobil görünüm (lg'den küçük) */}
@@ -60,7 +60,7 @@ const ContactSection = () => {
           {t("callCenter")}: <Link href="tel:+902422771143" className="underline z-[99] ">+90 242 277 11 43</Link>
           </span>
           <span className="capsizedText4 lg:hidden">
-          {t("emailAddress")}: <Link  href="mailto:info@azuradeluxe.com" className="underline z-[99] ">info@azuradeluxe.com</Link>
+          {t("emailAddress")}: <Link  href="mailto:info@azuraworld.com" className="underline z-[99] ">info@azuraworld.com</Link>
           </span>
 
           {/* Desktop görünüm (lg ve üstü) */}

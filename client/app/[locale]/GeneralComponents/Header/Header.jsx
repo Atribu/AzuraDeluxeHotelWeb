@@ -9,7 +9,7 @@ import Phone from "./Icons/Phone";
 import TripAdvisor from "./Icons/SocialMedia/TripAdvisor";
 import Google from "./Icons/SocialMedia/Google";
 import { FaFacebookF, FaYoutube, FaInstagram } from "react-icons/fa";
-import logosvg from "./Icons/azuralogo.svg";
+import logosvg from "./Icons/azuraworld.webp";
 import gradient4 from "./Icons/header.png";
 import DownArrow from "./Icons/DownArrow";
 import { IoMdArrowDropdown } from "react-icons/io";

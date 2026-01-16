@@ -1,6 +1,6 @@
 "use client"
 import React from "react"
-import GreenAndBlueFull from "./Images/azuradeluxeworldmain2.jpg"
+import GreenAndBlueFull from "./Images/Genel28.webp"
 import Link from "next/link"
 import {useTranslations} from 'next-intl';
 

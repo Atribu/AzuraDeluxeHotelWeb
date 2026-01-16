@@ -9,7 +9,7 @@ import {
   FaTripadvisor
 } from "react-icons/fa";
 import { Link } from '@/i18n/navigation';
-import logosvg from "../Header/Icons/logo2.svg";
+import logosvg from "../Header/Icons/azuraworld.webp";
 import Phone from "../Header/Icons/Phone";
 import LocationSvg from "./LocationSvg";
 import MessageSvg from "./MessageSvg";
@@ -37,7 +37,7 @@ export default function Footer() {
                 {t("phone")}
                 </p>
                 <a href="mailto:info@azuradeluxe.com" className="text-lagoGray2 font-jost text-[16px] font-normal leading-[20px]">
-                {t("emailAddress")} info@azuradeluxe.com
+                {t("emailAddress")} info@azuraworld.com
                 </a>
                 <p className="text-lagoGray2 font-jost text-[16px] font-normal leading-[20px] ">
                   {t("ourAddress")}   Türkler Mah.  

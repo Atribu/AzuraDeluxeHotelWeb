@@ -9,7 +9,7 @@ export default function HomePage() {
 
       {/* HERO IMAGE – MOBİL + DESKTOP */}
       <Image
-        src="/photos/azuradeluxeworldmain.jpg"
+        src="/photos/azuraworldmain.webp"
         alt="Azura Deluxe World"
         fill
         priority

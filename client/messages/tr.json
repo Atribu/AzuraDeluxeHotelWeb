@@ -96,9 +96,9 @@
     "ourpolicies": "Politikalarımız"
   },
   "Homepage": {
-    "subtitle": "Azura World Hotel Alanya’ya Hoş Geldiniz – All Inclusive Konsept",
-    "title": "5 Yıldızlı Konfor, All Inclusive Deneyim",
-    "text": "Türkler, Alanya/Antalya’da konumlanan Azura World Hotel; 2025 açılışlı 5 yıldızlı, All Inclusive konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Check-in 14:00, check-out 12:00’dir. Plaj 1 km mesafededir; plaja shuttle servis mevcuttur. Evcil hayvan kabul edilmez.",
+    "subtitle": "Azura World Hotel Alanya’ya Hoş Geldiniz – Her Şey Dahil Konsept",
+    "title": "5 Yıldızlı Konfor, Her Şey Dahil Deneyim",
+    "text": "Türkler, Alanya/Antalya’da konumlanan Azura World Hotel; 2025 açılışlı 5 yıldızlı, Her Şey Dahil konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Check-in 14:00, check-out 12:00’dir. Plaj 1 km mesafededir; plaja shuttle servis mevcuttur. Evcil hayvan kabul edilmez.",
     "buttonText": " DAHA FAZLASINI KEŞFEDİN",
     "EmblaCarousel": {
       "accommodation": "Konaklama",
@@ -110,7 +110,7 @@
     "TwoImageSection": {
       "subtitle": "AZURA WORLD’DE UNUTULMAZ ANLAR",
       "title": "Şimdi Azura World deneyimini keşfedin!",
-      "text1": "Azura World Hotel, Türkler bölgesinde All Inclusive konseptiyle hizmet verir. Konforlu oda seçenekleri, spa alanları ve gün boyu yeme-içme noktalarıyla keyifli bir tatil sunar.",
+      "text1": "Azura World Hotel, Türkler bölgesinde Her Şey Dahil konseptiyle hizmet verir. Konforlu oda seçenekleri, spa alanları ve gün boyu yeme-içme noktalarıyla keyifli bir tatil sunar.",
       "text2": "Indoor Pool, Oasis Pool ve 13 farklı kaydıraklı Aquapark ile hem dinlenme hem de eğlence seçenekleri bir aradadır. Plaj alanı 125 metredir; plajda şezlong, şemsiye, kabin, WC ve duş imkânları mevcuttur.",
       "buttonText": " Galeriye Git"
     },
@@ -138,7 +138,7 @@
       "text1": "125 metrelik plaj alanında 120 şezlong ve 60 şemsiye bulunur; kabin, WC ve duş imkânları mevcuttur. Plaj 1 km mesafededir; plaja shuttle servis sağlanır.",
       "title2": "Havuzlar & Aquapark",
       "text2": "Indoor Pool (1 ana + 1 çocuk havuzu), Oasis Pool ve 13 kaydıraklı Aquapark alanı mevcuttur. Aquapark saatleri: 10:00–12:00 / 14:00–17:00. Indoor Pool ısıtması sezonluk uygulanır (belirli tarihlerde).",
-      "title3": "All Inclusive Yeme-İçme",
+      "title3": "Her Şey Dahil Yeme-İçme",
       "text3": "Milos Restaurant’ta (Floor B) kahvaltı/öğle/akşam büfeleri; Saffron A’la Carte (rezervasyonlu); Patisserie Art’ta tatlı servisi; Azura Beach’te snack & beverage servisi sunulur.",
       "title4": "Çocuklar İçin",
       "text4": "Mini Club ve çocuk oyun alanı ücretsiz hizmetler arasındadır. (Detaylar: TBD)",
@@ -150,8 +150,8 @@
     },
     "BackgroundSection": {
       "subtitle": "Azura World’de Konfor ve Keyif",
-      "title": "All Inclusive Tatil Deneyimi",
-      "text": "Azura World Hotel, All Inclusive konseptiyle; konaklama, yeme-içme, havuz & aquapark, spa ve ek hizmetleriyle keyifli bir tatil sunar. Saatler ve hizmetler sezon koşullarına göre değişebilir.",
+      "title": "Her Şey Dahil Tatil Deneyimi",
+      "text": "Azura World Hotel, Her Şey Dahil konseptiyle; konaklama, yeme-içme, havuz & aquapark, spa ve ek hizmetleriyle keyifli bir tatil sunar. Saatler ve hizmetler sezon koşullarına göre değişebilir.",
       "buttonText": " Daha Fazlasını Keşfedin"
     }
   },
@@ -232,7 +232,7 @@
     "BackgroundSection": {
       "subtitle": " AYRICALIKLI HİZMETLER",
       "title": " Deluxe Family Oda Avantajları",
-      "text": "All Inclusive konsept, günlük yeme-içme seçenekleri ve tesisteki imkanlarla konforlu bir konaklama sunar.",
+      "text": "Her Şey Dahil konsept, günlük yeme-içme seçenekleri ve tesisteki imkanlarla konforlu bir konaklama sunar.",
       "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
       "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
       "buttonText": " DAHA FAZLASINI KEŞFET"
@@ -293,7 +293,7 @@
     "BackgroundSection": {
       "subtitle": " AYRICALIKLI HİZMETLER",
       "title": " Superior Oda Avantajları",
-      "text": "All Inclusive konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
+      "text": "Her Şey Dahil konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
       "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
       "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
       "buttonText": " DAHA FAZLASINI KEŞFET"
@@ -351,7 +351,7 @@
     "BackgroundSection": {
       "subtitle": "  AYRICALIKLI HİZMETLER",
       "title": " Deluxe Oda Avantajları",
-      "text": "All Inclusive konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
+      "text": "Her Şey Dahil konsept ve tesis imkanlarıyla keyifli bir konaklama sunar.",
       "list1": "A’la Carte Yemek: 7 gece ve üzeri konaklamalarda 1 kez (rezervasyonlu) A’la Carte kullanım hakkı.",
       "list2": "Spa & Wellness: Indoor Pool, buhar odası, Türk hamamı, sauna ve tuz odası ücretsizdir; masaj hizmetleri ücretlidir.",
       "buttonText": " DAHA FAZLASINI KEŞFET"
@@ -511,11 +511,11 @@
   "Restaurants": {
     "subtitle": "Özenle Hazırlanmış Lezzet Deneyimleri",
     "title": "Restoranlar",
-    "text": "All Inclusive konsept kapsamında Milos Restaurant’ta büfe servisleri; Saffron A’la Carte’ta rezervasyonlu servis; Patisserie Art’ta tatlı servisi sunulur. Taze sıkma meyve suları ekstra ücretlidir.",
+    "text": "Her Şey Dahil konsept kapsamında Milos Restaurant’ta büfe servisleri; Saffron A’la Carte’ta rezervasyonlu servis; Patisserie Art’ta tatlı servisi sunulur. Taze sıkma meyve suları ekstra ücretlidir.",
     "TwoImagesSection": {
       "subtitle": "",
       "title": "Azura World’de Yeme-İçme",
-      "text": "All Inclusive konsept kapsamında, günün farklı saatlerinde farklı alanlarda servisler sunulur. Saatler sezon koşullarına göre değişebilir.",
+      "text": "Her Şey Dahil konsept kapsamında, günün farklı saatlerinde farklı alanlarda servisler sunulur. Saatler sezon koşullarına göre değişebilir.",
       "span": "Yemek Seçenekleri:",
       "list1": "Milos Restaurant (Floor B): 07:00–10:00 / 10:00–10:30 / 12:30–14:00 / 18:30–21:00",
       "list2": "Saffron A’la Carte (Floor B): 18:30–23:00 (Rezervasyonlu, 7 gece+ konaklamada 1 kez)"
@@ -777,16 +777,16 @@
     "InfoSection": {
       "subtitle": " Azura World Hotel",
       "title": "İdeal Tatil Adresiniz",
-      "text": "Azura World Hotel, Türkler/Alanya/Antalya’da konumlanan 5 yıldızlı, All Inclusive konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Evcil hayvan kabul edilmez.",
+      "text": "Azura World Hotel, Türkler/Alanya/Antalya’da konumlanan 5 yıldızlı, Her Şey Dahil konseptli bir tesistir. Toplam 188 oda, 6 kat ve 2 asansör bulunmaktadır. Evcil hayvan kabul edilmez.",
       "buttonText": "DAHA FAZLASINI KEŞFET"
     },
     "MissinonVision": {
       "subtitle": "Azura World Hotel",
       "title": " Misyonumuz ve Vizyonumuz",
-      "text": "Misyonumuz, misafirlerimize konforlu ve keyifli bir All Inclusive tatil deneyimi sunmaktır. Vizyonumuz, misafir memnuniyetini odağında tutan sürdürülebilir bir konaklama deneyimi sağlamaktır.",
+      "text": "Misyonumuz, misafirlerimize konforlu ve keyifli bir Her Şey Dahil tatil deneyimi sunmaktır. Vizyonumuz, misafir memnuniyetini odağında tutan sürdürülebilir bir konaklama deneyimi sağlamaktır.",
       "clubsubtitle1": "Azura World Hotel",
       "clubtitle1": " Neden Azura World’ü Tercih Etmelisiniz?",
-      "clubtext1": "All Inclusive konsept; Milos Restaurant, Saffron A’la Carte ve farklı servis alanları; Indoor Pool, Oasis Pool ve 13 kaydıraklı Aquapark; Spa & Wellness imkanları; ücretsiz Wi-Fi ve plaja shuttle servis ile keyifli bir tatil sunar.",
+      "clubtext1": "Her Şey Dahil konsept; Milos Restaurant, Saffron A’la Carte ve farklı servis alanları; Indoor Pool, Oasis Pool ve 13 kaydıraklı Aquapark; Spa & Wellness imkanları; ücretsiz Wi-Fi ve plaja shuttle servis ile keyifli bir tatil sunar.",
       "clubsubtitle2": "Azura World Hotel",
       "clubtitle2": " Ek Hizmetler",
       "clubtext2": "Ücretsiz hizmetler: Mini Club, Fitness Center, tenis & basketbol sahaları, plaj havlusu/şezlong, şemsiye, Wi-Fi, çocuk oyun alanı, plaja shuttle servis, balayı paketi. Ücretli hizmetler: Airport transfer, room service, kuaför, mağazalar, doktor/medikal, laundry, fotoğraf, araç kiralama, taksi, indoor parking, cabana, gondola vb.",
